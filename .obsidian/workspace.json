@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCP-XXXX.md",
+                "file": "The Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCP-XXXX"
+              "title": "The Loop"
             }
           }
         ]
@@ -212,10 +212,14 @@
   },
   "active": "3ac478b1563d6eae",
   "lastOpenFiles": [
+    "The Infinite Stalemate.md",
+    "The Loop.md",
+    "Pyrrhic Victory and Unveiling.md",
+    "The Merciful Annihilation.md",
+    "SCP-XXXX.md",
     "Relation to the foundation.md",
     "Concept.md",
     "Mechanics of the antimemetics.md",
-    "SCP-XXXX.md",
     "The Unwritten Directive.md"
   ]
 }
