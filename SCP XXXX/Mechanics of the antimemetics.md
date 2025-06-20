@@ -1,4 +1,4 @@
-
+[[SCP-XXXX]]
 1. Does it erase memories?
     
 2. Does it exist in physically or mentally

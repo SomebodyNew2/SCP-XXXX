@@ -1,4 +1,4 @@
-
+[[SCP-XXXX]]
 The SCP should feed on avoidance or suppression, I’m going to build off of my previous story I made.
 
 - “You're trying not to think about it. But that's exactly what it wants.”

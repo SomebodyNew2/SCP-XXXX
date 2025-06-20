@@ -1,0 +1,1 @@
+[[SCP-XXXX]] is the chains that holds him.
