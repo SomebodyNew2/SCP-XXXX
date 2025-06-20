@@ -1,0 +1,3 @@
+Commonly interacts with site personnel and is a former field agent, possibly charismatic. Capable of extremely fast movement speed which could be related to #High-Court-Magic-Army. They were able to find the [[Black Queen]], a trans-dimensional entity that doesn't want to be found, or extremely hard to find and they were able to do this consistently. 
+
+Male. Australian (Koori) descent. Canadian origin. Mid-40s. No unusual appearance. Assigned female at birth. Trans/Non-binary?
