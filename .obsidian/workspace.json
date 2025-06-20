@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb02812d95533908",
+        "id": "515d2aa68d430c5f",
         "type": "tabs",
         "children": [
           {
-            "id": "98eedcc100702581",
+            "id": "00309bb8afe4594e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -218,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98eedcc100702581",
+  "active": "00309bb8afe4594e",
   "lastOpenFiles": [
     "Hubs/Chaos Insurgency.md",
     "Chaos Insurgency/Chaos Insurgency.md",

@@ -1,0 +1,1950 @@
+{
+  "nodePositions": [
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-3/05-3.md",
+      "x": -8941.115234375,
+      "y": -9944.2109375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-3/The Kid, or The All Seeing Eye.md",
+      "x": -9129.138671875,
+      "y": -10464.1767578125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-3/The Philosopher Scientist.md",
+      "x": -6283.73583984375,
+      "y": -11352.0947265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-3/The Beacon.md",
+      "x": -9424.365234375,
+      "y": -10258.568359375
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/1st Occult War.md",
+      "x": 1775.4381103515625,
+      "y": 31104.517578125
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/Occult war.md",
+      "x": 1978.0706787109375,
+      "y": 31508.326171875
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/2nd Occult War.md",
+      "x": 1531.9356689453125,
+      "y": 31405.671875
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/3rd Occult War.md",
+      "x": 1623.9637451171875,
+      "y": 31785.203125
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/4th Occult War.md",
+      "x": 2165.77978515625,
+      "y": 31103.69921875
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/5th Occult War.md",
+      "x": 2418.507568359375,
+      "y": 31404.263671875
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/6th Occult War.md",
+      "x": 1981.7396240234375,
+      "y": 31952.703125
+    },
+    {
+      "id": "O5-Council/The Foundation/Occult War/7th Occult War.md",
+      "x": 2338.552001953125,
+      "y": 31787.443359375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/05-5.md",
+      "x": -17961.087890625,
+      "y": -6533.431640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/Black Bird.md",
+      "x": -19403.64453125,
+      "y": -6758.27734375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/The Ordinary Man.md",
+      "x": -18581.1171875,
+      "y": -6598.02734375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/The Entrepreneur, Or The Treasurer.md",
+      "x": -19408.8125,
+      "y": -6407.2158203125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-6/05-6.md",
+      "x": -13395.5888671875,
+      "y": -7146.21142578125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/05-7.md",
+      "x": -9497.8994140625,
+      "y": 302.0577087402344
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/Manifest Destiny.md",
+      "x": -18335.03125,
+      "y": -6851.86083984375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-5/The Black Cat.md",
+      "x": -18409.498046875,
+      "y": -6271.0390625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-6/The Figurehead or, The Elder.md",
+      "x": -14488.9736328125,
+      "y": -7244.86083984375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-6/The Puppet.md",
+      "x": -14193.6708984375,
+      "y": -7507.294921875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/Green.md",
+      "x": -7735.81103515625,
+      "y": 1774.727294921875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/05-8.md",
+      "x": -5691.60205078125,
+      "y": -2409.74658203125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/The Unlikely.md",
+      "x": -9931.5966796875,
+      "y": 655.8815307617188
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/Teeth.md",
+      "x": -10260.150390625,
+      "y": 500.9407958984375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/The Immortal.md",
+      "x": -10039.111328125,
+      "y": 202.32693481445312
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/The Newbie or, The Lesser.md",
+      "x": -5611.33740234375,
+      "y": 1266.76708984375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/Dogwood.md",
+      "x": -2748.3271484375,
+      "y": -2410.41845703125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/The Forgotten.md",
+      "x": -4578.67529296875,
+      "y": -3904.035400390625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/The Heretic.md",
+      "x": -5158.65185546875,
+      "y": -107.58944702148438
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/05-9.md",
+      "x": -470.3455505371094,
+      "y": -6124.556640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/The Lovers or, The Willow.md",
+      "x": -185.48606872558594,
+      "y": -6668.9541015625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/The Secret Keeper.md",
+      "x": -748.507080078125,
+      "y": -6343.2021484375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/The Oracle.md",
+      "x": -542.9996948242188,
+      "y": -6647.0380859375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/The Archivist 05-10.md",
+      "x": -22883.18359375,
+      "y": -11559.73046875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/05-10.md",
+      "x": -20690.994140625,
+      "y": -10355.447265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/Stone.md",
+      "x": -23009.990234375,
+      "y": -11254.0283203125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/05-11.md",
+      "x": -7483.615234375,
+      "y": -4451.98388671875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/The Assassin.md",
+      "x": -21301.69921875,
+      "y": -10368.7822265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/The Veteran or, The Mad General.md",
+      "x": -21443.822265625,
+      "y": -10699.703125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Mailman.md",
+      "x": -5159.5048828125,
+      "y": -7531.3857421875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/05-12.md",
+      "x": -11300.7255859375,
+      "y": -2427.8876953125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Liar or, The Father of Lies.md",
+      "x": -8208.0322265625,
+      "y": -4410.90625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Reclusive.md",
+      "x": -7657.7744140625,
+      "y": -4829.88525390625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Turncloak.md",
+      "x": -7960.19873046875,
+      "y": -4971.18603515625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/Adam.md",
+      "x": -12354.337890625,
+      "y": -2483.088623046875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/The Contractor.md",
+      "x": -12247.61328125,
+      "y": -2110.7744140625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/The Trainmen or, The Conductor.md",
+      "x": -8195.841796875,
+      "y": 735.7138671875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/Cyrus.md",
+      "x": -12008.2060546875,
+      "y": -2598.752197265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/AI Complex.md",
+      "x": -18634.884765625,
+      "y": -1423.5904541015625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/05-13.md",
+      "x": -17595.68359375,
+      "y": -1873.4693603515625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/Death.md",
+      "x": -18313.69921875,
+      "y": -1562.2198486328125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/Tamlin.md",
+      "x": -12736.4228515625,
+      "y": -1327.0296630859375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/The Meddler.md",
+      "x": -18436.958984375,
+      "y": -1950.88818359375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/The Pedestrian.md",
+      "x": -18760.51171875,
+      "y": -1794.5205078125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-2-Past.md",
+      "x": 26374.603515625,
+      "y": 2856.69873046875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/Caesar Past.md",
+      "x": 26271.98828125,
+      "y": 2473.32568359375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-3-Past.md",
+      "x": 26389.517578125,
+      "y": 1779.9063720703125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-4-Past.md",
+      "x": 26129.107421875,
+      "y": 2061.8671875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-5-Past.md",
+      "x": 27097.365234375,
+      "y": 1971.9622802734375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-6-Past.md",
+      "x": 26788.14453125,
+      "y": 1775.2686767578125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-7-Past.md",
+      "x": 26758.283203125,
+      "y": 2832.837646484375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-8-Past.md",
+      "x": 19844.048828125,
+      "y": 1933.2767333984375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-9-Past.md",
+      "x": 27079.3984375,
+      "y": 2617.123046875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-10-Past.md",
+      "x": 21905.431640625,
+      "y": 663.2525634765625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-11-Past.md",
+      "x": 25978.560546875,
+      "y": 2484.275146484375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/Administrator-Past.md",
+      "x": 27057.3515625,
+      "y": 2284.813720703125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-2-Current.md",
+      "x": 32781.26953125,
+      "y": 9761.3408203125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/Caesar Current.md",
+      "x": 32087.62890625,
+      "y": 9791.541015625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-3-Current.md",
+      "x": 33106.6640625,
+      "y": 10028.015625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-4-Current.md",
+      "x": 33234.171875,
+      "y": 9685.703125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-5-Current.md",
+      "x": 32924.359375,
+      "y": 9062.76953125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-6-Current.md",
+      "x": 32425.978515625,
+      "y": 9483.841796875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-7-Current.md",
+      "x": 32547.021484375,
+      "y": 9150.6337890625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-8-Current.md",
+      "x": 32788.21875,
+      "y": 10207.08984375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-9-Current.md",
+      "x": 32498.447265625,
+      "y": 9971.66796875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-10-Current.md",
+      "x": 33246.71875,
+      "y": 9290.1826171875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-11-Current.md",
+      "x": 32877.55859375,
+      "y": 9435.7666015625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/Administrator-Current.md",
+      "x": 31454.732421875,
+      "y": 10266.9111328125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-2317.md",
+      "x": 22180.09375,
+      "y": 26320.0703125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1374.md",
+      "x": 21565.826171875,
+      "y": 25896.970703125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1273/SCP-1273-A.md",
+      "x": 21381.2578125,
+      "y": 28117.734375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1273/SCP-1273.md",
+      "x": 20398.28125,
+      "y": 27660.080078125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-12-Past.md",
+      "x": 26677.90234375,
+      "y": 2445.299072265625
+    },
+    {
+      "id": "O5-Council/The Foundation/Tales/Ethics Committee/Ethics committee.md",
+      "x": -40441.8515625,
+      "y": -33706.0078125
+    },
+    {
+      "id": "O5-Council/The Foundation/Tales/Tales.md",
+      "x": -40551.86328125,
+      "y": -33402.1875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/Eve.md",
+      "x": -8025.162109375,
+      "y": -10866.42578125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/The Founder.md",
+      "x": -6354.39013671875,
+      "y": -12673.015625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-1-Past.md",
+      "x": 26577.126953125,
+      "y": 2102.4775390625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Senator.md",
+      "x": -8242.2470703125,
+      "y": -4776.12255859375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/Important people/Mr. Huang.md",
+      "x": 32319.005859375,
+      "y": 5319.6611328125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/Captain. Kirby's proposal.md",
+      "x": 31411.833984375,
+      "y": 5501.658203125
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/Important people/Nobody.md",
+      "x": 32135.947265625,
+      "y": 5042.7587890625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/Ethics committee Caesar.md",
+      "x": 30455.40234375,
+      "y": 6633.171875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/@(data lost).md",
+      "x": -12183.125,
+      "y": -17129.6875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators.md",
+      "x": -12400.138671875,
+      "y": -16467.501953125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/Ethan Horrowitz.md",
+      "x": -12786.6650390625,
+      "y": -17412.439453125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/Agnes Peterson.md",
+      "x": -8398.8583984375,
+      "y": -17400.494140625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/Frederic Williams.md",
+      "x": -12814.0458984375,
+      "y": -16407.603515625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/Kismet.md",
+      "x": -12824.9462890625,
+      "y": -16795.626953125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/Spider.md",
+      "x": -12597.1259765625,
+      "y": -17031.291015625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/The 'Middleman'.md",
+      "x": -12429.5205078125,
+      "y": -17415.07421875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/The Archaeologist.md",
+      "x": -13230.583984375,
+      "y": -16954.515625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/The 'Official'.md",
+      "x": -13081.1796875,
+      "y": -17260.17578125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/The Duke.md",
+      "x": -12243.84375,
+      "y": -16787.98046875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/Administrators/Administrators/The Failsafe.md",
+      "x": -13162.4267578125,
+      "y": -16591.318359375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/The Accountant.md",
+      "x": -6108.88330078125,
+      "y": -2963.677978515625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/Jings.md",
+      "x": -4070.150146484375,
+      "y": -4102.87109375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/Misfortune.md",
+      "x": 2168.6826171875,
+      "y": -4979.681640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/Magnolia.md",
+      "x": -3155.21337890625,
+      "y": -2876.61474609375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-6/Cowboy or, The American.md",
+      "x": -6809.49609375,
+      "y": -5453.26220703125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/The Tiebreaker.md",
+      "x": -9491.8681640625,
+      "y": -2563.87646484375
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-13-Current.md",
+      "x": 31332.802734375,
+      "y": 8786.26953125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-1.md",
+      "x": 18626.18359375,
+      "y": 28845.037109375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564.md",
+      "x": 18116.2578125,
+      "y": 28676.958984375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-2.md",
+      "x": 19278.279296875,
+      "y": 29018.259765625
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-3.md",
+      "x": 19082.78125,
+      "y": 29396.51953125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-4.md",
+      "x": 18632.955078125,
+      "y": 29342.826171875
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-5.md",
+      "x": 18888.244140625,
+      "y": 29077.40625
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-6.md",
+      "x": 19017.130859375,
+      "y": 28687.201171875
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-12-Current.md",
+      "x": 33679.30859375,
+      "y": 9510.9736328125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/The Professor or, The Heretic.md",
+      "x": -6347.19580078125,
+      "y": 3513.41162109375
+    },
+    {
+      "id": "O5-Council/The Foundation/Tales/Ecce Perago.md",
+      "x": -40739.21875,
+      "y": -33139.12890625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
+      "x": 27766.853515625,
+      "y": 4442.4873046875
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/Chaos Insurgency.md",
+      "x": -13619.7314453125,
+      "y": 5340.2587890625
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/The Engineer.md",
+      "x": -14408.978515625,
+      "y": 5461.58056640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/The Outsider or, The Ordinary.md",
+      "x": 7594.763671875,
+      "y": -5030.83984375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/Site Director/Roger Langley.md",
+      "x": 17870.396484375,
+      "y": 23609.37890625
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/Site-23.md",
+      "x": 20095.546875,
+      "y": 25083.66796875
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1597.md",
+      "x": 19657.28125,
+      "y": 23400.220703125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-3888.md",
+      "x": 20563.650390625,
+      "y": 25396.32421875
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-6003.md",
+      "x": 20130.5546875,
+      "y": 23980.50390625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-1-Current.md",
+      "x": 20957.248046875,
+      "y": 17005.388671875
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1704.md",
+      "x": 16111.478515625,
+      "y": 22193.083984375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/SCPs with no Site/SCP-887/SCP-887 Log.md",
+      "x": 12454.056640625,
+      "y": 14867.609375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/SCPs with no Site/SCP-887/SCP-887.md",
+      "x": 12376.2724609375,
+      "y": 16651.611328125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/SCPs/SCP-1487.md",
+      "x": 20528.052734375,
+      "y": 24486.123046875
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-19/Facility 23/Facility 23.md",
+      "x": -417.3257751464844,
+      "y": 48008.0234375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-19/Facility 23/SCP-914.md",
+      "x": 1031.000732421875,
+      "y": 44219.3984375
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-23/Site Director/Eriksson.md",
+      "x": 20794.568359375,
+      "y": 25138.419921875
+    },
+    {
+      "id": "O5-Council/Hubs/Experiment Log 914/Part XIV/Part XIV.md",
+      "x": 10342.140625,
+      "y": 17747.416015625
+    },
+    {
+      "id": "O5-Council/Hubs/Experiment Log 914/Experiment Log 914.md",
+      "x": 9283.671875,
+      "y": 16622.80859375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/The Activist.md",
+      "x": -21099.61328125,
+      "y": -1286.61572265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-8/The Terse.md",
+      "x": -6134.89599609375,
+      "y": -2465.2197265625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-6/The Experiment.md",
+      "x": -14510.37109375,
+      "y": -7665.31396484375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-10/The Grand Master.md",
+      "x": -21096.75,
+      "y": -10815.6298828125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-7/The Cardinal.md",
+      "x": -7477.1826171875,
+      "y": 1180.220458984375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-13/The Persian.md",
+      "x": -21033.201171875,
+      "y": -972.8411254882812
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Bureaucrat.md",
+      "x": -7878.27783203125,
+      "y": -4370.85009765625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-12/The Physician.md",
+      "x": -11899.82421875,
+      "y": -2179.699462890625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-3/The Hermit.md",
+      "x": -6119.13720703125,
+      "y": -10517.9873046875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-9/Out-Of-Place.md",
+      "x": -35.80945587158203,
+      "y": -6350.30126953125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-11/The Keeper or, The Warden.md",
+      "x": -6017.404296875,
+      "y": 2600.392578125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/Frost.md",
+      "x": -8317.3408203125,
+      "y": 4084.49609375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/05-4.md",
+      "x": -10301.888671875,
+      "y": 2556.570556640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Ambassador.md",
+      "x": -6943.75634765625,
+      "y": -1149.8310546875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Annalist.md",
+      "x": -7495.0556640625,
+      "y": 3553.741455078125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Collector.md",
+      "x": -10991.5712890625,
+      "y": 2799.76806640625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Gangster.md",
+      "x": -5868.3359375,
+      "y": 4328.02099609375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Martyr.md",
+      "x": -10775.255859375,
+      "y": 3058.5
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-4/The Veteran.md",
+      "x": -15570.4208984375,
+      "y": 6952.4443359375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05 Council.md",
+      "x": -11862.1484375,
+      "y": -6222.6162109375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/05-1.md",
+      "x": -9296.8232421875,
+      "y": -8010.80126953125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/The Man With The Infinity Gun.md",
+      "x": -7116.37890625,
+      "y": -456.3585205078125
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/The Dead Man.md",
+      "x": -9871.634765625,
+      "y": -8156.20068359375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-1/The Visionary.md",
+      "x": -9667.0205078125,
+      "y": -8432.8857421875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/05-2.md",
+      "x": -10541.408203125,
+      "y": -11460.15625
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/He Who Waits.md",
+      "x": -11280.3916015625,
+      "y": -11861.4755859375
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/The Archivist 05-2.md",
+      "x": -11036.3544921875,
+      "y": -11621.513671875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/The Gardener.md",
+      "x": -11017.48046875,
+      "y": -12144.3466796875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/The Nazarene.md",
+      "x": -5693.9453125,
+      "y": -12644.388671875
+    },
+    {
+      "id": "O5-Council/The Foundation/05 Council/05-2/The Way.md",
+      "x": -10684.5419921875,
+      "y": -12024.9912109375
+    },
+    {
+      "id": "O5-Council/Proposals/ROUNDERHOUSE's Bone Proposal/ROUNDERHOUSE's Bone Proposal.md",
+      "x": -7404.51318359375,
+      "y": 5604.09375
+    },
+    {
+      "id": "O5-Council/Proposals/MisterFrown's Proposal-J/MisterFrown's Proposal-J.md",
+      "x": -7034.77294921875,
+      "y": 5610.7333984375
+    },
+    {
+      "id": "O5-Council/Proposals/djkaktus's Proposal III/djkaktus's Proposal III.md",
+      "x": -7032.109375,
+      "y": 5080.59375
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Darkness On the Face of the Deep.md",
+      "x": -6796.626953125,
+      "y": 5346.69482421875
+    },
+    {
+      "id": "Chaos Insurgency/Chaos Insurgency.md",
+      "x": -7046.2607421875,
+      "y": 4647.99658203125
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/Asymptomatic Carrier.md",
+      "x": -10190.0126953125,
+      "y": 10878.9541015625
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/Gate of Janus.md",
+      "x": -10317.2158203125,
+      "y": 11259.4921875
+    },
+    {
+      "id": "O5-Council/Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/The Ant.md",
+      "x": -9703.982421875,
+      "y": 11528.2802734375
+    },
+    {
+      "id": "Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Darkness On the Face of the Deep.md",
+      "x": -9645.580078125,
+      "y": 10596.8955078125
+    },
+    {
+      "id": "Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/Asymptomatic Carrier.md",
+      "x": -10010.912109375,
+      "y": 11392.634765625
+    },
+    {
+      "id": "Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/Gate of Janus.md",
+      "x": -9483.3046875,
+      "y": 11184.79296875
+    },
+    {
+      "id": "Chaos Insurgency/Collected data/Tales/Darkness On the Face of the Deep/Tales/The Ant.md",
+      "x": -9823.6650390625,
+      "y": 11014.1640625
+    },
+    {
+      "id": "Chaos Insurgency/The Engineer.md",
+      "x": -6724.2294921875,
+      "y": 2576.551513671875
+    },
+    {
+      "id": "Hubs/Chaos Insurgency.md",
+      "x": -11430.087890625,
+      "y": 4901.3095703125
+    },
+    {
+      "id": "Hubs/Foundation After Midnight Radio Hub.md",
+      "x": 18378.896484375,
+      "y": 22485.357421875
+    },
+    {
+      "id": "Hubs/Experiment Log 914/Experiment Log 914.md",
+      "x": 2843.54638671875,
+      "y": 39250.2734375
+    },
+    {
+      "id": "Hubs/Experiment Log 914/Part XIV/Part XIV.md",
+      "x": 8177.2197265625,
+      "y": 27777.2890625
+    },
+    {
+      "id": "O5-Council/Proposals/Bright - The Factory/Important people/Aaron Siegel.md",
+      "x": -4751.09814453125,
+      "y": -16291.8095703125
+    },
+    {
+      "id": "Proposals/Bright - The Factory/Bright - The Factory.md",
+      "x": -5882.74462890625,
+      "y": -16545.40234375
+    },
+    {
+      "id": "Proposals/Bright - The Factory/Important people/Aaron Siegel.md",
+      "x": -5508.94921875,
+      "y": -16999.673828125
+    },
+    {
+      "id": "Proposals/Bright - The Factory/Important people/Dr. Gears.md",
+      "x": -5321.8828125,
+      "y": -14105.61328125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-1-Current.md",
+      "x": 20500.111328125,
+      "y": 18768.83203125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/Caesar Current.md",
+      "x": 30585.818359375,
+      "y": 14823.48828125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-2-Current.md",
+      "x": 30998.095703125,
+      "y": 15354.14453125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-3-Current.md",
+      "x": 31628.908203125,
+      "y": 15467.205078125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-4-Current.md",
+      "x": 31296.390625,
+      "y": 15674.916015625
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-5-Current.md",
+      "x": 31467.87890625,
+      "y": 14760.9404296875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-6-Current.md",
+      "x": 31342.56640625,
+      "y": 15224.6357421875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-7-Current.md",
+      "x": 31695.533203125,
+      "y": 15069.615234375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-8-Current.md",
+      "x": 31144.689453125,
+      "y": 14797.38671875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-9-Current.md",
+      "x": 30890.5625,
+      "y": 15017.4365234375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-10-Current.md",
+      "x": 30597.912109375,
+      "y": 15355.9208984375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-11-Current.md",
+      "x": 30892.30859375,
+      "y": 15686.4462890625
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-12-Current.md",
+      "x": 32504.8046875,
+      "y": 12313.7236328125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-13-Current.md",
+      "x": 30397.84375,
+      "y": 11913.001953125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/Administrator-Current.md",
+      "x": 30593.58203125,
+      "y": 13351.4306640625
+    },
+    {
+      "id": "O5-Council/Proposals/Captain. Kirby's proposal/Letters and Excerpts/Letter sent by the Administrator.md",
+      "x": 29939.5078125,
+      "y": 7995.9794921875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
+      "x": 29474.484375,
+      "y": 8077.6181640625
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/Captain. Kirby's proposal.md",
+      "x": 31105.138671875,
+      "y": 12068.69921875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/Ethics committee Caesar.md",
+      "x": 29853.34375,
+      "y": 10862.693359375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/Important people/Mr. Huang.md",
+      "x": 33710.79296875,
+      "y": 11858.994140625
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/Important people/Nobody.md",
+      "x": 31829.232421875,
+      "y": 12494.533203125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/Administrator-Past.md",
+      "x": 29471.91015625,
+      "y": 10525.677734375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/Caesar Past.md",
+      "x": 26483.345703125,
+      "y": 8110.07666015625
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-1-Past.md",
+      "x": 26727.666015625,
+      "y": 8827.30859375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-2-Past.md",
+      "x": 26327.81640625,
+      "y": 8728.3505859375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-3-Past.md",
+      "x": 26632.798828125,
+      "y": 8474.255859375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-4-Past.md",
+      "x": 27045.05859375,
+      "y": 8596.0439453125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-5-Past.md",
+      "x": 27031.91015625,
+      "y": 7822.1708984375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-6-Past.md",
+      "x": 26150.30078125,
+      "y": 8397.16796875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-7-Past.md",
+      "x": 26178.07421875,
+      "y": 7973.06689453125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-8-Past.md",
+      "x": 19888.904296875,
+      "y": 5271.22802734375
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-9-Past.md",
+      "x": 27185.509765625,
+      "y": 8240.78125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-10-Past.md",
+      "x": 21911.76953125,
+      "y": 3805.297607421875
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-11-Past.md",
+      "x": 26846.015625,
+      "y": 8122.92236328125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-12-Past.md",
+      "x": 26604.568359375,
+      "y": 7705.04931640625
+    },
+    {
+      "id": "Proposals/djkaktus's Proposal III/djkaktus's Proposal III.md",
+      "x": -7696.79248046875,
+      "y": 5305.349609375
+    },
+    {
+      "id": "Proposals/MisterFrown's Proposal-J/MisterFrown's Proposal-J.md",
+      "x": -7331.6474609375,
+      "y": 5237.9267578125
+    },
+    {
+      "id": "Proposals/The Great Hippo's Proposal/ROUNDERHOUSE's Bone Proposal.md",
+      "x": -7553.634765625,
+      "y": 4930.7939453125
+    },
+    {
+      "id": "Proposals/Captain. Kirby's proposal/Letters and Excerpts/Letter sent by the Administrator.md",
+      "x": 31032.755859375,
+      "y": 8266.3173828125
+    },
+    {
+      "id": "The Foundation/05 Council/05 Council.md",
+      "x": 5506.2255859375,
+      "y": -5373.1474609375
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/The Dead Man.md",
+      "x": -2609.293212890625,
+      "y": -11643.748046875
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/05-1.md",
+      "x": -1755.935546875,
+      "y": -8647.5869140625
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/Eve.md",
+      "x": -3041.74169921875,
+      "y": -12225.1328125
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/The Founder.md",
+      "x": -4138.9013671875,
+      "y": -14112.3740234375
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/The Man With The Infinity Gun.md",
+      "x": -5176.05517578125,
+      "y": 1767.0711669921875
+    },
+    {
+      "id": "The Foundation/05 Council/05-1/The Visionary.md",
+      "x": -1773.802490234375,
+      "y": -9107.1162109375
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/05-10.md",
+      "x": 13086.5322265625,
+      "y": -2794.4384765625
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/The Archivist 05-10.md",
+      "x": 16378.322265625,
+      "y": -1136.693359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/Stone.md",
+      "x": 15729.2802734375,
+      "y": -1512.7703857421875
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/05-11.md",
+      "x": 123.2701187133789,
+      "y": -4476.30859375
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/Jings.md",
+      "x": -285.9709777832031,
+      "y": -3771.280517578125
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/The Assassin.md",
+      "x": 13497.9091796875,
+      "y": -3063.266357421875
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/The Veteran or, The Mad General.md",
+      "x": 13416.6953125,
+      "y": -2488.05322265625
+    },
+    {
+      "id": "The Foundation/05 Council/05-10/The Grand Master.md",
+      "x": 13688.0341796875,
+      "y": -2747.2548828125
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Bureaucrat.md",
+      "x": 822.0191040039062,
+      "y": -4550.55517578125
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Keeper or, The Warden.md",
+      "x": -4408.1357421875,
+      "y": 3263.70849609375
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Liar or, The Father of Lies.md",
+      "x": 632.2197875976562,
+      "y": -4836.89111328125
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Reclusive.md",
+      "x": 639.4751586914062,
+      "y": -4261.6982421875
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Mailman.md",
+      "x": -2619.59228515625,
+      "y": -9043.072265625
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Senator.md",
+      "x": 279.0794372558594,
+      "y": -4859.30517578125
+    },
+    {
+      "id": "The Foundation/05 Council/05-11/The Turncloak.md",
+      "x": 314.5353088378906,
+      "y": -4235.40966796875
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/05-12.md",
+      "x": 3888.638427734375,
+      "y": -1934.6981201171875
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/Adam.md",
+      "x": 4489.109375,
+      "y": -1542.33544921875
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/Cyrus.md",
+      "x": 4512.46826171875,
+      "y": -2196.850341796875
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/05-13.md",
+      "x": 15207.240234375,
+      "y": -2650.741455078125
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/The Accountant.md",
+      "x": 1883.1510009765625,
+      "y": -2551.937255859375
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/The Contractor.md",
+      "x": 4750.31494140625,
+      "y": -1858.90673828125
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/The Physician.md",
+      "x": 4321.783203125,
+      "y": -1874.570068359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-12/The Trainmen or, The Conductor.md",
+      "x": -124.96265411376953,
+      "y": 985.0354614257812
+    },
+    {
+      "id": "O5-Council/Proposals/The Great Hippo's Proposal/SCP-001-ex.md",
+      "x": 19521.990234375,
+      "y": -4760.255859375
+    },
+    {
+      "id": "Proposals/The Great Hippo's Proposal/SCP-001-ex.md",
+      "x": 19719.478515625,
+      "y": -4469.0537109375
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/AI Complex.md",
+      "x": 18801.595703125,
+      "y": -4239.53125
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/Death.md",
+      "x": 15796.8505859375,
+      "y": -2979.243896484375
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/Tamlin.md",
+      "x": 9389.099609375,
+      "y": -2016.91455078125
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/The Activist.md",
+      "x": 17434.697265625,
+      "y": -3329.704345703125
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/The Meddler.md",
+      "x": 15852.7353515625,
+      "y": -2646.359619140625
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/The Pedestrian.md",
+      "x": 23802.6953125,
+      "y": 2916.267578125
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/The Persian.md",
+      "x": 17571.931640625,
+      "y": -3032.238037109375
+    },
+    {
+      "id": "The Foundation/05 Council/05-13/The Tiebreaker.md",
+      "x": 7528.244140625,
+      "y": -2869.2734375
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/05-2.md",
+      "x": 7365.9052734375,
+      "y": -9569.6015625
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/He Who Waits.md",
+      "x": 7907.3779296875,
+      "y": -10268.7431640625
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/The Archivist 05-2.md",
+      "x": 7936.8701171875,
+      "y": -9885.2119140625
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/The Gardener.md",
+      "x": 9341.6484375,
+      "y": -7111.29443359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/The Nazarene.md",
+      "x": 3993.908447265625,
+      "y": -11850.5087890625
+    },
+    {
+      "id": "The Foundation/05 Council/05-2/The Way.md",
+      "x": 7569.87353515625,
+      "y": -10148.6787109375
+    },
+    {
+      "id": "The Foundation/05 Council/05-3/05-3.md",
+      "x": 2872.654541015625,
+      "y": -10398.771484375
+    },
+    {
+      "id": "The Foundation/05 Council/05-3/The Beacon.md",
+      "x": 3213.651611328125,
+      "y": -11104.5712890625
+    },
+    {
+      "id": "The Foundation/05 Council/05-3/The Kid, or The All Seeing Eye.md",
+      "x": 3464.60009765625,
+      "y": -10864.6328125
+    },
+    {
+      "id": "The Foundation/05 Council/05-3/The Philosopher Scientist.md",
+      "x": -538.2872924804688,
+      "y": -12647.7763671875
+    },
+    {
+      "id": "The Foundation/05 Council/05-3/The Hermit.md",
+      "x": -2086.24658203125,
+      "y": -10259.09375
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/05-4.md",
+      "x": -4248.4912109375,
+      "y": 1786.43603515625
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/Frost.md",
+      "x": -4839.37109375,
+      "y": 3444.762451171875
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Ambassador.md",
+      "x": -3489.751708984375,
+      "y": -1431.3779296875
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Annalist.md",
+      "x": -4055.57666015625,
+      "y": 2662.018310546875
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Collector.md",
+      "x": -3943.181640625,
+      "y": 1643.6654052734375
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Gangster.md",
+      "x": -4953.84375,
+      "y": 4458.2109375
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Martyr.md",
+      "x": -3915.017822265625,
+      "y": 2026.626953125
+    },
+    {
+      "id": "The Foundation/05 Council/05-4/The Veteran.md",
+      "x": -12860.5009765625,
+      "y": 6715.95654296875
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/05-5.md",
+      "x": 11534.1318359375,
+      "y": -11118.0283203125
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/Black Bird.md",
+      "x": 12620.9365234375,
+      "y": -12418.83984375
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/Manifest Destiny.md",
+      "x": 12094.25390625,
+      "y": -11628.6083984375
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/The Black Cat.md",
+      "x": 12092.7841796875,
+      "y": -11279.61328125
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/The Entrepreneur, Or The Treasurer.md",
+      "x": 12869.953125,
+      "y": -12178.8330078125
+    },
+    {
+      "id": "The Foundation/05 Council/05-5/The Ordinary Man.md",
+      "x": 11743.4072265625,
+      "y": -11693.220703125
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/05-7.md",
+      "x": 344.2137756347656,
+      "y": 2103.036376953125
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/Green.md",
+      "x": -874.83740234375,
+      "y": 3186.533447265625
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/Teeth.md",
+      "x": 834.259765625,
+      "y": 2346.3974609375
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/The Cardinal.md",
+      "x": -2278.860107421875,
+      "y": 2214.822998046875
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/The Immortal.md",
+      "x": 877.4530639648438,
+      "y": 2710.8212890625
+    },
+    {
+      "id": "The Foundation/05 Council/05-6/05-6.md",
+      "x": 4638.39794921875,
+      "y": -4632.62646484375
+    },
+    {
+      "id": "The Foundation/05 Council/05-6/Cowboy or, The American.md",
+      "x": 839.06982421875,
+      "y": -2456.501953125
+    },
+    {
+      "id": "The Foundation/05 Council/05-6/The Experiment.md",
+      "x": 5170.5966796875,
+      "y": -4900.189453125
+    },
+    {
+      "id": "The Foundation/05 Council/05-6/The Figurehead or, The Elder.md",
+      "x": 4833.92578125,
+      "y": -5063.06396484375
+    },
+    {
+      "id": "The Foundation/05 Council/05-6/The Puppet.md",
+      "x": 5121.8017578125,
+      "y": -4535.009765625
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/The Professor or, The Heretic.md",
+      "x": -4395.8037109375,
+      "y": 4587.9482421875
+    },
+    {
+      "id": "The Foundation/05 Council/05-7/The Unlikely.md",
+      "x": 513.5689086914062,
+      "y": 2682.4794921875
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/Dogwood.md",
+      "x": 2339.546142578125,
+      "y": -595.6741943359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/The Forgotten.md",
+      "x": 10839.11328125,
+      "y": 1130.8919677734375
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/05-8.md",
+      "x": 3059.12255859375,
+      "y": 485.5959167480469
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/Magnolia.md",
+      "x": 1325.419677734375,
+      "y": -1236.0765380859375
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/The Heretic.md",
+      "x": -3636.64794921875,
+      "y": 3945.4365234375
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/The Newbie or, The Lesser.md",
+      "x": -1715.6722412109375,
+      "y": 2894.07568359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-8/The Terse.md",
+      "x": 3517.009765625,
+      "y": 890.8245849609375
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/05-9.md",
+      "x": 10009.0576171875,
+      "y": -5733.8671875
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/Misfortune.md",
+      "x": 6863.4013671875,
+      "y": -4605.3193359375
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/Out-Of-Place.md",
+      "x": 10619.4150390625,
+      "y": -5698.3779296875
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/The Lovers or, The Willow.md",
+      "x": 10892.1416015625,
+      "y": -5969.615234375
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/The Oracle.md",
+      "x": 10696.9248046875,
+      "y": -6310.548828125
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/The Outsider or, The Ordinary.md",
+      "x": 11570.8115234375,
+      "y": -4703.8408203125
+    },
+    {
+      "id": "The Foundation/05 Council/05-9/The Secret Keeper.md",
+      "x": 10430.16015625,
+      "y": -6075.2314453125
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators.md",
+      "x": -508.5675964355469,
+      "y": -10223.66015625
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/Agnes Peterson.md",
+      "x": -4456.94775390625,
+      "y": -15702.525390625
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/@(data lost).md",
+      "x": -276.1754455566406,
+      "y": -11217.1767578125
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/Ethan Horrowitz.md",
+      "x": 133.11843872070312,
+      "y": -10364.3916015625
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/Kismet.md",
+      "x": -164.58082580566406,
+      "y": -10187.0751953125
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/Frederic Williams.md",
+      "x": -3932.0849609375,
+      "y": -3371.451171875
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/Spider.md",
+      "x": -413.6351013183594,
+      "y": -10908.109375
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/The 'Middleman'.md",
+      "x": -696.431884765625,
+      "y": -10565.7763671875
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/The 'Official'.md",
+      "x": -753.6146850585938,
+      "y": -10942.0029296875
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/The Archaeologist.md",
+      "x": -199.76646423339844,
+      "y": -10631.7119140625
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/The Duke.md",
+      "x": 58.78417205810547,
+      "y": -11028.1923828125
+    },
+    {
+      "id": "The Foundation/05 Council/Administrators/Administrators/The Failsafe.md",
+      "x": 227.41036987304688,
+      "y": -10713.998046875
+    },
+    {
+      "id": "The Foundation/Important Foundation Members/Black Queen.md",
+      "x": -2720.9521484375,
+      "y": -5026.0185546875
+    },
+    {
+      "id": "The Foundation/Important Foundation Members/Rianne Langley.md",
+      "x": 18522.705078125,
+      "y": 22911.625
+    },
+    {
+      "id": "O5-Council/Hubs/Chaos Insurgency.md",
+      "x": -14407.8193359375,
+      "y": 3502.1005859375
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Adelaide Fredricks.md",
+      "x": 18845.3046875,
+      "y": 23867.068359375
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Alto Clef.md",
+      "x": -3715.975341796875,
+      "y": 3192.8623046875
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Kondraki.md",
+      "x": -5304.70849609375,
+      "y": 3479.4462890625
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Lloyd.md",
+      "x": 16434.431640625,
+      "y": 29036.787109375
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Wright.md",
+      "x": 18592.390625,
+      "y": 24590.078125
+    },
+    {
+      "id": "The Foundation/MTF/Alpha-1.md",
+      "x": -13648.9794921875,
+      "y": 3931.53564453125
+    },
+    {
+      "id": "The Foundation/Important Scientists/Dr. Joseph Tamlin.md",
+      "x": -1588.3349609375,
+      "y": -1331.6402587890625
+    },
+    {
+      "id": "The Foundation/Occult War/5th Occult War.md",
+      "x": -21298.1640625,
+      "y": 11049.1767578125
+    },
+    {
+      "id": "The Foundation/Occult War/1st Occult War.md",
+      "x": -30647.203125,
+      "y": 16075.232421875
+    },
+    {
+      "id": "The Foundation/Occult War/Occult war.md",
+      "x": -29652.234375,
+      "y": 15946.1650390625
+    },
+    {
+      "id": "The Foundation/Occult War/2nd Occult War.md",
+      "x": -30687.68359375,
+      "y": 16536.564453125
+    },
+    {
+      "id": "The Foundation/Occult War/3rd Occult War.md",
+      "x": -30371.365234375,
+      "y": 16362.0615234375
+    },
+    {
+      "id": "The Foundation/Occult War/4th Occult War.md",
+      "x": -30284.251953125,
+      "y": 16751
+    },
+    {
+      "id": "The Foundation/Occult War/7th Occult War.md",
+      "x": -29993.400390625,
+      "y": 16461.173828125
+    },
+    {
+      "id": "The Foundation/Occult War/6th Occult War.md",
+      "x": -30243.9765625,
+      "y": 16001.9697265625
+    },
+    {
+      "id": "The Foundation/Sites/Site-19/Site-19.md",
+      "x": -1186.9432373046875,
+      "y": 49241.69921875
+    },
+    {
+      "id": "The Foundation/Sites/SCPs with no Site/SCP-887/SCP-887 Log.md",
+      "x": 10237.8349609375,
+      "y": 18799.67578125
+    },
+    {
+      "id": "The Foundation/Sites/SCPs with no Site/SCP-887/SCP-887.md",
+      "x": 10938.875,
+      "y": 19162.2109375
+    },
+    {
+      "id": "The Foundation/Sites/Site-19/Facility 23/Facility 23.md",
+      "x": -920.625244140625,
+      "y": 47686.07421875
+    },
+    {
+      "id": "The Foundation/Sites/Site-19/Facility 23/SCP-914.md",
+      "x": 565.7765502929688,
+      "y": 43912.078125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1487.md",
+      "x": 15662.3525390625,
+      "y": 24295.46484375
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1273/SCP-1273.md",
+      "x": 10897.880859375,
+      "y": 28744.67578125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1273/SCP-1273-A.md",
+      "x": 11716.5849609375,
+      "y": 29520.455078125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1597.md",
+      "x": 15311.705078125,
+      "y": 23478.439453125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/SCPs with no Site/SCP-3379.md",
+      "x": 12503.419921875,
+      "y": 19328.337890625
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-88/SCP-1868.md",
+      "x": 11847.794921875,
+      "y": 19563.923828125
+    },
+    {
+      "id": "O5-Council/The Foundation/Sites/Site-26/SCP-3729.md",
+      "x": 12077.107421875,
+      "y": 19249.705078125
+    },
+    {
+      "id": "The Foundation/Sites/SCPs with no Site/SCP-3379.md",
+      "x": 12269.3056640625,
+      "y": 19579.74609375
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1374.md",
+      "x": -5738.25439453125,
+      "y": 26238.0234375
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1704.md",
+      "x": 8145.923828125,
+      "y": 22946.095703125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-2317.md",
+      "x": -11472.4189453125,
+      "y": 26177.666015625
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/Site Director/Eriksson.md",
+      "x": 12369.591796875,
+      "y": 20170.853515625
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-6003.md",
+      "x": 14510.5908203125,
+      "y": 23822.884765625
+    },
+    {
+      "id": "O5-Council/The Foundation/Important Foundation Members/Rianne Langley.md",
+      "x": 17990.62109375,
+      "y": 21802.17578125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/Site Director/Roger Langley.md",
+      "x": 17477.568359375,
+      "y": 22129.94140625
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-1.md",
+      "x": -21135.12890625,
+      "y": 33255.01953125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564.md",
+      "x": -18963.611328125,
+      "y": 32734.44921875
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-2.md",
+      "x": -21544.748046875,
+      "y": 33792.9921875
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-3.md",
+      "x": -21477.21875,
+      "y": 33056.55859375
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-4.md",
+      "x": -21851.232421875,
+      "y": 33317.3828125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-5.md",
+      "x": -21186.275390625,
+      "y": 33633.24609375
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-1564/SCP-1564-6.md",
+      "x": -21565.8984375,
+      "y": 33450.453125
+    },
+    {
+      "id": "The Foundation/Tales/Ecce Perago.md",
+      "x": -381.4256896972656,
+      "y": -3043.0322265625
+    },
+    {
+      "id": "The Foundation/Tales/Tales.md",
+      "x": 8287.5908203125,
+      "y": 445.5702819824219
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/Site-23.md",
+      "x": 5082.869140625,
+      "y": 26166.939453125
+    },
+    {
+      "id": "The Foundation/Sites/Site-23/SCPs/SCP-3888.md",
+      "x": 4111.3017578125,
+      "y": 26340.744140625
+    },
+    {
+      "id": "The Foundation/Sites/Site-77/SCP-2515 (Napoleon Bonaparte).md",
+      "x": -14749.681640625,
+      "y": 7354.0859375
+    },
+    {
+      "id": "The Foundation/Sites/Site-26/SCP-3729.md",
+      "x": 12475.5302734375,
+      "y": 19810.5625
+    },
+    {
+      "id": "The Foundation/Sites/Site-88/SCP-1868.md",
+      "x": 11935.0859375,
+      "y": 19906.3125
+    },
+    {
+      "id": "The Foundation/Tales/Ethics Committee/Ethics committee.md",
+      "x": 21861.712890625,
+      "y": 5644.916015625
+    }
+  ],
+  "automaticallyRestoreNodePositions": false
+}
