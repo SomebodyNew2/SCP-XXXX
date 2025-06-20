@@ -1,0 +1,1 @@
+Facility 23 is a separate building from the main [[Site-19]] complex, housing [[SCP-914]] and various anomalous objects produced by it.

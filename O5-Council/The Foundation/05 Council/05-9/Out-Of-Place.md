@@ -1,0 +1,4 @@
+#05-9 #Forbidden-City-Convention 
+Formerly affiliated with the Inner Africa Expeditionary Society funded by King Leopold of Belgium, and are a signatory of the [Forbidden City Convention](https://scp-wiki.wikidot.com/wrong-proposal). They prompted the 05 Council to declassify a previous iteration of #SCP-1851. They carry an interest towards the concept of "anchoring reality" and set aside a trust fund to research on counter-onto kinetic stratagems, essentially leading to the discovery of Humes. Possibly in preparation against an onto kinetic threat?
+
+Male. European descent. Fluent in English, French, Dutch, and Afrikaner. Appears to be about 50.

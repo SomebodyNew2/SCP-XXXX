@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "3e2534a6383b8311",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a1d9f1b0a436c21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e24f3403565a375",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "802407e0a861f71a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Foundation/05 Council/05-4/The Gangster.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Gangster"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b39c8ac2e5002189",
+    "type": "split",
+    "children": [
+      {
+        "id": "638207ff3961dc2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e14ce34e22cb7c2f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e9ec81e71dbf012c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cde2e4f88487f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e82b132f713414b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8919754db1e3d275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06bcc3d2cfc30286",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Foundation/05 Council/05-4/The Gangster.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Gangster"
+            }
+          },
+          {
+            "id": "d168446608cf2734",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "897c812135df2d06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e2d473fe2e0f6f36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Foundation/05 Council/05 Council.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 05 Council"
+            }
+          },
+          {
+            "id": "2358a768384d4fe2",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "dbd40c25e5d69736",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "juggl:Juggl global graph": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "802407e0a861f71a",
+  "lastOpenFiles": [
+    "The Foundation/05 Council/05-5/05-5.md",
+    "The Foundation/05 Council/05-5/The Ordinary Man.md",
+    "The Foundation/05 Council/05-5/The Entrepreneur, Or The Treasurer.md",
+    "The Foundation/05 Council/05-5/The Black Cat.md",
+    "The Foundation/05 Council/05-5/Manifest Destiny.md",
+    "The Foundation/05 Council/05-5/Black Bird.md",
+    "Proposals/ROUNDERHOUSE's Bone Proposal/ROUNDERHOUSE's Bone Proposal.md",
+    "Proposals/djkaktus's Proposal III/djkaktus's Proposal III.md",
+    "Proposals/Bright - The Factory/Important people/Aaron Siegel.md",
+    "The Foundation/Important Foundation Members/Black Queen.md",
+    "Hubs/Chaos Insurgency.md",
+    "Chaos Insurgency/Chaos Insurgency.md",
+    "Proposals/Captain. Kirby's proposal/05 Council/Caesar current/05-1-Current.md",
+    "Proposals/Captain. Kirby's proposal/Ethics committee Caesar.md",
+    "Proposals/Captain. Kirby's proposal/Captain. Kirby's proposal.md",
+    "Hubs/Foundation After Midnight Radio Hub.md",
+    "Diary/2025-03-19.md",
+    "Diary/2025-04-01.md",
+    "Diary/2025-03-04.md",
+    "Diary/2025-03-03.md",
+    "Diary/2025-02-27.md",
+    "Diary/2025-02-26.md",
+    "Chaos Insurgency/The Engineer.md",
+    "The Foundation/MTF/Alpha-1.md",
+    "The Foundation/05 Council/05-6/The Puppet.md",
+    "Proposals/Captain. Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
+    "Excalidraw",
+    "Chaos Insurgency.zip",
+    "The Foundation/Images/Mr. Huang's conversation to 05-12.png",
+    "The Foundation/Images/Letter from The Administrator.png",
+    "The Foundation/Sites/Site-77",
+    "Chaos Insurgency/Further Research/Untitled",
+    "Proposals/MisterFrown's Proposal-J",
+    "Proposals/djkaktus's Proposal III/Untitled",
+    "Proposals/djkaktus's Proposal III",
+    "Proposals/ROUNDERHOUSE's Bone Proposal",
+    "Chaos Insurgency/Documented Accounts",
+    "Chaos Insurgency/Further Research",
+    "Untitled.canvas",
+    "Pasted image 20250227114058.png",
+    "Pasted image 20250226214919.png",
+    "Untitled 1.canvas"
+  ]
+}

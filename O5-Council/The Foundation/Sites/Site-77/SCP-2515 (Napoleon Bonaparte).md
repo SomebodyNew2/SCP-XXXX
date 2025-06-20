@@ -1,0 +1,1 @@
+[Napoleon Bonaparte](https://scp-wiki.wikidot.com/scp-2515).

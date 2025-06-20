@@ -1,0 +1,9 @@
+{
+  "accentColor": "#9265fb",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "hide-graph"
+  ],
+  "cssTheme": "Minimal"
+}

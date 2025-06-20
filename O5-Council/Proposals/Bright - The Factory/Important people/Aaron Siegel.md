@@ -1,0 +1,1 @@
+Aaron Siegel is mentioned to be [[The Founder]] in [[Bright - The Factory]]'s proposal, in this it is discussed that he has a fiancée [[Agnes Peterson]] as well as how the SCP foundation came into existence and how SCPs were "created".

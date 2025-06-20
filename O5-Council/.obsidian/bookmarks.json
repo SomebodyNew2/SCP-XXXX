@@ -1,0 +1,193 @@
+{
+  "items": [
+    {
+      "type": "graph",
+      "ctime": 1741053920535,
+      "title": "Arm Graph",
+      "options": {
+        "collapse-filter": false,
+        "search": "",
+        "showTags": false,
+        "showAttachments": false,
+        "hideUnresolved": false,
+        "showOrphans": false,
+        "collapse-color-groups": false,
+        "colorGroups": [
+          {
+            "query": "file:\"05 Council\"",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "tag:#05-1",
+            "color": {
+              "a": 1,
+              "rgb": 16663363
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-2\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-3\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-4\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431473
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-5\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5419488
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-6\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-7\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 11621088
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-8\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701233
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-9\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 14701138
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-9\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 16098048
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-10\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 11657298
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-11\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431378
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-12\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5431473
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/05-13\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5419488
+            }
+          },
+          {
+            "query": "path:\"The Foundation/05 Council/Administrators\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5395168
+            }
+          },
+          {
+            "query": "file:\"Chaos Insurgency",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "path:\"The Foundation/Occult War\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 5395121
+            }
+          },
+          {
+            "query": "path:\"The Foundation/Proposals/Captain. Kirby's proposal/05 Council/Caesar past\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 3604735
+            }
+          },
+          {
+            "query": "path:\"The Foundation/Proposals/Captain. Kirby's proposal/05 Council/Caesar current\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 16711680
+            }
+          },
+          {
+            "query": "tag:#SCP-001  ",
+            "color": {
+              "a": 1,
+              "rgb": 16777215
+            }
+          },
+          {
+            "query": "path:\"The Foundation/Sites/Site-23\"  ",
+            "color": {
+              "a": 1,
+              "rgb": 7198565
+            }
+          },
+          {
+            "query": "path:Diary  ",
+            "color": {
+              "a": 1,
+              "rgb": 0
+            }
+          }
+        ],
+        "collapse-display": false,
+        "showArrow": true,
+        "textFadeMultiplier": -3,
+        "nodeSizeMultiplier": 1.8378892733564,
+        "lineSizeMultiplier": 1,
+        "collapse-forces": false,
+        "centerStrength": 0,
+        "repelStrength": 20,
+        "linkStrength": 0.821799307958478,
+        "linkDistance": 30,
+        "scale": 0.02523406715204674,
+        "close": true
+      }
+    }
+  ]
+}

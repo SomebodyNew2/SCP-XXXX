@@ -1,0 +1,1 @@
+He got a promotion from a Site Director to and 05. Throughout the logs he talked about Site-23 and held one of the highest positions, a Site Director. The only available options for the current 05-1 are [[Roger Langley]] and [[Eriksson]]. 
