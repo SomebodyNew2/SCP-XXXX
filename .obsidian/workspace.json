@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "30111efc332d3229",
+    "id": "565f86aeffdde7ba",
     "type": "split",
     "children": [
       {
-        "id": "5eee6e94e21737e8",
+        "id": "01954e6e221983bd",
         "type": "tabs",
         "children": [
           {
-            "id": "faf8c8b8ffadf635",
+            "id": "f074c300a7e64f85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "601e4cf6b1ad15f9",
+    "id": "464f8462e71361d4",
     "type": "split",
     "children": [
       {
-        "id": "5093615eb066dd6d",
+        "id": "1eb3e0813c6acd19",
         "type": "tabs",
         "children": [
           {
-            "id": "40b0d3a541cc8dab",
+            "id": "9ee7f14727c85742",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "5ba4f987e8e6bb5f",
+            "id": "cb7c00dc6b7e9f13",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "16dd69f749c09387",
+            "id": "8fd2cdc5401cbe0a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
   "right": {
-    "id": "10cb3b102e627751",
+    "id": "e7211755b8e09f7b",
     "type": "split",
     "children": [
       {
-        "id": "582bfc1a3f940d54",
+        "id": "7dbd14d3f6dd88a6",
         "type": "tabs",
         "children": [
           {
-            "id": "70b981f13a135209",
+            "id": "4c60e971c0bc28f1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCP-XXXX.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SCP-XXXX"
+              "title": "Backlinks for Welcome"
             }
           },
           {
-            "id": "8994c5784dc3a12d",
+            "id": "dbb1bfeb3de10284",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCP-XXXX.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SCP-XXXX"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
-            "id": "b5ba6d414dbd5ecc",
+            "id": "cffb71ae13b37df4",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,38 +137,18 @@
             }
           },
           {
-            "id": "b012f7e4ac790ac2",
+            "id": "dc5b712e923d0c3a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCP-XXXX.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCP-XXXX"
-            }
-          },
-          {
-            "id": "15544ae8dcbe710c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "43f5c872a8b3f496",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "title": "Outline of Welcome"
             }
           }
         ]
@@ -182,30 +166,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "faf8c8b8ffadf635",
+  "active": "f074c300a7e64f85",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King.md",
-    "SCP XXXX/Outcomes/Outcomes.md",
-    "SCP XXXX/Outcomes/The Merciful Annihilation.md",
-    "SCP XXXX/Outcomes/The Loop.md",
-    "SCP XXXX/Outcomes/The Infinite Stalemate.md",
-    "SCP XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
-    "SCP XXXX/SCP-XXXX.md",
-    "SCP XXXX/The Unwritten Directive.md",
-    "SCP XXXX/Relation to the foundation.md",
-    "SCP XXXX/Concept.md",
-    "SCP XXXX/Mechanics of the antimemetics.md",
-    "Scarlet King",
-    "Untitled.md",
-    "SCP XXXX",
-    "SCP XXXX/Outcomes"
+    "Welcome.md"
   ]
 }
