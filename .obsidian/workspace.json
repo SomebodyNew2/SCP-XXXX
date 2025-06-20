@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Relation to the foundation.md",
+                "file": "SCP-XXXX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Relation to the foundation"
+              "title": "SCP-XXXX"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "3ac478b1563d6eae",
   "lastOpenFiles": [
-    "Concept.md",
     "Relation to the foundation.md",
+    "Concept.md",
     "Mechanics of the antimemetics.md",
     "SCP-XXXX.md",
     "The Unwritten Directive.md"
