@@ -181,12 +181,32 @@
             "state": {
               "type": "juggl_nodes",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "1b786040603cfee5",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "b90ebaadeadc1b32",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
               "icon": "ag-node-list",
               "title": "Juggl nodes"
             }
           },
           {
-            "id": "1b786040603cfee5",
+            "id": "1e8c60a9b37b6aa9",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
