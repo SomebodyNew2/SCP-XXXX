@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3e8c546d4ea929c3",
+        "id": "bb02812d95533908",
         "type": "tabs",
         "children": [
           {
-            "id": "0f6654456db26788",
+            "id": "98eedcc100702581",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -164,8 +164,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "2af53d74e8890bd3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -173,6 +184,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-tts:Text to Speech": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -184,7 +198,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e14ce34e22cb7c2f",
+  "active": "98eedcc100702581",
   "lastOpenFiles": [
     "Hubs/Chaos Insurgency.md",
     "Chaos Insurgency/Chaos Insurgency.md",
