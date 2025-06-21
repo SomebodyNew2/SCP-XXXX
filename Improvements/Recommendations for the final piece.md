@@ -17,7 +17,7 @@ We're walking a delicate line by giving the SCP a _will_ without making it a bei
 
 ### 2. **Clarify the Loop Mechanism with the Engineer as Anchor**
 
-This is a brilliant way to tie the past (SCP-5000 and the Civil War) to the present (the current status of SCP-XXXX). If the **Engineer is the last consistent anchor** across timelines, we could do the following:
+Tie the past (SCP-5000 and the Civil War) to the present (the current status of SCP-XXXX). If the **Engineer is the last consistent anchor** across timelines, we could do the following:
 
 - Reveal the loops gradually through broken logs, partial reconstructions, or fractured dreams.
     
@@ -30,7 +30,7 @@ This is a brilliant way to tie the past (SCP-5000 and the Civil War) to the pres
 > 
 > - Name the loop event: e.g., “The Null Recurrence,” “The Ω Cycle,” or “Directive Delta-0.”
 >     
-> - Use temporal distortion effects in logs (“File corrupt — timestamp anomaly detected: year listed as 194█, system date: 202█”).
+> - Use temporal distortion effects in logs (“File corrupt — timestamp anomaly detected: year listed as 192█, system date: 202█”).
 >     
 > - Show the Engineer _deliberately causing_ a loop reset in one fragment, which breaks normal causality.
 >     
@@ -86,7 +86,7 @@ To maintain distance from SCP-055 and its "you forget it when you think about it
 
 ### 6. **Use the Scarlet King’s “Children” as Indicators of Chain Strength**
 
-The insight about SCP-231, SCP-682, etc., being his children . Use them as **“alarms”** that signal when the final chain is weakening.
+The insight about SCP-231, SCP-682, etc, being his children. Use them as **“alarms”** that signal when the final chain is weakening.
 
 - Each child could exhibit **escalating instability** as the SCP becomes known.
     
