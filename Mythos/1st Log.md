@@ -1,1 +1,1 @@
-“Reynolds Report: Memory Stability Log 7”)? It could tie the [[Tale/The Unwritten Directive|The Unwritten Directive]] directly into the SCP file and help bridge tale + entry.
+“Reynolds Report: Memory Stability Log 7”?  This could tie the [[Tale/The Unwritten Directive|The Unwritten Directive]] directly into the SCP file and help bridge tale + entry.
