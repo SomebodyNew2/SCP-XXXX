@@ -105,7 +105,7 @@ The insight about SCP-231, SCP-682, etc, being his children. Use them as **“al
 
 ### 7. **Resolve/Refine the Outcomes**
 
-Let’s sharpen the four endings from earlier critique:
+Sharpen the four endings from earlier critique:
 
 - **Merciful Annihilation**: Rename it “The Hollow Salvation.” Position it not as a goal, but as a _calculated choice by the Chaos higher-ups_ when the loops show no other option.
     
