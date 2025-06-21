@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCP XXXX/Concept clarification.md",
+                "file": "Mythos/1st Log.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concept clarification"
+              "title": "1st Log"
             }
           }
         ]
@@ -170,6 +170,9 @@
   },
   "active": "f074c300a7e64f85",
   "lastOpenFiles": [
+    "SCP XXXX/Concept clarification.md",
+    "Mythos/1st Log.md",
+    "Mythos",
     "SCP XXXX/Concept.md",
     "Improvements/Structure For SCP Hybrid Entry.md",
     "Improvements/Strengths.md",
@@ -183,7 +186,6 @@
     "Tale",
     "SCP XXXX/SCP-XXXX.md",
     "SCP XXXX/The Unwritten Directive.md",
-    "SCP XXXX/Concept clarification.md",
     "Improvements",
     "SCP XXXX/Mechanics of the antimemetics.md",
     "SCP XXXX/Relation to the foundation.md",
