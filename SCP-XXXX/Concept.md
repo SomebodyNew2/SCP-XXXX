@@ -5,10 +5,8 @@ The SCP should feed on avoidance or suppression, I’m going to build off of my 
     
 - The less acknowledged the stronger it becomes
     
-
 - The SCP foundation wasn’t aware of this when it locked it in the hazardous containment file but they unknowingly saved the world by doing so.
     
-
 - Attempts to suppress thoughts of it, causes obsession, dreams, hallucinations, or compulsions.
     
 - It “infiltrates” minds and systems designed to ignore or suppress it

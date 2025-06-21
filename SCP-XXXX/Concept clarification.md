@@ -1,7 +1,7 @@
 [[Concept]]
 
 1. Although I state that they are secret protectors of humanity who kill to keep knowledge hidden, what I truly meant was that the higher ups, the ones that determine what the lower ranks do know about and are trying to keep the knowledge hidden, which plays into the fact that nobody actually knows what the higher ups of the foundation actually wants 
-2. I was indeed planning on adding log hints as to the direction of the world and what outcome it is leading to 
+2. I was planning on adding log hints as to the direction of the world and what outcome it is leading to 
 3. The Chaos IS antagonistic to the Foundation, they think they're a thumb in the plan on preventing the descent of the Scarlet King 
 4. 1940 was a typo I meant to say "1924"  
 5. Because the records are done under the Foundation, I wanted to make it so that the Foundation doesn't realise that SCP-XXXX is what's actually preventing the descent of the Scarlet King, so they mark the file as Keter and lock it in a cognito hazard vault which in term sparks its power, which then gets picked up by the Foundation which may cause them to look into the SCP which will also in term weakens the SCP which would cause the descent of the Scarlet King 
