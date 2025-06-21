@@ -11,10 +11,14 @@
             "id": "f074c300a7e64f85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SCP XXXX/Concept clarification.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Concept clarification"
             }
           }
         ]
@@ -160,11 +164,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ee7f14727c85742",
+  "active": "f074c300a7e64f85",
   "lastOpenFiles": [
+    "SCP XXXX/Concept.md",
+    "Improvements/Structure For SCP Hybrid Entry.md",
+    "Improvements/Strengths.md",
+    "Improvements/Recommendations for the final piece.md",
+    "Improvements/Notes.md",
+    "Tale/Critiques.md",
+    "Tale/Improvement.md",
+    "Tale/Expansion into the mythos.md",
+    "Tale/Strengthening the tale.md",
+    "Tale/The Unwritten Directive.md",
+    "Tale",
+    "SCP XXXX/SCP-XXXX.md",
+    "SCP XXXX/The Unwritten Directive.md",
+    "SCP XXXX/Concept clarification.md",
+    "Improvements",
+    "SCP XXXX/Mechanics of the antimemetics.md",
+    "SCP XXXX/Relation to the foundation.md",
+    "SCP XXXX/Outcomes/The Infinite Stalemate.md",
+    "SCP XXXX/Outcomes/Outcomes.md",
+    "SCP XXXX/Outcomes/The Loop.md",
+    "SCP XXXX/Outcomes/The Merciful Annihilation.md",
+    "SCP XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
     "Welcome.md"
   ]
 }

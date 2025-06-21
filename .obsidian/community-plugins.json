@@ -1,3 +1,7 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "highlightr-plugin",
+  "obsidian-minimal-settings",
+  "omnisearch",
+  "persistent-graph"
 ]
