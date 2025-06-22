@@ -1,48 +1,41 @@
 {
   "main": {
-    "id": "30111efc332d3229",
+    "id": "8b3de56878fa6d2e",
     "type": "split",
     "children": [
       {
-        "id": "5eee6e94e21737e8",
+        "id": "9c8f75f97b5ab332",
         "type": "tabs",
         "children": [
           {
-            "id": "faf8c8b8ffadf635",
+            "id": "6a8406cc46f6608a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "716d027343d26a63",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics of the antimemetics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mechanics of the antimemetics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "601e4cf6b1ad15f9",
+    "id": "062957c9585ac0bb",
     "type": "split",
     "children": [
       {
-        "id": "5093615eb066dd6d",
+        "id": "189ea10c2614a789",
         "type": "tabs",
         "children": [
           {
-            "id": "40b0d3a541cc8dab",
+            "id": "8e3ac4d98fbaba91",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,7 +48,7 @@
             }
           },
           {
-            "id": "5ba4f987e8e6bb5f",
+            "id": "6d5d6360df56cae0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +65,7 @@
             }
           },
           {
-            "id": "16dd69f749c09387",
+            "id": "2f8ea1b209a3852e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,20 +81,19 @@
     "width": 300
   },
   "right": {
-    "id": "10cb3b102e627751",
+    "id": "1985fb69b1a4d658",
     "type": "split",
     "children": [
       {
-        "id": "582bfc1a3f940d54",
+        "id": "bf921d2fa271c4b3",
         "type": "tabs",
         "children": [
           {
-            "id": "70b981f13a135209",
+            "id": "37bb6dd9362aae5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCP-XXXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SCP-XXXX"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "8994c5784dc3a12d",
+            "id": "2bcb1315ef78bbab",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCP-XXXX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SCP-XXXX"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b5ba6d414dbd5ecc",
+            "id": "84e857cf2c83d9a1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,38 +135,17 @@
             }
           },
           {
-            "id": "b012f7e4ac790ac2",
+            "id": "00757d7baf1bafe1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCP-XXXX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCP-XXXX"
-            }
-          },
-          {
-            "id": "15544ae8dcbe710c",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "43f5c872a8b3f496",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
+              "title": "Outline"
             }
           }
         ]
@@ -193,50 +163,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40b0d3a541cc8dab",
+  "active": "6a8406cc46f6608a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "SCP Relations/SCP-682.md",
-    "SCP Relations/SCP-999.md",
-    "SCP Relations/SCP-2317.md",
-    "SCP Relations",
-    "Mythos/Narrative ideas for SCP-XXXX.md",
-    "Mythos/1st Log.md",
-    "Mythos",
-    "Tale/The Unwritten Directive.md",
-    "Tale/Strengthening the tale.md",
-    "Tale/Improvement.md",
-    "Tale/Expansion into the mythos.md",
-    "Tale/Critiques.md",
-    "Tale",
-    "SCP-XXXX/Outcomes/The Loop.md",
-    "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
-    "SCP-XXXX/Outcomes/The Hollow Salvation.md",
-    "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
-    "SCP-XXXX/Outcomes/Outcomes.md",
-    "SCP-XXXX/SCP-XXXX.md",
-    "SCP-XXXX/Relation to the foundation.md",
-    "SCP-XXXX/Outcomes",
-    "SCP-XXXX/Concept.md",
-    "SCP-XXXX/Mechanics of the antimemetics.md",
-    "SCP-XXXX/Concept clarification.md",
-    "SCP-XXXX",
-    "Improvements/Recommendations for the final piece.md",
-    "Improvements/Strengths.md",
-    "Improvements/Structure For SCP Hybrid Entry.md",
-    "Improvements/Notes.md",
-    "Improvements",
-    "Scarlet King/Scarlet King.md",
-    "Scarlet King",
-    "SCP XXXX",
-    "SCP XXXX/Outcomes"
+    "SCP-XXXX.md"
   ]
 }

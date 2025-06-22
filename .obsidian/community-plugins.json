@@ -1,12 +1,7 @@
 [
-  "table-editor-obsidian",
-  "obsidian-excalidraw-plugin",
   "obsidian-git",
   "highlightr-plugin",
-  "juggl",
   "obsidian-minimal-settings",
   "omnisearch",
-  "quickadd",
-  "supercharged-links-obsidian",
-  "templater-obsidian"
+  "persistent-graph"
 ]

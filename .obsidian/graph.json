@@ -8,28 +8,28 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Scarlet King",
+      "query": "File: Scarlet King",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "file:SCP-XXXX",
+      "query": "File: SCP-XXXX",
       "color": {
         "a": 1,
         "rgb": 16777215
       }
     },
     {
-      "query": "path:\"SCP XXXX/Outcomes\"  ",
+      "query": "path: SCP-XXXX/Outcomes  ",
       "color": {
         "a": 1,
-        "rgb": 14686746
+        "rgb": 12719124
       }
     },
     {
-      "query": "path:\"SCP XXXX\"  ",
+      "query": "path: ",
       "color": {
         "a": 1,
         "rgb": 5431378
@@ -46,6 +46,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.33575387040986066,
+  "scale": 0.16966831297178403,
   "close": false
 }
