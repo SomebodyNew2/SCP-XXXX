@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Improvements/Recommendations for the final piece.md",
+                "file": "Tale/Expansion into the mythos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recommendations for the final piece"
+              "title": "Expansion into the mythos"
             }
           }
         ]
@@ -168,37 +168,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9ee7f14727c85742",
+  "active": "f074c300a7e64f85",
   "lastOpenFiles": [
-    "SCP-XXXX/Outcomes/The Loop.md",
-    "SCP-XXXX/Outcomes/The Hollow Salvation.md",
-    "Improvements/Recommendations for the final piece.md",
-    "Improvements/Strengths.md",
-    "Mythos/1st Log.md",
-    "Mythos/Narrative ideas for SCP-XXXX.md",
-    "Scarlet King/Scarlet King.md",
-    "SCP Relations/SCP-2317.md",
+    "Tale/Critiques.md",
     "SCP-XXXX/Mechanics of the antimemetics.md",
     "SCP-XXXX/Concept clarification.md",
-    "SCP-XXXX/Concept.md",
+    "SCP-XXXX/Relation to the foundation.md",
+    "SCP-XXXX/SCP-XXXX.md",
+    "SCP-XXXX/Outcomes/The Hollow Salvation.md",
+    "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
+    "Mythos/1st Log.md",
     "SCP Relations/SCP-999.md",
     "SCP Relations/SCP-682.md",
+    "Mythos/Narrative ideas for SCP-XXXX.md",
+    "Improvements/Recommendations for the final piece.md",
+    "SCP-XXXX/Outcomes/The Loop.md",
+    "Improvements/Strengths.md",
+    "Scarlet King/Scarlet King.md",
+    "SCP Relations/SCP-2317.md",
+    "SCP-XXXX/Concept.md",
     "Tale/The Unwritten Directive.md",
     "SCP Relations",
     "SCP-XXXX/Outcomes/Outcomes.md",
     "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
-    "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
     "Mythos",
     "Improvements/Structure For SCP Hybrid Entry.md",
     "Improvements/Notes.md",
-    "Tale/Critiques.md",
     "Tale/Improvement.md",
     "Tale/Expansion into the mythos.md",
     "Tale/Strengthening the tale.md",
     "Tale",
-    "SCP-XXXX/SCP-XXXX.md",
     "SCP XXXX/The Unwritten Directive.md",
-    "Improvements",
-    "SCP-XXXX/Relation to the foundation.md"
+    "Improvements"
   ]
 }
