@@ -1,2 +1,3 @@
-#CMA
+#CMA #The-Christian-Ministries-of-America
+
 An ecumenical Christian advocacy group with a history of abuse and secret ties to the Scarlet King led by [[Elder Rockwell]]. This organisation appeared to have merged the religion of the Scarlet King with evangelical Christianity, interpreting him as an archangel of God and actively attempt to enforce this belief to their members and rid the world of those who do not conform to their ideals. Another Christian iteration was the Church of Jesus Christ the King in Scarlet which was raided by the Foundation during Operation MAGNOLIA.

@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "01954e6e221983bd",
+        "id": "0a71e2a05b1db401",
         "type": "tabs",
         "children": [
           {
-            "id": "f074c300a7e64f85",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: .gitignore"
-            }
-          },
-          {
-            "id": "be32af8cf1c10f86",
+            "id": "28f578093b3c9124",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "The Children"
+            }
+          },
+          {
+            "id": "d8987262c78a297e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Children"
+            }
+          },
+          {
+            "id": "cb2717c4e129f96d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Christian Ministries of America"
+            }
+          },
+          {
+            "id": "9ac237a2e4ce9f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Important people/Jonah Godwinson.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Jonah Godwinson"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Christian Ministries of America"
             }
           },
           {
@@ -127,11 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Christian Ministries of America"
             }
           },
           {
@@ -155,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of The Christian Ministries of America"
             }
           },
           {
@@ -174,8 +204,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,40 +222,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "be32af8cf1c10f86",
+  "active": "cb2717c4e129f96d",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/Abridged Retirement Proposal.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/6140.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/SCP-001 Ihp or Locke Proposal.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6659.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6140.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities/The Children's Activities.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities",
-    "Scarlet King/Scarlet King Relationships/Important people/Thomas Bruce.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Salah Zairi.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Master John Yttoric.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Jonathan Baker.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Elder Rockwell.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Agent Rodríguez.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Christian Ministries of America/The Christian Ministries of America.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Christian Ministries of America",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/URA-9521.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/Scarlet Covenant.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Verdant Covenant.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Violet Covenant.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides/Seven Scarlet Brides.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Scarlet Children.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Scarlet Spawn.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Holy Beasts.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Dipesh Spivak.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Hester Maliz.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Martin Cook.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jack Ruby.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Everett the March Hare.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Edward Day.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Edith Godwinson.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jonah Godwinson.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Writings of Alberto Weider-Hoffman.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Eponymous Children of the Scarlet King.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Durham.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Evan Boothe.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Frank Derikson.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Donny Armstrong.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Ms. Amherst.md",
+    "Scarlet King/Scarlet King Relationships/Important people/John Thomas.md",
+    "Scarlet King/Scarlet King Relationships/Important people/James Thomas.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Father Whatley.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Alberto Weider-Hoffman.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Aleksandr Scriabin.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Georga.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Sam.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Ashley.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Amy.md",
+    "Scarlet King/Scarlet King Relationships/Important people/David.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Andrew.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Christian Ministries of America",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure",
