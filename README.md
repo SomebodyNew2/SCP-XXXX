@@ -1,0 +1,1 @@
+Everything relevant to SCP-XXXX in relation to the Scarlet King in known lore, this will eventually be completely sorted through for timeline differences among other things and when that is done, this message will be deleted.
