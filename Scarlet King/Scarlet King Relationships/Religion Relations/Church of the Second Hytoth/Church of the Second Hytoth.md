@@ -1,0 +1,1 @@
+[Church of the Second Hytoth](https://hero.fandom.com/wiki/Church_of_the_Second_Hytoth "w:c:hero:Church of the Second Hytoth") 

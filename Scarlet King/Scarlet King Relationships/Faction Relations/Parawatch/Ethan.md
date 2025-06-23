@@ -1,0 +1,1 @@
+Ethan who befriended a member of the [[Parawatch]] was apart of [[The Children]]. Ethan led this [[Individual from Parawatch]]to an old abandoned church that was taken over by the cult, where the individual's mind and personality was shattered after encountering the force of the [[Scarlet King]].

@@ -1,0 +1,1 @@
+One of the seven heroes who took down the evil god.

@@ -1,3 +1,5 @@
+[[SCP-XXXX]]
+
 | Section                            | Content                                                                                                                               |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
 | **Item #: SCP-XXXX**               | Object Class: ~~Keter~~ → Apollyon (internally reclassified to Thaumiel by CI records)                                                |

@@ -1,0 +1,1 @@
+The Imit People emasculated the [[Scarlet King]].

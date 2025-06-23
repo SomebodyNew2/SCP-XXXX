@@ -8,37 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "faf8c8b8ffadf635",
+            "id": "035d27b0448f78f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Restaurant in Backdoor Soho/Scarlet Calamari.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scarlet Calamari"
             }
           },
           {
-            "id": "716d027343d26a63",
+            "id": "19e1d2d63f539914",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "8cf400b378be587f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Lily Church.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Red Lily Church"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Christian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCP-XXXX.md",
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Lily Church.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SCP-XXXX"
+              "title": "Backlinks for Red Lily Church"
             }
           },
           {
@@ -192,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,42 +208,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cf400b378be587f",
+  "active": "19e1d2d63f539914",
   "lastOpenFiles": [
-    "SCP-XXXX/Concept.md",
-    "SCP-XXXX/Concept clarification.md",
-    "SCP-XXXX/Mechanics of the antimemetics.md",
-    "SCP-XXXX/Relation to the foundation.md",
-    "Tale/Critiques.md",
-    "Tale/Expansion into the mythos.md",
-    "Tale/Improvement.md",
-    "Tale/Strengthening the tale.md",
-    "Tale/The Unwritten Directive.md",
-    "Improvements/Recommendations for the final piece.md",
-    "Improvements/Strengths.md",
-    "Improvements/Structure For SCP Hybrid Entry.md",
-    "Mythos/1st Log.md",
-    "SCP-XXXX/SCP-XXXX.md",
-    "Mythos/Narrative ideas for SCP-XXXX.md",
-    "Scarlet King/Scarlet King.md",
-    "conflict-files-obsidian-git.md",
-    "SCP Relations/SCP-682.md",
-    "SCP Relations/SCP-999.md",
-    "SCP Relations/SCP-2317.md",
-    "SCP Relations",
-    "Mythos",
-    "Tale",
-    "SCP-XXXX/Outcomes/The Loop.md",
-    "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
-    "SCP-XXXX/Outcomes/The Hollow Salvation.md",
-    "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
-    "SCP-XXXX/Outcomes/Outcomes.md",
-    "SCP-XXXX/Outcomes",
-    "SCP-XXXX",
-    "Improvements/Notes.md",
-    "Improvements",
-    "Scarlet King",
-    "SCP XXXX",
-    "SCP XXXX/Outcomes"
+    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/Site-145K.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Lily Church.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Centzon Huītznāuhtin.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Alysída Ltd..md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Reypay 'Eveng or Blood Children.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4547.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Kingship Land Bridge, LLC..md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Partido de Integralismo Guatemalteco.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Guards.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Circuitous-Accelerationism.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Church of the Scarlet King.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Eponymous Children of the Scarlet King.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Writings of Alberto Weider-Hoffman.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7547.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4288.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Scarlet King's Army/Scarlet King's Army.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Order of the Iron Tigers.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Army of the New Dawn.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-616.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Iterations/The Eponymous Children of the Scarlet King",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations",
+    "Scarlet King/Scarlet King Relationships/Important people/David Nicholson.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Mythology.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6659.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6747.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/URA-9521.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Imit People",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/Daevites",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/BASALT GORGON mystery cult"
   ]
 }
