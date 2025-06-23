@@ -6,6 +6,10 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
+<<<<<<< HEAD
+  "colorGroups": [],
+  "collapse-display": false,
+=======
   "colorGroups": [
     {
       "query": "file:Scarlet King",
@@ -37,6 +41,7 @@
     }
   ],
   "collapse-display": true,
+>>>>>>> origin/SCP-XXXX
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -45,7 +50,13 @@
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
+<<<<<<< HEAD
+  "linkDistance": 250,
+  "scale": 0.13168724279835536,
+  "close": false
+=======
   "linkDistance": 500,
   "scale": 0.996662236632078,
   "close": true
+>>>>>>> origin/SCP-XXXX
 }
