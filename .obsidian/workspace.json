@@ -25,14 +25,14 @@
             "id": "19e1d2d63f539914",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "The Children"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ],
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Children"
+              "title": "Backlinks"
             }
           },
           {
@@ -185,8 +184,19 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "9f264ea8460dcff1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -210,8 +220,8 @@
   },
   "active": "19e1d2d63f539914",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King Relationships/Important people/Master John Yttoric.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Master John Yttoric.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-001 Tufto's Proposal.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
     "Scarlet King/Scarlet King Relationships/Important people/Elder Rockwell.md",
