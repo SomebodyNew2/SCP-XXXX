@@ -26,9 +26,19 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "8cf400b378be587f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -201,40 +211,40 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "40b0d3a541cc8dab",
+  "active": "8cf400b378be587f",
   "lastOpenFiles": [
+    "SCP-XXXX/Concept.md",
+    "SCP-XXXX/Concept clarification.md",
+    "SCP-XXXX/Mechanics of the antimemetics.md",
+    "SCP-XXXX/Relation to the foundation.md",
+    "Tale/Critiques.md",
+    "Tale/Expansion into the mythos.md",
+    "Tale/Improvement.md",
+    "Tale/Strengthening the tale.md",
+    "Tale/The Unwritten Directive.md",
+    "Improvements/Recommendations for the final piece.md",
+    "Improvements/Strengths.md",
+    "Improvements/Structure For SCP Hybrid Entry.md",
+    "Mythos/1st Log.md",
+    "SCP-XXXX/SCP-XXXX.md",
+    "Mythos/Narrative ideas for SCP-XXXX.md",
+    "Scarlet King/Scarlet King.md",
     "conflict-files-obsidian-git.md",
     "SCP Relations/SCP-682.md",
     "SCP Relations/SCP-999.md",
     "SCP Relations/SCP-2317.md",
     "SCP Relations",
-    "Mythos/Narrative ideas for SCP-XXXX.md",
-    "Mythos/1st Log.md",
     "Mythos",
-    "Tale/The Unwritten Directive.md",
-    "Tale/Strengthening the tale.md",
-    "Tale/Improvement.md",
-    "Tale/Expansion into the mythos.md",
-    "Tale/Critiques.md",
     "Tale",
     "SCP-XXXX/Outcomes/The Loop.md",
     "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
     "SCP-XXXX/Outcomes/The Hollow Salvation.md",
     "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
     "SCP-XXXX/Outcomes/Outcomes.md",
-    "SCP-XXXX/SCP-XXXX.md",
-    "SCP-XXXX/Relation to the foundation.md",
     "SCP-XXXX/Outcomes",
-    "SCP-XXXX/Concept.md",
-    "SCP-XXXX/Mechanics of the antimemetics.md",
-    "SCP-XXXX/Concept clarification.md",
     "SCP-XXXX",
-    "Improvements/Recommendations for the final piece.md",
-    "Improvements/Strengths.md",
-    "Improvements/Structure For SCP Hybrid Entry.md",
     "Improvements/Notes.md",
     "Improvements",
-    "Scarlet King/Scarlet King.md",
     "Scarlet King",
     "SCP XXXX",
     "SCP XXXX/Outcomes"

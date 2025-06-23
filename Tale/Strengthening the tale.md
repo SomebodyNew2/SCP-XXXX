@@ -1,3 +1,4 @@
+#Tale [[The Unwritten Directive]]
 ### 1. **Clarify the Whisper’s POV**
 
 The “whisper”/narrator voice seems to intrude at various points, but it's unclear **who or what** is speaking/thinking in lines like:

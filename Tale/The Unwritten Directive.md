@@ -1,4 +1,4 @@
-[[SCP-XXXX]]
+#Tale[[SCP-XXXX]]
 It begins with a whisper—a poisonous flicker on the screen—as if the very idea is being restrained, like a dandelion stuck in a breathless wind, no hope in sight. 
 
 “Where is it?!” A researcher cries, tumbling out in confusion, “Where has it gone?—” A state of incredulity and panic sets off in the room. A visible flicker of light manifests, as if containing something dangerous—a soft stutter in the stream of data, struck by a collective fever. More screens join in, their glitches multiplying exponentially, until finally, one remains. The sound of paper rustling is as evident as ever, a few words of discomfort still ringing through the air; are they beginning to realise what’s happened, or are they choosing to ignore it?

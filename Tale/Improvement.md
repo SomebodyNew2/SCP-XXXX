@@ -1,3 +1,5 @@
+#Tale [[The Unwritten Directive]]
+
 This one sentence:
 
 > _"The air itself exhaling and taking away the remnants of disorder, as though someone had hit a reset button on reality."_

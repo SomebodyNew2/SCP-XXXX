@@ -1,7 +1,7 @@
 
-| Sub-SCP | Conceptual Domain | Possible Containment Method          | Notes                                        |
-| ------- | ----------------- | ------------------------------------ | -------------------------------------------- |
 | -1      | _Pain_            | SCP-231-7 ritual (or variant)        | “Pain is the first gate.”                    |
+| ------- | ----------------- | ------------------------------------ | -------------------------------------------- |
+| Sub-SCP | Conceptual Domain | Possible Containment Method          | Notes                                        |
 | -2      | _Memory_          | An infohazard that erases itself     | Referenced in the Tale: anti-memetic effects |
 | -3      | _Emotion_         | SCP-999 or a sibling entity          | Innocence weaponised                         |
 | -4      | _Hatred_          | SCP-682 or 058 as a living node      | Possibly unstable                            |

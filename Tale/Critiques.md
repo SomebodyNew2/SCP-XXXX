@@ -1,3 +1,4 @@
+#Tale [[The Unwritten Directive]]
 #### 1. **Tone and Atmosphere**
 
 The blend of clinical reality with surreal psychological horror is executed very well. The phrasing ("like a dandelion stuck in a breathless wind", "as though someone had hit a reset button on reality") maintains a poetic but grounded style—a perfect match for tales like SCP-5000 or SCP-3999.
