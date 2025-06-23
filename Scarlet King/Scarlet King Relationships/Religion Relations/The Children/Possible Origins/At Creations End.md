@@ -1,0 +1,1 @@
+The Children of the Scarlet King were formed early in history. During the rise of the Scarlet King, the shockwave of his power was felt by a group of primitive humans who began to serve him.

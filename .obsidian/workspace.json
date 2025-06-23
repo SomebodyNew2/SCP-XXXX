@@ -11,14 +11,18 @@
             "id": "f074c300a7e64f85",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           },
           {
-            "id": "76e241bcbfded500",
+            "id": "be32af8cf1c10f86",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,13 +163,23 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "1905a7758b73fd35",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,9 +193,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "76e241bcbfded500",
+  "active": "be32af8cf1c10f86",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/Abridged Retirement Proposal.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/6140.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/SCP-001 Ihp or Locke Proposal.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6659.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6140.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities/The Children's Activities.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities",
+    "Scarlet King/Scarlet King Relationships/Important people/Thomas Bruce.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Salah Zairi.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Master John Yttoric.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jonathan Baker.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Elder Rockwell.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Agent Rodríguez.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Christian Ministries of America/The Christian Ministries of America.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Christian Ministries of America",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/URA-9521.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/Scarlet Covenant.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Verdant Covenant.md",
@@ -195,27 +227,9 @@
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Writings of Alberto Weider-Hoffman.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Eponymous Children of the Scarlet King.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Church of the Scarlet King.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/The Christian Ministries of America.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Reypay 'Eveng or Blood Children.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Lily Church.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Red Guards.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Partido de Integralismo Guatemalteco.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Order of the Iron Tigers.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Kingship Land Bridge, LLC..md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Circuitous-Accelerationism.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Centzon Huītznāuhtin.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Army of the New Dawn.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Alysída Ltd..md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Mythology.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF-Sigma-3.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Restaurant in Backdoor Soho",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals"
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations"
   ]
 }
