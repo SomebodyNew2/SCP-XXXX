@@ -1,3 +1,4 @@
+[[SCP-XXXX]]
 ### 1. **Justify the Will Without Consciousness**
 
 We're walking a delicate line by giving the SCP a _will_ without making it a being. To ensure this doesn’t feel like a contradiction:

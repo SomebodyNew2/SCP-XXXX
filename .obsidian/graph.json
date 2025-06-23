@@ -4,19 +4,59 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
+<<<<<<< HEAD
   "colorGroups": [],
   "collapse-display": false,
+=======
+  "colorGroups": [
+    {
+      "query": "file:Scarlet King",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "file:SCP-XXXX",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"SCP XXXX/Outcomes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14686746
+      }
+    },
+    {
+      "query": "path:\"SCP XXXX\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+>>>>>>> origin/SCP-XXXX
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
+<<<<<<< HEAD
   "linkDistance": 250,
   "scale": 0.13168724279835536,
   "close": false
+=======
+  "linkDistance": 500,
+  "scale": 0.996662236632078,
+  "close": true
+>>>>>>> origin/SCP-XXXX
 }

@@ -1,0 +1,1 @@
+opened a new restaurant in [[Makiling's Grove]]

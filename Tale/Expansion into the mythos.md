@@ -1,3 +1,4 @@
+#Tale [[The Unwritten Directive]][[SCP-XXXX]]
 ### → As a Prologue
 
 Use this as the _opening shot_ of the mythos. Frame it as the last recoverable log before SCP-XXXX reactivates or resets reality. Attach it to a corrupted data cluster labelled `[ARCHIVAL TIER: 0]` or `[UNWRITTEN DIRECTIVE LOG: -1]`.

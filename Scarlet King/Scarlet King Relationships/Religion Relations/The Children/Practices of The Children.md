@@ -1,0 +1,1 @@
+The Children engaged in a form of sacrifice known as "rank putting" in which the victim would be lacerated on a factor of seven before being drowned in saltwater, and mutilation of the reproductive organs. These practices were some of the few things that connected them to the [[Daevites]].
