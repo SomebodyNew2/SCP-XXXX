@@ -1,1 +1,0 @@
-Various written works published to mainstream public by an unknown author going under the pseudonym of Alberto Weider-Hoffman taken from Roberto Bolaño's _Nazi Literature in the Americas_ and _Distant Star_. Not much is known about this individual apart that he may have been born on September 11th, 1966 in the outskirts of Santiago, Chile, and is aware of the Foundation.

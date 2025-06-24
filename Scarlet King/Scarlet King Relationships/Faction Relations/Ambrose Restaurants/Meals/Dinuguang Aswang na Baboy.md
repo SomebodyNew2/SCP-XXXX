@@ -1,0 +1,1 @@
+a member of [[the Children]] expressed great satisfaction from their meal named Dinuguang Aswang na Baboy. This dish was created by the [[Ambrose Restaurants]].

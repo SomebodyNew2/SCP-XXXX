@@ -1,1 +1,1 @@
-Appeared to be against the [[Scarlet King]] and his followers, as SPC leader Harker was one of the seven heroes who took down the evil god.
+Appeared to be against the [[Scarlet King]] and his followers, as SPC leader [[Harker]] was one of the seven heroes who took down the evil god.

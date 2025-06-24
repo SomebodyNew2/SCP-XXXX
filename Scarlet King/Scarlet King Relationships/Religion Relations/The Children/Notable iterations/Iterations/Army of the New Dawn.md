@@ -1,0 +1,2 @@
+[[Iteration of The Children]]
+A group which sought to open a portal to the [[Scarlet King]] by executing a ritual burning of the Gregorian Calendars, while raising up blood-soaked Julian, Hijri, and Persian Solar system calendars to act as the King's effigy. Their attempt, however, was thwarted by members of the [[Serpent's Hand]], who then took their materials to the Wanderer's Library (Presumably [[The Library]].

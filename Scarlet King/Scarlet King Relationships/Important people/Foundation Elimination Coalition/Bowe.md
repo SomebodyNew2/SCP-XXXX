@@ -1,0 +1,1 @@
+Originally leader of the [[Foundation Elimination Coalition]]?

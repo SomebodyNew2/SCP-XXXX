@@ -54,15 +54,15 @@ Alabama, USA
 
 [[Dipesh Spivak]](https://villains.fandom.com/wiki/Dipesh_Spivak "Dipesh Spivak")  
 [[Elder Rockwell]]  
-[[Master John Yttoric]]  
+[[Master John Yttoric]]
 [[Thomas Bruce]](https://villains.fandom.com/wiki/SCP-140-A "[[SCP-140]]-A") (possible founder)
 
 ### Agents
 
 [[Ariadne Cartwright]]  
-[[Jack Hearst]] (formerly)  
+[[Jack-Hearst]] (formerly)  
 [Robert Montauk](https://villains.fandom.com/wiki/Robert_Montauk "Robert Montauk")  
-[Lilly](https://villains.fandom.com/wiki/SCP-4231-A "SCP-4231-A") (possibly)  
+[[Lilly]](https://villains.fandom.com/wiki/SCP-4231-A "SCP-4231-A") (possibly)  
 [[Mr. Redd]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)
 [[Jean-Pierre]]  
 [[Téan]]  

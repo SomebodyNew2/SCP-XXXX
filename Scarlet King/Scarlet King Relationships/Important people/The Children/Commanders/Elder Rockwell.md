@@ -1,0 +1,1 @@
+Has a relation to [[The Christian Ministries of America]] likely the #Iteration-Founder.

@@ -1,1 +1,0 @@
-The most common manifestation of the cult which explicitly worships the King, contain all of the thematic elements and appear to be the preferred manifestation. There were several iterations of the group, such as its 1998 iteration and its latest iteration in 2018 that was destroyed by the Foundation and GOC, and appears that only one iteration exists at a time.

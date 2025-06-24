@@ -1,0 +1,1 @@
+Served the [[Scarlet King]] by transporting the [[Scarlet King's Army]] within its stomachs to ambush their enemies, but it eventually betrayed the King and converted to [[Christianity]] to follow [[The Creator]]

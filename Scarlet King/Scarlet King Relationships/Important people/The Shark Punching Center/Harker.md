@@ -1,1 +1,1 @@
-One of the seven heroes who took down the evil god.
+SPC leader and one of the seven heroes who took down the evil god.

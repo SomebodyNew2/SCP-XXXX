@@ -1,0 +1,2 @@
+[[MTF of the SCP Foundation]]
+The [[Serpent's Hand]] allowed the [[SCP Foundation]]'s [MTF Sigma-3](https://scponecanonproject.fandom.com/wiki/Mobile_Task_Force_Sigma-3_%22Bibliographers%22 "w:c:scponecanonproject:Mobile Task Force Sigma-3 \"Bibliographers\"") to exterminate [[the Children]], among other evil cults, from [[the Library]].

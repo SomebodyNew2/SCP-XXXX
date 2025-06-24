@@ -1,0 +1,2 @@
+[[Iteration of The Children]]
+A group which sought to use blood and bones that were carved with the SCP Foundation's logo, as well as spinal fluids of several animals, to combine them with a ritual chanting in order to open a portal to the Scarlet King's realm while invoking Foundation protection. They came close to success, but a mistake in the words of the ritual caused their ceremony to end up in a massive explosion, killing and wiping out almost all of the Guards.

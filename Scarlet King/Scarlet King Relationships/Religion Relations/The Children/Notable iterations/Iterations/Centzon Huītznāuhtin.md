@@ -1,0 +1,2 @@
+[[Iteration of The Children]]
+An ancient army comprised of the followers and [[Scarlet Spawn]]s of the [[Scarlet King]]. They fought against the ancient civilization of the Toltec Empire, the predecessor of the Aztec Empire whose warriors were led by one of A'habbat's benevolent children. [[The Toltec Empire]] managed to repel the monstrous army and kill many of their beasts.
