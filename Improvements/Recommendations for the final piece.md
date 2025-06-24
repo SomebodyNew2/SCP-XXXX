@@ -7,7 +7,7 @@ We're walking a delicate line by giving the SCP a _will_ without making it a bei
     
 - Possibly describe it as a “conceptual memetic autoimmune response” that acts when a threshold of awareness is crossed.
     
-- In the logs, let researchers _disagree_ about whether it’s conscious. Some say yes, others say it's just a concept, but all feel like something is nudging them.
+- In the logs, let researchers _disagree_ about whether it’s conscious. Some say yes, others say it's just a [[concept]], but all feel like something is nudging them.
     
 
 > **Example Excerpt** (clinical):

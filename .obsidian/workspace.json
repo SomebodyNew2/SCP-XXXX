@@ -8,59 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "50c5c5992cb3027f",
+            "id": "fc1f3d92fa86205d",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "markdown",
+              "state": {
+                "file": "orphaned files output.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "orphaned files output"
+            }
+          },
+          {
+            "id": "2aef346f01ddad91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Dinuguang Aswang na Baboy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dinuguang Aswang na Baboy"
+            }
+          },
+          {
+            "id": "b94492e130be676c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "e068ca4c6ce2c7ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mr. Redd.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Mr. Redd"
-            }
-          },
-          {
-            "id": "21eb55ce0ca8ec80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF-Sigma-3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MTF-Sigma-3"
-            }
-          },
-          {
-            "id": "290b788447dd86f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Important people/The Children/Orvo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Orvo"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -92,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Christian",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,36 +114,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70b981f13a135209",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Mr. Redd.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Mr. Redd"
-            }
-          },
-          {
             "id": "8994c5784dc3a12d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SCP-XXXX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SCP-XXXX"
+              "title": "Outgoing links"
             }
           },
           {
@@ -181,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SCP-XXXX.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SCP-XXXX"
+              "title": "Outline"
             }
           },
           {
@@ -200,7 +165,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,51 +180,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "juggl:Juggl global graph": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "40b0d3a541cc8dab",
+  "active": "b94492e130be676c",
   "lastOpenFiles": [
-    "Jean-Pierre.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Jack-Hearst.md",
-    "Jack Hearst.md",
-    "Mr. Redd.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-REDD.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7264.md",
-    "Hanged King/unknown nobleman.md",
-    "Hanged King/Ambassador.md",
-    "Hanged King/Hanged King.md",
-    "Hanged King",
-    "Scarlet King/Scarlet King Relationships/Important people/Alagadda/Masked Lords of Alagadda.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshan commune.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-001-EX-A.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshans.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8231.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8166.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Meri.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Luca Armaro.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Kindred.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Reverie.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Real life/Hans Christian Andersen.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Dinuguang Aswang na Baboy.md",
+    "orphaned files output.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
+    "Giah-Rex.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6019.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5317.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4261.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith/Abrahamic faiths.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7140.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Nobody/Nobody.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8025.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-343.md",
+    "SCP-XXXX/Mechanics of the antimemetics.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6996.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Marshall, Carter and Dark Ltd/Marshall, Carter and Dark Ltd..md",
+    "Mythos/1st Log.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-582.md",
+    "A'nuht.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6462.md",
     "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF-Sigma-3.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF Alpha-1.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF of the SCP Foundation.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1981.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4982.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2522.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4221.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Church of the Scarlet King.md",
+    "A'habbat's benevolent children.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Centzon Huītznāuhtin.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Doctor Wondertainment",
+    "Hanged King",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith",
     "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc",
     "Scarlet King/Scarlet King Relationships/Faction Relations/Hefftone Assoc",
     "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Officers",
-    "Scarlet King/Scarlet King Relationships/Important people/AWCY",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Person Of Interest",
-    "Scarlet King/Scarlet King Relationships/Important people/Real life",
-    "Scarlet King/Scarlet King Relationships/Important people/Olney Ironworks"
+    "Scarlet King/Scarlet King Relationships/Important people/AWCY"
   ]
 }

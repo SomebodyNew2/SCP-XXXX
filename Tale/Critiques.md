@@ -9,7 +9,7 @@ I only showed the _effects_ of SCP-XXXX, not just telling. The fading memory, th
 
 #### 3. **Fragmented Narrative**
 
-This reads like a reality fraying at the edges—exactly the right tone for the concept. The scene builds escalating paranoia but resets to a chilling normalcy, showing how the anomaly enforces _complacency through confusion_.
+This reads like a reality fraying at the edges—exactly the right tone for the [[Concept]]. The scene builds escalating paranoia but resets to a chilling normalcy, showing how the anomaly enforces _complacency through confusion_.
 
 #### 4. **Unreliable Perception**
 

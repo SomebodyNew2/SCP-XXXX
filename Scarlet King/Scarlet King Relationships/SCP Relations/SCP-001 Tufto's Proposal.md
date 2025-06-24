@@ -2,4 +2,4 @@ The living idea of the Scarlet King about the clash between the pre-modern and m
 
 It grows and shrinks depending on the situation. Different actions have different meanings, and thus different effects. It all depends on context. The other Children never got that, but- well, they never got anything, really. They thought we were all devil worshippers, heading for violation. Only I understood the point.
 
-~ [Dipesh Spivak](https://villains.fandom.com/wiki/Dipesh_Spivak "Dipesh Spivak") in Tufto's Proposal.
+~ [[Dipesh Spivak]](https://villains.fandom.com/wiki/Dipesh_Spivak "Dipesh Spivak") in Tufto's Proposal.

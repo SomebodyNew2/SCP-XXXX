@@ -9,5 +9,7 @@
   "supercharged-links-obsidian",
   "templater-obsidian",
   "persistent-links",
-  "persistent-graph"
+  "persistent-graph",
+  "virtual-linker",
+  "find-unlinked-files"
 ]

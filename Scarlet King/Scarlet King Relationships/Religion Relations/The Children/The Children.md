@@ -3,7 +3,7 @@ The Children are known to form alliances with some organizations in order to ach
 
 The [[The Christian Ministries of America]], seem to have an animosity with the metalworking industrial conglomerate known as [[Olney Ironworks]], although they both used a compound known as BLACK FLY which served to brainwash people to their cause. Radical feminist Dunst Amherst of the Fourth Reich and [Just Girly Things](https://villains.fandom.com/wiki/Just_Girly_Things "Just Girly Things") was associated with Elder Rockwell but was unsatisfied with his work to squash the minorities she saw as problematic.
 
-Unsurprisingly, both [[Sarkicism]](https://villains.fandom.com/wiki/Sarkicism "Sarkicism") and the [[Church of the Second Hytoth]](https://hero.fandom.com/wiki/Church_of_the_Second_Hytoth "hero:[[Church of the Second Hytoth]]") are hostile to the Children, due not only their evil beliefs and practices that go against their ideals, but also due sharing the same religion with the Daevites, the two religions' mortal enemies. The #CMA even demonised their divine figures in its take of Christianity.
+Unsurprisingly, both [[Sarkicism]](https://villains.fandom.com/wiki/Sarkicism "Sarkicism") and the [[Church of the Second Hytoth]](https://hero.fandom.com/wiki/Church_of_the_Second_Hytoth) "hero:[[Church of the Second Hytoth]]") are hostile to the Children, due not only their evil beliefs and practices that go against their ideals, but also due sharing the same religion with the Daevites, the two religions' mortal enemies. The #CMA even demonised their divine figures in its take of Christianity.
 
 A member of [[Parawatch]](https://hero.fandom.com/wiki/Parawatch "hero:Parawatch") from England during their youth befriended a punk kid named [[Ethan]] who was secretly a member of the Children. Ethan led this individual to an old abandoned church that was taken over by the cult, where the individual's mind and personality was shattered after encountering the force of the Scarlet King.
 
@@ -63,7 +63,7 @@ Alabama, USA
 [[Jack-Hearst]] (formerly)  
 [Robert Montauk](https://villains.fandom.com/wiki/Robert_Montauk "Robert Montauk")  
 [[Lilly]](https://villains.fandom.com/wiki/SCP-4231-A "SCP-4231-A") (possibly)  
-[[Mr. Redd]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)
+[[Mr. Redd 1]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)
 [[Jean-Pierre]]  
 [[Téan]]  
 [[Geát]]  
