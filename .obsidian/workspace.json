@@ -53,14 +53,10 @@
             "id": "0f81926df993c15c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2317.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCP-2317"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -179,7 +175,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2317.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +184,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SCP-2317"
+              "title": "Backlinks"
             }
           },
           {
@@ -266,6 +261,9 @@
   },
   "active": "0f81926df993c15c",
   "lastOpenFiles": [
+    "Scarlet King/Scarlet King.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2317.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum/Xebiotisum.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army/Scarlet King's Army.md",
@@ -298,9 +296,6 @@
     "Scarlet King/Scarlet King Relationships/Important people/Alagadda/Masked Lords of Alagadda.md",
     "Scarlet King/Scarlet King Relationships/Important people/Administrators of the Foundation/Simon Kells.md",
     "Scarlet King/Scarlet King Relationships/Important people/AWCY/Wally Mannington.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/ΔT.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/Eluthertopia.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Hefftone Assoc/Hefftone Assoc..md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Doctor Wondertainment/Dr. Wondertainment.md"
+    "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/ΔT.md"
   ]
 }
