@@ -18,6 +18,34 @@
             }
           },
           {
+            "id": "42701b41d5f9fcac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Centzon Huītznāuhtin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Centzon Huītznāuhtin"
+            }
+          },
+          {
+            "id": "99619e2d43ed024c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Toltec Empire"
+            }
+          },
+          {
             "id": "75ffc753eb1794c6",
             "type": "leaf",
             "state": {
@@ -65,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A'habbat's benevolent children.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/A'habbat's benevolent children.md",
                 "mode": "source",
                 "source": false
               },
@@ -144,7 +172,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,13 +260,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Forbidden City Convention.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Forbidden City Convention"
+              "title": "Outline of The Toltec Empire"
             }
           },
           {
@@ -257,7 +285,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Forbidden City Convention.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +295,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Forbidden City Convention"
+              "title": "Backlinks for The Toltec Empire"
             }
           },
           {
@@ -276,12 +304,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Forbidden City Convention.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Forbidden City Convention"
+              "title": "Outgoing links from The Toltec Empire"
             }
           }
         ],
@@ -305,21 +333,27 @@
   },
   "active": "40b0d3a541cc8dab",
   "lastOpenFiles": [
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Centzon Huītznāuhtin.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/A'habbat's benevolent children.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8166.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Green.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/05-13.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4231.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Ero'Vahk.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides/A'nuht.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Francis.md",
     "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Forbidden City Convention.md",
-    "A'habbat's benevolent children.md",
-    "A'nuht.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Rituals/Giah-Rex.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Rituals",
     "Scarlet King/Scarlet King Relationships/Important people/Everett Mann.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
     "Scarlet King/Scarlet King Relationships/Important people/Mr. Redd 1.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6019.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Green.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Joseph Tamlin.md",
     "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/The Engineer.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshans.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikesh Codex.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4231.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2515 (Napoleon Bonaparte).md",
     "Dr. Alto Clef.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Aaron Siegel.md",
@@ -327,12 +361,6 @@
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Gears.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Kondraki.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05 Council.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/05-6.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Activist.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Man With The Infinity Gun.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Visionary.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Founder.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13",
