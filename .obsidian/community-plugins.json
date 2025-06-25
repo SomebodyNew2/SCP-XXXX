@@ -11,5 +11,6 @@
   "persistent-links",
   "persistent-graph",
   "virtual-linker",
-  "find-unlinked-files"
+  "find-unlinked-files",
+  "extended-graph"
 ]

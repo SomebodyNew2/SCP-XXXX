@@ -1,0 +1,4 @@
+#05-3 #Forbidden-City-Convention 
+Formerly affiliated with [[Tsars' Seers]](https://scp-int.wikidot.com/groups-of-interest-zh#TS) and are a signatory of the [[Forbidden City Convention]] (https://scp-wiki.wikidot.com/wrong-proposal). They are submissive to consensus decisions similar to [[The Philosopher Scientist]], and are potentially a [[Secret Keeper]](https://scp-wiki.wikidot.com/fragment:third-law-hub-info-c). Which is a paranormal resistance in a golden age of "normalcy". 
+
+Male. European descent. Russian origin. Appears to be about 80. A person with eerily similar characteristics to [[The Mailman]].

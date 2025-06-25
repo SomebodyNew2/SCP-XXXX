@@ -60,6 +60,20 @@
             }
           },
           {
+            "id": "41ec7523010693e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
+          },
+          {
             "id": "738a650ac243fe9c",
             "type": "leaf",
             "state": {
@@ -102,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -175,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +199,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for conflict-files-obsidian-git"
             }
           },
           {
@@ -259,43 +274,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "0f81926df993c15c",
+  "active": "41ec7523010693e7",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2317.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum/Xebiotisum.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army/Scarlet King's Army.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army/Generals of the Scarlet King.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshans.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshan commune.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu/Taronyu.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu/Taronyu Society.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/SCPs/Jonathan Baker.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Person Of Interest/Salah Zairi.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Officers/Conner Zhou.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/SCPs",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Robert Montauk.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Dr. Clef.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Person Of Interest",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Officers",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation",
-    "Scarlet King/Scarlet King Relationships/Important people/Olney Ironworks/Olney.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Olney Ironworks",
-    "Scarlet King/Scarlet King Relationships/Important people/MC&D/MC&D employee.md",
-    "Scarlet King/Scarlet King Relationships/Important people/MC&D",
-    "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/Malcolm Dam.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/George Willis.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/Amy Smith.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Foundation Elimination Coalition/Bowe.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/Jacob Montauk.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Alagadda/Masked Lords of Alagadda.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Administrators of the Foundation/Simon Kells.md",
-    "Scarlet King/Scarlet King Relationships/Important people/AWCY/Wally Mannington.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/ΔT.md"
+    "conflict-files-obsidian-git.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-89.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-145K.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-19.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Shikoku.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Honshu.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Kyushu.md",
+    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/Departments/Department of Paranormal Organisation Review.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF-Sigma-3.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF of the SCP Foundation.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/Departments",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/SCP Foundation.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Royal Office for Christian Artefacts/Royal Office for Christian Artefacts.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Royal Office for Christian Artefacts",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Bureau of Onmyō.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Holy Emperor's Council for Unearthly Matters.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/High Court Magic Army/High Court Magic Army.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/High Court Magic Army",
+    "Scarlet King/Scarlet King Relationships/Tale relations/Ecce Perago.md",
+    "Scarlet King/Scarlet King Relationships/Tale relations",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4547-B2.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Rituals/Giah-Rex.md",
+    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Rituals",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Failsafe.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Duke.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Archaeologist.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Official'.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Spider.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Middleman'.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Kismet.md"
   ]
 }
