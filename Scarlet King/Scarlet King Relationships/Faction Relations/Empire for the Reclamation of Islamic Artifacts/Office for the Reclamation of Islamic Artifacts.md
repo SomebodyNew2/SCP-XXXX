@@ -1,1 +1,1 @@
-Became the [[Empire for the Reclamation of Islamic Artifacts]]
+Became the [[Empire for the Reclamation of Islamic Artifacts]].

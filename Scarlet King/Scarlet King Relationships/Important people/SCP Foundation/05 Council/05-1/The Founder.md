@@ -1,5 +1,5 @@
 #05-1 #Founding-Member
-He is [[Agnes Peterson]] according to [[Bright - The Factory]]. 
+He is [[Agnes Peterson]] according to [[Doctor. Bright's proposal]]. 
 
 He's possibly the father of [[Dr. Gears]] which would make the [[Black Queen]] his granddaughter.
 
