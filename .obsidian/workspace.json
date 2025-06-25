@@ -4,17 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "d867007853193789",
+        "id": "90af621d63e7b1f2",
         "type": "tabs",
         "children": [
           {
-            "id": "e4c4b1dd7c211601",
+            "id": "36e78716e3042cb6",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
+            }
+          },
+          {
+            "id": "44b893d844cd650d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Activist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Activist"
+            }
+          },
+          {
+            "id": "9c6a5300ffa475ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Toltec Empire"
+            }
+          },
+          {
+            "id": "fa3e9c04b431842e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Procedure 110-Montauk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Procedure 110-Montauk"
             }
           }
         ]
@@ -135,7 +177,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
@@ -154,7 +196,8 @@
               "title": "Outgoing links"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -172,43 +215,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e4c4b1dd7c211601",
+  "active": "36e78716e3042cb6",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Dinuguang Aswang na Baboy.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7231.md",
-    "conflict-files-obsidian-git.md",
-    "orphaned files output.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Shark Punching Center/The Shark Punching Center.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Diyan Masalanta Tuba.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/UIU/UIU.md",
-    "broken links output.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
-    "Giah-Rex.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6019.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5317.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4261.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7140.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Nobody/Nobody.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8025.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-343.md",
-    "SCP-XXXX/Mechanics of the antimemetics.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6996.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Marshall, Carter and Dark Ltd/Marshall, Carter and Dark Ltd..md",
-    "Mythos/1st Log.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-582.md",
-    "A'nuht.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6462.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/The Foundation/MTF/MTF-Sigma-3.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Doctor Wondertainment",
-    "Hanged King",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith",
-    "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Hefftone Assoc",
-    "Scarlet King/Scarlet King Relationships/Important people/The Foundation/Officers",
-    "Scarlet King/Scarlet King Relationships/Important people/AWCY"
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05 Council.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/05-6.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Activist.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Man With The Infinity Gun.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Visionary.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Founder.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Dead Man.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/Eve.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/05-1.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/O5 Members/The Activist.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Unlikely.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Professor or, The Heretic.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Immortal.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Cardinal.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Teeth.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Green.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/05-7.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Way.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Gardener.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Nazarene.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Archivist 05-2.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/He Who Waits.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/05-2.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Tiebreaker.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Pedestrian.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Persian.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4"
   ]
 }

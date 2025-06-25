@@ -1,0 +1,4 @@
+#05-8
+Unclear connection to the Foundation's [Antimemetics Division](https://scp-wiki.wikidot.com/antimemetics-division-hub),  likely its leader or founder. O5-8 is so strongly affected by the memory erasing effects of anomalous antimemes that the [other O5 Council members](https://scp-wiki.wikidot.com/captain-kirby-s-proposal) must ensure they [regularly consume](https://scp-wiki.wikidot.com/we-need-to-talk-about-fifty-five) memory-enhancing mnestic drugs to avoid [forgetting](https://scp-wiki.wikidot.com/capitis) that O5-8 exists.
+
+Even [[Black Queen]] is unable to recall any personal details about this individual

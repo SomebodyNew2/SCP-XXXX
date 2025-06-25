@@ -60,7 +60,7 @@ Alabama, USA
 ### Agents
 
 [[Ariadne Cartwright]]  
-[[Jack-Hearst]] (formerly)  
+[[Jack Hearst]] (formerly)  
 [Robert Montauk](https://villains.fandom.com/wiki/Robert_Montauk "Robert Montauk")  
 [[Lilly]](https://villains.fandom.com/wiki/SCP-4231-A "SCP-4231-A") (possibly)  
 [[Mr. Redd 1]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)

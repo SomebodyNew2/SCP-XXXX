@@ -1,0 +1,2 @@
+#05-4
+Deceased, they were forced to execute a previous #05-4 and is how they gained their position. They held their position reluctantly and died a hero's death, which is suspected otherwise by #Black-Queen.

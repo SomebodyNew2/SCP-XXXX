@@ -32,14 +32,14 @@
       "query": "path:\"Religion Relations\"  ",
       "color": {
         "a": 1,
-        "rgb": 520825
+        "rgb": 64121
       }
     },
     {
-      "query": "path:\"Important people",
+      "query": "path:\"Important people\"",
       "color": {
         "a": 1,
-        "rgb": 13893887
+        "rgb": 8388863
       }
     },
     {
@@ -79,7 +79,7 @@
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
-  "linkStrength": 0.254325259515571,
+  "linkStrength": 0.0882352941176471,
   "linkDistance": 500,
   "scale": 0.0078125,
   "close": true
