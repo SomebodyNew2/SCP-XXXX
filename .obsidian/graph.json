@@ -39,7 +39,7 @@
       "query": "path:\"Important people\"",
       "color": {
         "a": 1,
-        "rgb": 8388863
+        "rgb": 16716016
       }
     },
     {
@@ -81,6 +81,6 @@
   "repelStrength": 20,
   "linkStrength": 0.0882352941176471,
   "linkDistance": 500,
-  "scale": 0.0078125,
+  "scale": 0.20022583007812494,
   "close": true
 }

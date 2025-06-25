@@ -62,8 +62,8 @@ Alabama, USA
 [[Ariadne Cartwright]]  
 [[Jack Hearst]] (formerly)  
 [Robert Montauk](https://villains.fandom.com/wiki/Robert_Montauk "Robert Montauk")  
-[[Lilly]](https://villains.fandom.com/wiki/SCP-4231-A "SCP-4231-A") (possibly)  
-[[Mr. Redd 1]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)
+[[Lilly]](https://villains.fandom.com/wiki/SCP-4231-A "[[SCP-4231]]-A") (possibly)  
+[[Mr. Redd]](https://villains.fandom.com/wiki/Mr._Redd "Mr. Redd") (possibly)
 [[Jean-Pierre]]  
 [[Téan]]  
 [[Geát]]  
@@ -92,7 +92,7 @@ Alabama, USA
 [[Durham]]  
 [[Jonah Godwinson]]  
 [[Edith Godwinson]]  
-[[Everett the March Hare]](https://scp-db.fandom.com/wiki/Everett_Mann "Everett Mann")  
+[[Everett the March Hare]](https://scp-db.fandom.com/wiki/Everett_Mann "[[Everett Mann]]")  
 [[Edward Day]]
 [[Martin Cook]]  
 [[Jack Ruby]]  
