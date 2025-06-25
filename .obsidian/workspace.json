@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "orphaned files output.md",
+                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "orphaned files output"
+              "title": "Structure"
             }
           },
           {
@@ -36,13 +36,13 @@
             }
           },
           {
-            "id": "b94492e130be676c",
+            "id": "456189eeb826c3ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -114,19 +114,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8994c5784dc3a12d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
             "id": "b5ba6d414dbd5ecc",
             "type": "leaf",
             "state": {
@@ -164,9 +151,39 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "2e9bf02acf2f3546",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "de06f3f74f095076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,10 +201,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b94492e130be676c",
+  "active": "456189eeb826c3ca",
   "lastOpenFiles": [
     "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Dinuguang Aswang na Baboy.md",
     "orphaned files output.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/The Shark Punching Center/The Shark Punching Center.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Diyan Masalanta Tuba.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/UIU/UIU.md",
+    "broken links output.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
     "Giah-Rex.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6019.md",
@@ -208,10 +229,6 @@
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1981.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4982.md",
     "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2522.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4221.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Church of the Scarlet King.md",
-    "A'habbat's benevolent children.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Centzon Huītznāuhtin.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum",
     "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu",
     "Scarlet King/Scarlet King Relationships/Faction Relations/Doctor Wondertainment",
