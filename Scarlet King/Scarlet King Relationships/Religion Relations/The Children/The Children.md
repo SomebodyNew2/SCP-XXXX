@@ -117,21 +117,21 @@ Demolish the current status of the world and establish a strength-based hierarch
 
 ### Crimes
 
-Kidnapping  
-Murder  
-Rape  
-Pedophilia  
-Cannibalism (possibly)  
-Psychological and physical torture  
-Animal cruelty  
-Indoctrination  
-Mutilation  
-Enslavement  
-War crimes  
-Hate crimes  
-Conspiracy  
-Abuse of power  
-Defilement
+#Kidnapping  
+#Murder  
+#Rape  
+#Pedophilia  
+#Cannibalism (possibly)  
+#Psychological-and-physical-torture  
+#Animal-cruelty  
+#Indoctrination  
+#Mutilation  
+#Enslavement  
+#War-crimes  
+#Hate-crimes  
+#Conspiracy  
+#Abuse-of-power  
+#Defilement
 
 ### Type of Villains
 
