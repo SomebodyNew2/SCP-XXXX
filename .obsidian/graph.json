@@ -46,6 +46,10 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
+<<<<<<< HEAD
   "scale": 0.12020944770550739,
+=======
+  "scale": 0.08317427835927642,
+>>>>>>> origin/SCP-XXXX
   "close": true
 }
