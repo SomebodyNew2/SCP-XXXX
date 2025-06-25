@@ -1,5 +1,5 @@
 #05-2
-Ancestor of #Sophia-Light. Signatory of the #Forbidden-City-Convention .
+Ancestor of [[Sophia Light]]. Signatory of the #Forbidden-City-Convention .
 
 [[Forbidden City Convention]]
 
