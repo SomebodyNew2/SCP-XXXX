@@ -1,0 +1,1 @@
+[[Chaos Insurgency]] once attacked the cult, rescuing [[Jacob Montauk]] who joined the Insurgency as gratitude.
