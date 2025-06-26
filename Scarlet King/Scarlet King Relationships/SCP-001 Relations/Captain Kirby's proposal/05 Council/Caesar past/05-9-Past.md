@@ -1,0 +1,1 @@
+This could possibly be "[[The Outsider or, The Ordinary]] this is because their are claims that O5-9 is personally close with ("[[The Archivist 05-10]]")

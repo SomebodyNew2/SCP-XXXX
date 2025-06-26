@@ -1,1 +1,1 @@
-The party known as [Nobody](https://hero.fandom.com/wiki/Nobody_\(SCP_Foundation\) "w:c:hero:Nobody (SCP Foundation)") keeps tabs on [[The Children]]and its offshoots, especially the [[Scarlet Covenant]] and their "[[Verdant Covenant]]" and "[[Violet Covenant]]" counterparts.
+The party known as [Nobody](https://hero.fandom.com/wiki/Nobody_\(SCP_Foundation\) "w:c:hero:Nobody (SCP Foundation)") keeps tabs on [[The Children]] and its offshoots, especially the [[Scarlet Covenant]] and their "[[Verdant Covenant]]" and "[[Violet Covenant]]" counterparts.

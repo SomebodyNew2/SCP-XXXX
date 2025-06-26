@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "28f578093b3c9124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Children"
-            }
-          },
-          {
             "id": "4dbc9591f6e0f017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/Jacob Montauk.md",
+                "file": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001-KING (ROUNDERHOUSE's Jade Proposal).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jacob Montauk"
+              "title": "SCP-001-KING (ROUNDERHOUSE's Jade Proposal)"
             }
           },
           {
-            "id": "9a48000f3bae7363",
+            "id": "59d736aabef51f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1 The Red Right Hand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "MTF Alpha-1 The Red Right Hand"
             }
           },
           {
-            "id": "d8987262c78a297e",
+            "id": "35d58a033c5d5e1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -62,103 +48,9 @@
               "icon": "lucide-file",
               "title": "The Children"
             }
-          },
-          {
-            "id": "cb2717c4e129f96d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1832.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCP-1832"
-            }
-          },
-          {
-            "id": "0f81926df993c15c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "badc622e6dba5909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Structure"
-            }
-          },
-          {
-            "id": "e6fa2f53132d9563",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups/Salafi Jihadism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Salafi Jihadism"
-            }
-          },
-          {
-            "id": "738a650ac243fe9c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Centzon Huītznāuhtin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Centzon Huītznāuhtin"
-            }
-          },
-          {
-            "id": "5237dcd49395e7fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/The Toltec Empire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Toltec Empire"
-            }
-          },
-          {
-            "id": "9ac237a2e4ce9f93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Important people/Jonah Godwinson.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Jonah Godwinson"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,17 +123,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1 The Red Right Hand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
-                "searchQuery": "spawn",
-                "backlinkCollapsed": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Children"
+              "title": "Backlinks for MTF Alpha-1 The Red Right Hand"
             }
           },
           {
@@ -251,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1 The Red Right Hand.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from conflict-files-obsidian-git"
+              "title": "Outgoing links from MTF Alpha-1 The Red Right Hand"
             }
           },
           {
@@ -299,8 +190,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -318,43 +208,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "9a48000f3bae7363",
+  "active": "4c60e971c0bc28f1",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/Jacob Montauk.md",
-    "conflict-files-obsidian-git.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Children/Dunst Amherst.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Children/Commanders/Elder Rockwell.md",
-    "Scarlet King/Scarlet King Relationships/Important people/Thomas Stonewall Jackson.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Ethics Committee/Ethics Committee.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Ethics Committee",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/Department of Paranormal Organisation Review.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups/Salafi Jihadism.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups/Kahanism.md",
-    "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Department of Egregorian Studies/Department of Egregorian Studies.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Department of Egregorian Studies",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-89.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-145K.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-19.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Shikoku.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Honshu.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Kyushu.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/Departments/Department of Paranormal Organisation Review.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF-Sigma-3.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF of the SCP Foundation.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/Departments",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/SCP Foundation.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Royal Office for Christian Artefacts/Royal Office for Christian Artefacts.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Royal Office for Christian Artefacts",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Bureau of Onmyō.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Holy Emperor's Council for Unearthly Matters.md"
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001-KING (ROUNDERHOUSE's Jade Proposal).md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/Red Right Hand.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Lucian Greaves.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001-EX-A.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/Doctor. Bright's proposal.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/The factory.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Letter sent by the Administrator.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain. Kirby's proposal.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain Kirby's proposal.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Mr. Huang.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/Nobody/Nobody.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Important people/Nobody.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Caesar Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Administrator-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-12-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-11-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-10-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-9-Past.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-8-Past.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/The Forgotten.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/Administrator-Current.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-13-Current.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-12-Current.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-11-Current.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-10-Current.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Letter from The Administrator.png",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Mr. Huang's conversation to 05-12.png.png",
+    "Images",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Important people",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Ethics Committee"
   ]
 }
