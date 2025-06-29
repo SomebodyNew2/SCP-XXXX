@@ -88,11 +88,12 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": false,
+    "collapse-filter": true,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
     "showOrphans": true,
+<<<<<<< HEAD
     "collapse-color-groups": false,
     "colorGroups": [
       {
@@ -171,6 +172,22 @@
     "linkDistance": 500,
     "scale": 0.0078125,
     "close": true
+=======
+    "collapse-color-groups": true,
+    "colorGroups": [],
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": true,
+    "centerStrength": 0.518713248970312,
+    "repelStrength": 10,
+    "linkStrength": 1,
+    "linkDistance": 250,
+    "scale": 1,
+    "close": false
+>>>>>>> origin/SCP-XXXX
   },
   "states": [
     {
