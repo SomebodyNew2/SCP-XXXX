@@ -8,99 +8,37 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-<<<<<<< HEAD
-      "query": "path:\"Scarlet King/Scarlet King Relationships/Religion Relations/The Children\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14352384
-      }
-    },
-    {
-      "query": "file:Scarlet King",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "file:SCP-XXXX",
-      "color": {
-        "a": 1,
-        "rgb": 16777215
-      }
-    },
-    {
-      "query": "path:\"Religion Relations\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 64121
-=======
       "query": "path:\"Faction Relations\"",
       "color": {
         "a": 1,
         "rgb": 14701138
->>>>>>> origin/SCP-XXXX
       }
     },
     {
       "query": "path:\"Important people\"",
       "color": {
         "a": 1,
-<<<<<<< HEAD
-        "rgb": 16716016
-=======
         "rgb": 14725458
->>>>>>> origin/SCP-XXXX
       }
     },
     {
       "query": "path:\"Locations\"",
       "color": {
         "a": 1,
-<<<<<<< HEAD
-        "rgb": 43002
-=======
         "rgb": 11851632
->>>>>>> origin/SCP-XXXX
       }
     },
     {
       "query": "path:\"Events\"",
       "color": {
         "a": 1,
-<<<<<<< HEAD
-        "rgb": 2763498
-      }
-    },
-    {
-      "query": "path:\"Faction Relations\"",
-      "color": {
-        "a": 1,
-        "rgb": 13958912
-=======
         "rgb": 5431378
->>>>>>> origin/SCP-XXXX
       }
     },
     {
       "query": "path:\"Religion relations\"",
       "color": {
         "a": 1,
-<<<<<<< HEAD
-        "rgb": 16746496
-      }
-    }
-  ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 3.27906574394464,
-  "lineSizeMultiplier": 1.21055363321799,
-  "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 20,
-  "linkStrength": 0.0882352941176471,
-=======
         "rgb": 5431473
       }
     },
@@ -135,7 +73,6 @@
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 0.5,
->>>>>>> origin/SCP-XXXX
   "linkDistance": 500,
   "scale": 0.0078125,
   "close": true
