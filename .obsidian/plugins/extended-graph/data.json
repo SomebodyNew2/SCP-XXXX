@@ -69,6 +69,7 @@
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
+<<<<<<< HEAD
     "showOrphans": false,
     "collapse-color-groups": false,
     "colorGroups": [
@@ -98,26 +99,51 @@
         "color": {
           "a": 1,
           "rgb": 64121
+=======
+    "showOrphans": true,
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> origin/SCP-XXXX
+    "collapse-color-groups": false,
+    "colorGroups": [
+      {
+        "query": "path:\"Faction Relations\"",
+        "color": {
+          "a": 1,
+          "rgb": 14701138
+>>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Important people\"",
         "color": {
           "a": 1,
+<<<<<<< HEAD
           "rgb": 16716016
+=======
+          "rgb": 14725458
+>>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Locations\"",
         "color": {
           "a": 1,
+<<<<<<< HEAD
           "rgb": 43002
+=======
+          "rgb": 11851632
+>>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Events\"",
         "color": {
           "a": 1,
+<<<<<<< HEAD
           "rgb": 2763498
         }
       },
@@ -126,20 +152,52 @@
         "color": {
           "a": 1,
           "rgb": 16774912
+=======
+          "rgb": 5431378
+        }
+      },
+      {
+        "query": "path:\"Religion relations\"",
+        "color": {
+          "a": 1,
+          "rgb": 5431473
+        }
+      },
+      {
+        "query": "path:\"Tale relations\"",
+        "color": {
+          "a": 1,
+          "rgb": 5419488
+>>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"SCP Relations\"",
         "color": {
           "a": 1,
+<<<<<<< HEAD
           "rgb": 16746496
+=======
+          "rgb": 5395168
+>>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"001 Relations\"",
         "color": {
           "a": 1,
+<<<<<<< HEAD
           "rgb": 8388168
+=======
+          "rgb": 16777215
+        }
+      }
+    ],
+<<<<<<< HEAD
+=======
+=======
+          "rgb": 16746496
+>>>>>>> origin/SCP-XXXX
         }
       }
     ],
@@ -155,6 +213,35 @@
     "linkDistance": 500,
     "scale": 0.04466655359961197,
     "close": true
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> origin/SCP-XXXX
+    "collapse-color-groups": true,
+    "colorGroups": [],
+>>>>>>> origin/SCP-XXXX
+>>>>>>> origin/SCP-XXXX
+    "collapse-display": true,
+    "showArrow": false,
+    "textFadeMultiplier": 0,
+    "nodeSizeMultiplier": 1,
+    "lineSizeMultiplier": 1,
+    "collapse-forces": false,
+    "centerStrength": 0,
+    "repelStrength": 20,
+    "linkStrength": 0.442708333333333,
+    "linkDistance": 500,
+    "scale": 0.0078125,
+    "close": false
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> origin/SCP-XXXX
+>>>>>>> origin/SCP-XXXX
+>>>>>>> origin/SCP-XXXX
+>>>>>>> origin/SCP-XXXX
+>>>>>>> origin/SCP-XXXX
   },
   "states": [
     {
