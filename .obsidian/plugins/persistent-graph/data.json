@@ -1,2414 +1,2459 @@
 {
   "nodePositions": [
     {
-      "id": "Hanged King/Ambassador.md",
-      "x": -77311.046875,
-      "y": -156108.53125
-    },
-    {
-      "id": "Hanged King/Hanged King.md",
-      "x": -60611.78125,
-      "y": -164205.34375
-    },
-    {
-      "id": "Hanged King/unknown nobleman.md",
-      "x": -69835.171875,
-      "y": -164221.40625
-    },
-    {
-      "id": "Improvements/Notes.md",
-      "x": -104629.0390625,
-      "y": -184758.953125
-    },
-    {
-      "id": "Improvements/Recommendations for the final piece.md",
-      "x": -114494.84375,
-      "y": -194319.078125
-    },
-    {
-      "id": "Improvements/Strengths.md",
-      "x": -110185.8203125,
-      "y": -173229.671875
-    },
-    {
-      "id": "Improvements/Structure For SCP Hybrid Entry.md",
-      "x": -95450.8671875,
-      "y": -189785.03125
-    },
-    {
-      "id": "Mythos/1st Log.md",
-      "x": -149552.421875,
-      "y": -194837.828125
-    },
-    {
-      "id": "Mythos/Narrative ideas for the SCP.md",
-      "x": -116513.3203125,
-      "y": -177703.09375
-    },
-    {
-      "id": "README.md",
-      "x": -395209.34375,
-      "y": 127875.0078125
-    },
-    {
-      "id": "SCP-XXXX/Concept clarification.md",
-      "x": -125209.25,
-      "y": -202596.40625
-    },
-    {
-      "id": "SCP-XXXX/Concept.md",
-      "x": -121725.7265625,
-      "y": -196280.5625
-    },
-    {
-      "id": "SCP-XXXX/Mechanics of the antimemetics.md",
-      "x": -101328.0859375,
-      "y": -196117.75
-    },
-    {
-      "id": "SCP-XXXX/Outcomes/Outcomes.md",
-      "x": -116858.0390625,
-      "y": -213919.453125
-    },
-    {
-      "id": "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
-      "x": -114898.2109375,
-      "y": -224005.65625
-    },
-    {
-      "id": "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
-      "x": -124282.2734375,
-      "y": -217636.0625
-    },
-    {
-      "id": "SCP-XXXX/Outcomes/The Hollow Salvation.md",
-      "x": -132744.734375,
-      "y": -219300.546875
-    },
-    {
-      "id": "SCP-XXXX/Outcomes/The Loop.md",
-      "x": -124663.640625,
-      "y": -226913.890625
-    },
-    {
-      "id": "SCP-XXXX/Relation to the foundation.md",
-      "x": -111200.1953125,
-      "y": -187812.328125
-    },
-    {
-      "id": "SCP-XXXX/SCP-XXXX.md",
-      "x": -100210.2109375,
-      "y": -178219.90625
-    },
-    {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/AWCY/AWCY.md",
-      "x": 57813.94140625,
-      "y": 2750.141357421875
+      "x": -48932.8984375,
+      "y": -55449.52734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Ambrose Restaurants.md",
-      "x": 145160.046875,
-      "y": -37086.828125
+      "x": -87207.59375,
+      "y": -166411.859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Dinuguang Aswang na Baboy.md",
-      "x": 106490.453125,
-      "y": -38603.0859375
+      "x": -76889.1796875,
+      "y": -98310.3671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Meals/Diyan Masalanta Tuba.md",
-      "x": 153702.625,
-      "y": -31093.0703125
+      "x": -89762.3125,
+      "y": -173521.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Restaurant in Backdoor Soho/Restaurant in Backdoor Soho.md",
-      "x": 165269.234375,
-      "y": -33059.953125
+      "x": -90967.5390625,
+      "y": -189996.046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ambrose Restaurants/Restaurant in Backdoor Soho/Scarlet Calamari.md",
-      "x": 173131.59375,
-      "y": -31384.603515625
+      "x": -92300.265625,
+      "y": -198390.3125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ancient steppe tribe/Ancient steppe tribe.md",
-      "x": 1308.067138671875,
-      "y": -144806.921875
+      "x": -138044.859375,
+      "y": 19987.5859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Ancient steppe tribe/Eight Tribes/Eighth tribe.md",
-      "x": 8903.3037109375,
-      "y": -141579.171875
+      "x": -135260.671875,
+      "y": 19966.00390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Chaos Insurgency/Chaos Insurgency.md",
-      "x": -77602.8828125,
-      "y": 36012.65234375
+      "x": 18691.947265625,
+      "y": 95345.2578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Denizens/Daleport.md",
-      "x": -69203.6796875,
-      "y": -133830.484375
+      "x": -191570.46875,
+      "y": 27231.716796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Denizens/Denizens.md",
-      "x": -74405.9609375,
-      "y": -121245.671875
+      "x": -190274.625,
+      "y": 24372.814453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Denizens/Hedaphis.md",
-      "x": -78005.0546875,
-      "y": -128625.9140625
+      "x": -188279.859375,
+      "y": 27822.974609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Department of Egregorian Studies/Department of Egregorian Studies.md",
-      "x": 59646.28125,
-      "y": 22728.421875
+      "x": -43736.39453125,
+      "y": -89791.9921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Doctor Wondertainment/Dr. Wondertainment.md",
-      "x": -52359.03515625,
-      "y": -94786.09375
+      "x": -124975.546875,
+      "y": 24928.82421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Empire for the Reclamation of Islamic Artifacts/Empire for the Reclamation of Islamic Artifacts.md",
-      "x": -62813.5078125,
-      "y": 26126.083984375
+      "x": -4915.38232421875,
+      "y": 90577.109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Empire for the Reclamation of Islamic Artifacts/Office for the Reclamation of Islamic Artifacts.md",
-      "x": -56017.66796875,
-      "y": 23562.857421875
+      "x": -3812.167236328125,
+      "y": 84269.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Faction Relations.md",
-      "x": -36465.71484375,
-      "y": -22943.7421875
+      "x": -35632.94140625,
+      "y": -34470.30078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Foundation Elimination Coalition/Foundation Elimination Coalition.md",
-      "x": 55580.26953125,
-      "y": -83295.25
+      "x": -96071.828125,
+      "y": -68179.296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Fourth Reich of the Obskurakorps/Fourth Reich of the Obskurakorps.md",
-      "x": 37191.328125,
-      "y": -33743.03125
+      "x": -73218.375,
+      "y": -45800.64453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Global Occult Coalition/GoC.md",
-      "x": -3015.822021484375,
-      "y": -43155.14453125
+      "x": -74746,
+      "y": -62575.640625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Global Occult Coalition/KTE-2013-Kapala-Mendes.md",
-      "x": 26113.09375,
-      "y": 4325.73388671875
+      "x": -62105.90625,
+      "y": -69040.4453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Goldbaker-Reinz Insurance Group Ltd/Goldbaker-Reinz Insurance Group Ltd..md",
-      "x": 36396.5859375,
-      "y": -61140.98046875
+      "x": -62092.12890625,
+      "y": -35064.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Hefftone Assoc/Hefftone Assoc..md",
-      "x": 122178.7265625,
-      "y": 9890.626953125
+      "x": -34684.94140625,
+      "y": -152925.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Herman Fuller's Circus of the Disquieting/Herman Fuller's Circus of the Disquieting.md",
-      "x": -17072.728515625,
-      "y": 55490.50390625
+      "x": 20864.376953125,
+      "y": 46581.02734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/High Court Magic Army/High Court Magic Army.md",
-      "x": -116958.859375,
-      "y": 98830.46875
+      "x": 128025.7890625,
+      "y": 86959.9140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Bureau of Onmyō.md",
-      "x": -85447.1640625,
-      "y": 212482.71875
+      "x": 111395.125,
+      "y": 172089.8125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Holy Emperor's Council for Unearthly Matters/Holy Emperor's Council for Unearthly Matters.md",
-      "x": -74778.6015625,
-      "y": 211494.59375
+      "x": 114250.375,
+      "y": 173246.421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Horizon Initiative/Horizon Initiative.md",
-      "x": -23288.732421875,
-      "y": -12635.19921875
+      "x": -26201.78515625,
+      "y": -41130.5234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Marshall, Carter and Dark Ltd/Marshall, Carter and Dark Ltd..md",
-      "x": 15477.9873046875,
-      "y": 20721.181640625
+      "x": -27504.8203125,
+      "y": -11759.212890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Nobody/Nobody.md",
-      "x": -40991.484375,
-      "y": -38057.6875
+      "x": 1998.820068359375,
+      "y": -61653.14453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Olney Ironworks/Olney Ironworks.md",
-      "x": 90533.2734375,
-      "y": -62744.2109375
+      "x": -93204.4375,
+      "y": -75763.5
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Oneiroi Collective/Oneiroi Collective.md",
-      "x": 6554.556640625,
-      "y": -30678.408203125
+      "x": -68119.546875,
+      "y": -40279.94140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Oneiroi Collective/Phantasos Ltd..md",
-      "x": 8127.53271484375,
-      "y": -39480.3515625
+      "x": -73398.734375,
+      "y": -32909.15234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Parawatch/Ethan.md",
-      "x": 17445.544921875,
-      "y": -64711.58203125
+      "x": -91553.8515625,
+      "y": -26940.4375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Parawatch/Individual from Parawatch.md",
-      "x": 8193.3095703125,
-      "y": -61657.94921875
+      "x": -95445.2890625,
+      "y": -26209.666015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Parawatch/Parawatch.md",
-      "x": 19772.611328125,
-      "y": -58014.828125
+      "x": -83709.4921875,
+      "y": -30126.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Royal Office for Christian Artefacts/Royal Office for Christian Artefacts.md",
-      "x": -85820.03125,
-      "y": 66977.8515625
+      "x": 68693.0703125,
+      "y": 121459.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/Department of Paranormal Organisation Review.md",
-      "x": -24396.845703125,
-      "y": 209021.796875
+      "x": 160412,
+      "y": 228210.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Ethics Committee/Ethics Committee.md",
-      "x": -122901.359375,
-      "y": 78402.546875
+      "x": 224211.078125,
+      "y": 12451.146484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF of the SCP Foundation.md",
-      "x": 45005.76953125,
-      "y": 39425.578125
+      "x": -39050.67578125,
+      "y": 42955.14453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF-Sigma-3.md",
-      "x": -11282.1083984375,
-      "y": 8107.5703125
+      "x": -36162.828125,
+      "y": 8920.7412109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/SCP Foundation.md",
-      "x": -35115.58984375,
-      "y": -44533.09375
+      "x": -66635.625,
+      "y": -4780.23583984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Serpent's Hand/Serpent's Hand.md",
-      "x": -36872.4296875,
-      "y": -3750.66259765625
+      "x": -41733.05078125,
+      "y": 24068.935546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/The Factory/The Factory.md",
-      "x": -25661.041015625,
-      "y": 55949.88671875
+      "x": 18276.09765625,
+      "y": 48823.765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/The Shark Punching Center/The Shark Punching Center.md",
-      "x": -39910.97265625,
-      "y": -128508.9453125
+      "x": -153956.65625,
+      "y": -2952.293212890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Third Law/Secret Keeper.md",
-      "x": -111448.7890625,
-      "y": 179472.375
+      "x": 181932.03125,
+      "y": 104555.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/A'habbat's benevolent children.md",
-      "x": 30499.01171875,
-      "y": -179275.875
+      "x": -184026.453125,
+      "y": -79240.0546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Toltec Empire/The Toltec Empire.md",
-      "x": 29858.8046875,
-      "y": -168555.484375
+      "x": -166142.328125,
+      "y": -72207.1796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/Tsars' Seers/Tsars' Seers.md",
-      "x": -103142.40625,
-      "y": 177870.875
+      "x": 182251.609375,
+      "y": 101723.53125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/UIU/UIU.md",
-      "x": -46299.74609375,
-      "y": -20726.955078125
+      "x": -25903.943359375,
+      "y": -35206.1484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/Eluthertopia.md",
-      "x": -20660.162109375,
-      "y": -186386.453125
+      "x": -182790.390625,
+      "y": 62177.71875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/ΔT/ΔT.md",
-      "x": -11144.056640625,
-      "y": -188066.8125
+      "x": -180424.109375,
+      "y": 63979.6640625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/AWCY/Wally Mannington.md",
-      "x": 61816.37109375,
-      "y": -7938.04345703125
+      "x": -53048.73046875,
+      "y": -50393.7109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Adam Engle.md",
-      "x": 101105.2578125,
-      "y": -16732.015625
+      "x": -54544.2578125,
+      "y": -99819.4609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Administrators of the Foundation/Simon Kells.md",
-      "x": -31121.150390625,
-      "y": -61126.0546875
+      "x": -90552.59375,
+      "y": 3159.641357421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Alagadda/Masked Lords of Alagadda.md",
-      "x": -66998.015625,
-      "y": -155186.90625
+      "x": -190813.546875,
+      "y": 5723.60791015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Black Queen.md",
-      "x": -181215.359375,
-      "y": 97021.6484375
+      "x": 145323.3125,
+      "y": 143756.421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/Jacob Montauk.md",
-      "x": -16364.7861328125,
-      "y": -24138.1328125
+      "x": -68399.015625,
+      "y": 21965.9609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Chaos Insurgency/The Engineer.md",
-      "x": -97176.1875,
-      "y": 47838.125
+      "x": 35337.078125,
+      "y": 123028.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/David Nicholson.md",
-      "x": -7915.2666015625,
-      "y": 1368.195068359375
+      "x": -53531.15625,
+      "y": 17466.92578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Deág.md",
-      "x": 47786.19921875,
-      "y": -62087.203125
+      "x": -75709.0234375,
+      "y": -43715.3046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Dipesh Spivak.md",
-      "x": 47640.08984375,
-      "y": -91289.7421875
+      "x": -105747.984375,
+      "y": -51822.51953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Donny Armstrong.md",
-      "x": 51054.62109375,
-      "y": -23889.40234375
+      "x": -59186.421875,
+      "y": -34474.7578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Dr. Bright.md",
-      "x": -179617.796875,
-      "y": 157612.921875
+      "x": 168424.546875,
+      "y": 180514.78125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Dr. Elena Jackson.md",
-      "x": 112130.6640625,
-      "y": 388213.96875
+      "x": -309259.5,
+      "y": -211214.984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Dr. Steve.md",
-      "x": 119869.9609375,
-      "y": 377609.9375
+      "x": -312676.15625,
+      "y": -206495.828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Durham.md",
-      "x": 57865.03125,
-      "y": -46104.25390625
+      "x": -68748,
+      "y": -29912.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Edith Godwinson.md",
-      "x": 64503.8984375,
-      "y": -27466.623046875
+      "x": -60828.51171875,
+      "y": -31321.447265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Edward Day.md",
-      "x": 42553.015625,
-      "y": -12540.71875
+      "x": -62611.17578125,
+      "y": -28493.1328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Everett Mann.md",
-      "x": 34080.484375,
-      "y": -9873.361328125
+      "x": -67291.125,
+      "y": -33237.625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Everett the March Hare.md",
-      "x": 62689.34765625,
-      "y": -39494.4765625
+      "x": -69133.4140625,
+      "y": -26876.6875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Father Leonardo Sicarie.md",
-      "x": -25792.185546875,
-      "y": -151627.6875
+      "x": -164620.125,
+      "y": 11629.45703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Father Whatley.md",
-      "x": 76646.4296875,
-      "y": -27960.84765625
+      "x": -56632.046875,
+      "y": -55489.65234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Foundation Elimination Coalition/Bowe.md",
-      "x": 63338.9609375,
-      "y": -96439.4921875
+      "x": -105006.71875,
+      "y": -77814.109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Francis.md",
-      "x": -11337.31640625,
-      "y": -12689.0810546875
+      "x": -56665.55078125,
+      "y": 4636.15380859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Frank Derikson.md",
-      "x": 29942.236328125,
-      "y": -16927.517578125
+      "x": -68123.7421875,
+      "y": -43809.09765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Georga.md",
-      "x": 21276.681640625,
-      "y": -20836.28125
+      "x": -64101.97265625,
+      "y": -45733.52734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Geát.md",
-      "x": 25591.376953125,
-      "y": -32453.953125
+      "x": -62910.66796875,
+      "y": -41045.10546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/Amy Smith.md",
-      "x": 126028.28125,
-      "y": 827.2391967773438
+      "x": -33125.05859375,
+      "y": -159058.71875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/George Willis.md",
-      "x": 133087.125,
-      "y": 6517.20166015625
+      "x": -41756.1875,
+      "y": -158316.140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Hefftone Assoc/Malcolm Dam.md",
-      "x": 130222.2578125,
-      "y": -11474.1689453125
+      "x": -37898.47265625,
+      "y": -154356.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Hester Maliz.md",
-      "x": 70747.84375,
-      "y": -46336.23828125
+      "x": -58862.84765625,
+      "y": -37903.85546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Jack Hearst.md",
-      "x": 17832.580078125,
-      "y": -75660
+      "x": -95869.046875,
+      "y": -13312.7646484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Jack Ruby.md",
-      "x": 50970.65234375,
-      "y": -15069.3681640625
+      "x": -67021.59375,
+      "y": -46861.671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/James Thomas.md",
-      "x": 82759.578125,
-      "y": -35221.4609375
+      "x": -60778.66796875,
+      "y": -57954.27734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Jean-Pierre.md",
-      "x": 23329.1484375,
-      "y": -45849.99609375
+      "x": -77164.8046875,
+      "y": -36789.63671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Jeffery Smith.md",
-      "x": 139212.046875,
-      "y": 13147.0458984375
+      "x": -35371.55859375,
+      "y": -156733.875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/John Thomas.md",
-      "x": 75471.4296875,
-      "y": -19376.30859375
+      "x": -59614.21484375,
+      "y": -55097.9609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Jonah Godwinson.md",
-      "x": 40347.5546875,
-      "y": -22061.37109375
+      "x": -59646.04296875,
+      "y": -41176.3125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Kaes.md",
-      "x": 49087.24609375,
-      "y": -40035.73046875
+      "x": -65570.8515625,
+      "y": -29979.130859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Kindred.md",
-      "x": 12247.939453125,
-      "y": 98029.8828125
+      "x": 94982.7734375,
+      "y": -49341.53125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Luca Armaro.md",
-      "x": 15700.361328125,
-      "y": 108506.0390625
+      "x": 97975.7734375,
+      "y": -48179.68359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Lucy.md",
-      "x": 83802.9296875,
-      "y": 16368.5615234375
+      "x": -63310.58203125,
+      "y": 18132.173828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/MC&D/MC&D employee.md",
-      "x": 31316.7265625,
-      "y": -25722.9296875
+      "x": -74438.7109375,
+      "y": -38251.3046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Martin Cook.md",
-      "x": 60704.69140625,
-      "y": -20015.662109375
+      "x": -65404.18359375,
+      "y": -35714.40234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Meri.md",
-      "x": 22924.16796875,
-      "y": 102815.2890625
+      "x": 95864.8203125,
+      "y": -53519.0234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Mr. Redd.md",
-      "x": -3819.8896484375,
-      "y": -56116.37890625
+      "x": -91563.4296875,
+      "y": -10946.2001953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Ms. Amherst.md",
-      "x": 55913.23046875,
-      "y": -32686.509765625
+      "x": -70238.84375,
+      "y": -46807.62890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Olney Ironworks/Olney.md",
-      "x": 115634.2265625,
-      "y": -81414.84375
+      "x": -123829.46875,
+      "y": -116641.828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Pico Wilson.md",
-      "x": -53811.8359375,
-      "y": -87705.1015625
+      "x": -127618.0859375,
+      "y": 26439.001953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Real life/Hans Christian Andersen.md",
-      "x": 6426.052734375,
-      "y": 104196.15625
+      "x": 98507.0546875,
+      "y": -51572.1015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Real life/Roberto Bolaño.md",
-      "x": 97083.5859375,
-      "y": 7519.71337890625
+      "x": -8867.451171875,
+      "y": -55165.5
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Real life/Ronald Reagan.md",
-      "x": -38334.65234375,
-      "y": -150965.359375
+      "x": -158048.375,
+      "y": 20203.53515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Real life/Slimmy Kincaid.md",
-      "x": 2835.487060546875,
-      "y": -85625.1015625
+      "x": -111392.6953125,
+      "y": -15925.8955078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Reverie.md",
-      "x": 19775.451171875,
-      "y": 93614.796875
+      "x": 92955.25,
+      "y": -51800.48828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Roger Sheldon.md",
-      "x": -38278.35546875,
-      "y": 141534.328125
+      "x": 97707.6875,
+      "y": 95565.1015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05 Council.md",
-      "x": -100562.296875,
-      "y": 112830.6875
+      "x": 128887.0703125,
+      "y": 111614.578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/05-1.md",
-      "x": -156758.515625,
-      "y": 124531.828125
+      "x": 135791.09375,
+      "y": 147360.390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/Eve.md",
-      "x": -175589.125,
-      "y": 133682.796875
+      "x": 143224.0625,
+      "y": 171527.96875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Dead Man.md",
-      "x": -142843.359375,
-      "y": 149645.453125
+      "x": 173463.078125,
+      "y": 117640.109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Founder.md",
-      "x": -189783.9375,
-      "y": 134905
+      "x": 146697.15625,
+      "y": 184562.796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Man With The Infinity Gun.md",
-      "x": -127300.2734375,
-      "y": 70028.265625
+      "x": 58750.9765625,
+      "y": 144011.03125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-1/The Visionary.md",
-      "x": -125552.5390625,
-      "y": 144558.84375
+      "x": 147779.4375,
+      "y": 135468.46875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/05-10.md",
-      "x": -100772.8359375,
-      "y": 80174.8046875
+      "x": 140717.75,
+      "y": 58750.95703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/Stone.md",
-      "x": -110663.5078125,
-      "y": 55065.28125
+      "x": 142793.609375,
+      "y": 32339.013671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Archivist 05-10.md",
-      "x": -113028.9453125,
-      "y": 47089.4765625
+      "x": 141668.75,
+      "y": 25858.74609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Assassin.md",
-      "x": -107953.1953125,
-      "y": 82223.84375
+      "x": 142101.5,
+      "y": 55695.65625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Grand Master.md",
-      "x": -69855.0859375,
-      "y": 113327.9453125
+      "x": 143098.0625,
+      "y": 79646.734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Veteran or, The Mad General.md",
-      "x": -96019.4453125,
-      "y": 88374.7734375
+      "x": 143842.046875,
+      "y": 47989.34765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/05-11.md",
-      "x": -67323.7109375,
-      "y": 122100.296875
+      "x": 101678.171875,
+      "y": 105121.0234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/Jings.md",
-      "x": -90452.4765625,
-      "y": 125918.2734375
+      "x": 122433.390625,
+      "y": 105151.796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Bureaucrat.md",
-      "x": -83722.3984375,
-      "y": 189959.625
+      "x": 117546.2578125,
+      "y": 158869.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Keeper or, The Warden.md",
-      "x": -114279.4609375,
-      "y": 70937.6015625
+      "x": 57881.88671875,
+      "y": 136576.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Liar or, The Father of Lies.md",
-      "x": -86833.8125,
-      "y": 115440
+      "x": 114681.3203125,
+      "y": 94719.15625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Mailman.md",
-      "x": -97179.46875,
-      "y": 140083.984375
+      "x": 146457.359375,
+      "y": 98871.65625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Reclusive.md",
-      "x": -48016.51953125,
-      "y": 132185.53125
+      "x": 97734.484375,
+      "y": 99298.890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Senator.md",
-      "x": -55553.6328125,
-      "y": 140689.84375
+      "x": 96053.2109375,
+      "y": 110275.0390625
     },
     {
       "id": "The Shriners",
-      "x": -42024.68359375,
-      "y": 148864.515625
+      "x": 94192.515625,
+      "y": 113788.15625
     },
     {
       "id": "Skull and Bones",
-      "x": -51741.64453125,
-      "y": 148285.421875
+      "x": 92310.7109375,
+      "y": 110400.65625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Turncloak.md",
-      "x": -24416.72265625,
-      "y": 46468.0078125
+      "x": 17232.853515625,
+      "y": 44717.421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/05-12.md",
-      "x": -146356.6875,
-      "y": 135535.484375
+      "x": 140648.109375,
+      "y": 148063.734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/Adam.md",
-      "x": -174171.046875,
-      "y": 151170.296875
+      "x": 162463.078125,
+      "y": 174863.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/Cyrus.md",
-      "x": -155139.25,
-      "y": 136245.984375
+      "x": 142154.90625,
+      "y": 154056.65625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/The Accountant.md",
-      "x": -142671.71875,
-      "y": 127811.7578125
+      "x": 144425.5625,
+      "y": 129117.9609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/The Contractor.md",
-      "x": -150811.96875,
-      "y": 146116.5
+      "x": 144958.734375,
+      "y": 152955.515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/The Physician.md",
-      "x": -116601.328125,
-      "y": 145891.25
+      "x": 151820.0625,
+      "y": 136260.1875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-12/The Trainmen or, The Conductor.md",
-      "x": -133970.4375,
-      "y": 99779.4296875
+      "x": 97423.0703125,
+      "y": 147400.203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/05-13.md",
-      "x": -71275.703125,
-      "y": 94045.28125
+      "x": 155523.109375,
+      "y": 51559.515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/AI Complex.md",
-      "x": -60758.6953125,
-      "y": 91843.28125
+      "x": 159932.671875,
+      "y": 50016.80078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/Death.md",
-      "x": -67696.5,
-      "y": 102176.6875
+      "x": 157925.546875,
+      "y": 47581.03125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/Tamlin.md",
-      "x": -51728.24609375,
-      "y": 106002.265625
+      "x": 169669.34375,
+      "y": 44077.5859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Activist.md",
-      "x": -70748.3828125,
-      "y": 128827.3046875
+      "x": 161159.59375,
+      "y": 86717.9765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Meddler.md",
-      "x": -58855.8203125,
-      "y": 100288.453125
+      "x": 165240.546875,
+      "y": 39871.875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Pedestrian.md",
-      "x": -120033.8984375,
-      "y": 28688.87890625
+      "x": 219426.015625,
+      "y": -22323.876953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Persian.md",
-      "x": -75302.28125,
-      "y": 134284.359375
+      "x": 160974.65625,
+      "y": 83739.203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-13/The Tiebreaker.md",
-      "x": -90176.609375,
-      "y": 106618.7109375
+      "x": 151464.0625,
+      "y": 75894
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/05-2.md",
-      "x": -68833.2265625,
-      "y": 161380.28125
+      "x": 208334.359375,
+      "y": 81680.9453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/He Who Waits.md",
-      "x": -81126.875,
-      "y": 169242.515625
+      "x": 198337.796875,
+      "y": 95316.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Archivist 05-2.md",
-      "x": -48519.546875,
-      "y": 156100.625
+      "x": 195312.65625,
+      "y": 69569.46875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Gardener.md",
-      "x": -76082.9453125,
-      "y": 150628.28125
+      "x": 216519.203125,
+      "y": 68012.234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Nazarene.md",
-      "x": -86593.7890625,
-      "y": 153459.265625
+      "x": 221542.75,
+      "y": 61459.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Way.md",
-      "x": -68652.484375,
-      "y": 179295.03125
+      "x": 229992.265625,
+      "y": 81210.3359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-3/05-3.md",
-      "x": -119069.15625,
-      "y": 165815.671875
+      "x": 176984.859375,
+      "y": 94503.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-3/The Beacon.md",
-      "x": -128001.921875,
-      "y": 174581.59375
+      "x": 157437.71875,
+      "y": 71550.609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-3/The Hermit.md",
-      "x": -104973.71875,
-      "y": 168403.765625
+      "x": 175600.34375,
+      "y": 101577.84375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-3/The Kid, or The All Seeing Eye.md",
-      "x": -120742.328125,
-      "y": 177520.734375
+      "x": 199862.359375,
+      "y": 103040.1953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-3/The Philosopher Scientist.md",
-      "x": -118825.546875,
-      "y": 153956.453125
+      "x": 200996.46875,
+      "y": 79056.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/05-4.md",
-      "x": -140793.5625,
-      "y": 88001.0625
+      "x": 96887.7734375,
+      "y": 134191.421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/Frost.md",
-      "x": -137647.859375,
-      "y": 57889.74609375
+      "x": 62548.0703125,
+      "y": 125285.4453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Ambassador.md",
-      "x": -158452.546875,
-      "y": 98659.0078125
+      "x": 119917.75,
+      "y": 122155.71875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Annalist.md",
-      "x": -164959.796875,
-      "y": 79761.2578125
+      "x": 85402.9375,
+      "y": 147149.4375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Collector.md",
-      "x": -152677.53125,
-      "y": 89992.4765625
+      "x": 97198.6796875,
+      "y": 138484.796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Gangster.md",
-      "x": -129589.109375,
-      "y": 62240.90625
+      "x": 52680.08203125,
+      "y": 140245.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Martyr.md",
-      "x": -148662.46875,
-      "y": 82765.90625
+      "x": 94148.609375,
+      "y": 137868.953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-4/The Veteran.md",
-      "x": -127146.0625,
-      "y": 126804.2578125
+      "x": 127937.1015625,
+      "y": 134378.375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/05-5.md",
-      "x": -39821.61328125,
-      "y": 181071.734375
+      "x": 159211.890625,
+      "y": 192867.34375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/Black Bird.md",
-      "x": -30604.5546875,
-      "y": 203524
+      "x": 159974.046875,
+      "y": 219940.890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/Manifest Destiny.md",
-      "x": -56519.453125,
-      "y": 175267.84375
+      "x": 168265.234375,
+      "y": 164352.5
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/The Black Cat.md",
-      "x": -36341.88671875,
-      "y": 187278.9375
+      "x": 161303.765625,
+      "y": 198363.828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/The Entrepreneur, Or The Treasurer.md",
-      "x": -35461.19140625,
-      "y": 197127.828125
+      "x": 159551.046875,
+      "y": 211983.140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/The Ordinary Man.md",
-      "x": -25006.8828125,
-      "y": 190179.4375
+      "x": 165662.609375,
+      "y": 214005.09375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/05-6.md",
-      "x": -132571.046875,
-      "y": 155121.75
+      "x": 164850.609375,
+      "y": 133846.078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/Cowboy or, The American.md",
-      "x": -159418.125,
-      "y": 144110.125
+      "x": 157983.015625,
+      "y": 134145.0625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/The Experiment.md",
-      "x": -109853.59375,
-      "y": 157983.359375
+      "x": 163994.109375,
+      "y": 127710.7578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/The Figurehead or, The Elder.md",
-      "x": -135348.328125,
-      "y": 165845.859375
+      "x": 170323.890625,
+      "y": 139157.953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-6/The Puppet.md",
-      "x": -142593.515625,
-      "y": 162390.3125
+      "x": 172152.828125,
+      "y": 136849.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/05-7.md",
-      "x": -92561.7890625,
-      "y": 76917.4296875
+      "x": 79478.234375,
+      "y": 106357.5234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Green.md",
-      "x": -68780.1875,
-      "y": 70615.703125
+      "x": 86342.265625,
+      "y": 70585.265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/Teeth.md",
-      "x": -105394.96875,
-      "y": 98776.1484375
+      "x": 111607.7734375,
+      "y": 106760.8984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Cardinal.md",
-      "x": -84230.796875,
-      "y": 74322.3671875
+      "x": 71840.8828125,
+      "y": 118005.8359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Immortal.md",
-      "x": -80301.1640625,
-      "y": 82289.859375
+      "x": 70974.2890625,
+      "y": 108708.3828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Professor or, The Heretic.md",
-      "x": -113322.359375,
-      "y": 61748.03125
+      "x": 47082.5625,
+      "y": 134201.265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Unlikely.md",
-      "x": -81119.8828125,
-      "y": 53722.34375
+      "x": 46126.46875,
+      "y": 102574.578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/05-8.md",
-      "x": -148818.765625,
-      "y": 100177.9296875
+      "x": 125338.3203125,
+      "y": 119349.40625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/Dogwood.md",
-      "x": -149417.625,
-      "y": 113375.8125
+      "x": 138909.265625,
+      "y": 112372.625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/Magnolia.md",
-      "x": -140625.1875,
-      "y": 109317.984375
+      "x": 135383.15625,
+      "y": 113989.34375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/The Forgotten.md",
-      "x": -178488.015625,
-      "y": 68385.0546875
+      "x": 153808.1875,
+      "y": 93377.0625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/The Heretic.md",
-      "x": -157926.828125,
-      "y": 75469.6953125
+      "x": 82740.390625,
+      "y": 143214.96875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/The Newbie or, The Lesser.md",
-      "x": -152747.921875,
-      "y": 69055.2421875
+      "x": 86532.3203125,
+      "y": 128212.703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-8/The Terse.md",
-      "x": -119056.5,
-      "y": 130002.734375
+      "x": 142632.9375,
+      "y": 121012.6875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/05-9.md",
-      "x": -108663.0390625,
-      "y": 119459.9921875
+      "x": 168255.40625,
+      "y": 87009.3828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/Misfortune.md",
-      "x": -122395.734375,
-      "y": 108845.0234375
+      "x": 169150.515625,
+      "y": 78819.8125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/Out-Of-Place.md",
-      "x": -100644.7578125,
-      "y": 148290.4375
+      "x": 169259.78125,
+      "y": 108259.4765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/The Lovers or, The Willow.md",
-      "x": -102376.15625,
-      "y": 127697.65625
+      "x": 174229.59375,
+      "y": 84401.6328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/The Oracle.md",
-      "x": -110793.234375,
-      "y": 128659.9765625
+      "x": 174119.453125,
+      "y": 87249.1015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/The Outsider or, The Ordinary.md",
-      "x": -119259.2265625,
-      "y": 89169.7265625
+      "x": 180733.53125,
+      "y": 50445.78125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-9/The Secret Keeper.md",
-      "x": -112511.5234375,
-      "y": 109775.5859375
+      "x": 149558.34375,
+      "y": 86036.8984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators.md",
-      "x": -183933.96875,
-      "y": 110948.7890625
+      "x": 102206,
+      "y": 203385.390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/@(data lost).md",
-      "x": -207846.09375,
-      "y": 113644.0703125
+      "x": 96276.015625,
+      "y": 208004.171875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Agnes Peterson.md",
-      "x": -208629.625,
-      "y": 131420.28125
+      "x": 134298,
+      "y": 210961.9375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Ethan Horrowitz.md",
-      "x": -193744.125,
-      "y": 96628.7890625
+      "x": 98056.7578125,
+      "y": 205574.84375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Frederic Williams.md",
-      "x": -171289.59375,
-      "y": 89666.2421875
+      "x": 78165.890625,
+      "y": 180009.15625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Kismet.md",
-      "x": -191409.953125,
-      "y": 105526.5546875
+      "x": 96830.875,
+      "y": 210925.28125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Spider.md",
-      "x": -200806.375,
-      "y": 107284.328125
+      "x": 104442.90625,
+      "y": 207467.8125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Middleman'.md",
-      "x": -193938.078125,
-      "y": 114575.6796875
+      "x": 102641.3203125,
+      "y": 212770.765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Official'.md",
-      "x": -189296.328125,
-      "y": 121818.2734375
+      "x": 100960.21875,
+      "y": 207223.046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Archaeologist.md",
-      "x": -202586.8125,
-      "y": 96158.8828125
+      "x": 104758.2109375,
+      "y": 210476.234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Duke.md",
-      "x": -200632.28125,
-      "y": 120834.0234375
+      "x": 100479.421875,
+      "y": 210039.59375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Failsafe.md",
-      "x": -209146.640625,
-      "y": 103104.859375
+      "x": 99260.984375,
+      "y": 213076.828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Aaron Siegel.md",
-      "x": -217017.15625,
-      "y": 131654.828125
+      "x": 134723.703125,
+      "y": 218235.953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Clef.md",
-      "x": -35320.0625,
-      "y": 47737.21484375
+      "x": 48761.94140625,
+      "y": 18066.8359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Gears.md",
-      "x": -197300.390625,
-      "y": 138476.828125
+      "x": 148298.390625,
+      "y": 190329.078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Joseph Tamlin.md",
-      "x": -44663.1640625,
-      "y": 111444.5703125
+      "x": 176552.6875,
+      "y": 40170.2890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Kondraki.md",
-      "x": -152826.421875,
-      "y": 59833.49609375
+      "x": 71049.4296875,
+      "y": 131591.375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Officers/Conner Zhou.md",
-      "x": 116717.2265625,
-      "y": -93659.1796875
+      "x": -136533.71875,
+      "y": -116633.78125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Person Of Interest/Salah Zairi.md",
-      "x": 2207.21337890625,
-      "y": -13618.3896484375
+      "x": -43626.7265625,
+      "y": -39786.02734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Robert Montauk.md",
-      "x": -446.98114013671875,
-      "y": -157957.09375
+      "x": -149288.4375,
+      "y": 39908.140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/SCPs/Jonathan Baker.md",
-      "x": 112952.3984375,
-      "y": -127210.9765625
+      "x": -175654.34375,
+      "y": -108714.46875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Salt.md",
-      "x": -121030.78125,
-      "y": 44577.1953125
+      "x": 143355.546875,
+      "y": 21036.439453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Sam.md",
-      "x": 18298.365234375,
-      "y": -38258.03515625
+      "x": -65385.21484375,
+      "y": -42654.50390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Samantha Hope.md",
-      "x": 144843,
-      "y": -5296.0126953125
+      "x": -32381.37890625,
+      "y": -155456.921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Sophia Light.md",
-      "x": -67097.453125,
-      "y": 169177.6875
+      "x": 219761.09375,
+      "y": 77072.703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Stefan Light.md",
-      "x": -65165.4453125,
-      "y": 188656.34375
+      "x": 238004.296875,
+      "y": 81943.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Agent Rodríguez.md",
-      "x": 115622.7421875,
-      "y": -106724.671875
+      "x": -148869.09375,
+      "y": -113560.328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Aleksandr Scriabin.md",
-      "x": 54309.421875,
-      "y": -7996.12744140625
+      "x": -51354.74609375,
+      "y": -39460.03515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Amy.md",
-      "x": 13083.0224609375,
-      "y": -47403.44140625
+      "x": -76317.5,
+      "y": -33748.30859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Andrew.md",
-      "x": 45541.6875,
-      "y": -31127.072265625
+      "x": -62092.171875,
+      "y": -38112.71875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Ariadne Cartwright.md",
-      "x": 51388.8515625,
-      "y": -51402.390625
+      "x": -65588.5390625,
+      "y": -38691.49609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Ashley.md",
-      "x": 16126.7431640625,
-      "y": -28844.296875
+      "x": -71094.03125,
+      "y": -39508.98828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/David.md",
-      "x": 11162.0625,
-      "y": -1888.2691650390625
+      "x": -55962.1484375,
+      "y": -13889.1982421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Evan Boothe.md",
-      "x": 99698.71875,
-      "y": -28150.177734375
+      "x": -60932.4609375,
+      "y": -97130.1796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/Hana Hong.md",
-      "x": 74223.9921875,
-      "y": 9979.16796875
+      "x": -37810.62109375,
+      "y": -69315.6015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Commanders/Elder Rockwell.md",
-      "x": 93615.1171875,
-      "y": -83818.453125
+      "x": -119361.65625,
+      "y": -82435.0234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Commanders/Master John Yttoric.md",
-      "x": 53124.55078125,
-      "y": -73560.828125
+      "x": -87805.9140625,
+      "y": -62835.953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Commanders/Thomas Bruce.md",
-      "x": 72872.7421875,
-      "y": -60743.50390625
+      "x": -75968.140625,
+      "y": -55887.6015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Iteration Founders/Alberto Weider-Hoffman.md",
-      "x": 81295.734375,
-      "y": -10352.603515625
+      "x": -39678.76171875,
+      "y": -45613
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Lilly.md",
-      "x": -3811.06396484375,
-      "y": -19384.419921875
+      "x": -59268.76171875,
+      "y": -7678.7900390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Orvo.md",
-      "x": 83295.7578125,
-      "y": -85932.171875
+      "x": -113643.0546875,
+      "y": -90656.234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Shark Punching Center/Harker.md",
-      "x": -49215.60546875,
-      "y": -138878.96875
+      "x": -166874.5,
+      "y": 1382.209716796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Thomas Stonewall Jackson.md",
-      "x": -88541.328125,
-      "y": 92551.921875
+      "x": 145495.546875,
+      "y": 42780.22265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Téan.md",
-      "x": 42746.234375,
-      "y": -54392.84375
+      "x": -65745.1875,
+      "y": -26902.1796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Victor Villanueva.md",
-      "x": 33589.03125,
-      "y": -50717.7265625
+      "x": -72656.4375,
+      "y": -35834.78515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Ṭao.md",
-      "x": 41719.3984375,
-      "y": -44590.0234375
+      "x": -61467.77734375,
+      "y": -44002.8359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/5th Occult War.md",
-      "x": -135027.265625,
-      "y": 127862.296875
+      "x": 129551.09375,
+      "y": 138667.71875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Forbidden City Convention.md",
-      "x": -89624.390625,
-      "y": 145843.859375
+      "x": 154192.96875,
+      "y": 119228.875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Manahiem Massacre.md",
-      "x": 144248.921875,
-      "y": 4501.5390625
+      "x": -38377.8046875,
+      "y": -157810.390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Operation Magnolia.md",
-      "x": 93379.2578125,
-      "y": -107880.2265625
+      "x": -151579.28125,
+      "y": -60996.82421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Events/Procedure 110-Montauk.md",
-      "x": 70398.1953125,
-      "y": -72297.90625
+      "x": -113421.1640625,
+      "y": -6879.396484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Blue Hills Correctional Facility.md",
-      "x": 135814.671875,
-      "y": -2799.0908203125
+      "x": -35928.015625,
+      "y": -160823.375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Daeva city of Korar.md",
-      "x": 113495.71875,
-      "y": 58264.609375
+      "x": -61758.38671875,
+      "y": 86298.2578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Great Meadows National Reserve.md",
-      "x": 138756.09375,
-      "y": -13265.568359375
+      "x": -39282.546875,
+      "y": -160904.75
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Honshu.md",
-      "x": -92584.6796875,
-      "y": 201896.34375
+      "x": 118862.015625,
+      "y": 165534.390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Kyushu.md",
-      "x": -85115.5859375,
-      "y": 196940.53125
+      "x": 117793.8828125,
+      "y": 162834.734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Japan/Shikoku.md",
-      "x": -80803.953125,
-      "y": 204181.390625
+      "x": 113723.2265625,
+      "y": 162398.953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/JesusLand.md",
-      "x": 39711.30078125,
-      "y": -129228.6484375
+      "x": -115068.7578125,
+      "y": 64230.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Makiling's Grove.md",
-      "x": 154247.796875,
-      "y": -40816.5859375
+      "x": -86750.5625,
+      "y": -174098.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Penmynydd Hall.md",
-      "x": -75567.875,
-      "y": -147906.453125
+      "x": -189508.609375,
+      "y": 9144.2392578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-145K.md",
-      "x": 16830.4609375,
-      "y": -155372.890625
+      "x": -155429.59375,
+      "y": -49928.43359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-19.md",
-      "x": -14580.6787109375,
-      "y": -70477.3984375
+      "x": -100487.5,
+      "y": -23085.724609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-89.md",
-      "x": -28186.70703125,
-      "y": -53673.39453125
+      "x": -87548.28125,
+      "y": 3090.08056640625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/The Library.md",
-      "x": -60262.3984375,
-      "y": 2014.938720703125
+      "x": 27848.806640625,
+      "y": 9728.9755859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith/Abrahamic faiths.md",
-      "x": -58945.625,
-      "y": -77919.1171875
+      "x": -107884.8125,
+      "y": 11894.927734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith/Christianity/Christianity.md",
-      "x": 29590.6328125,
-      "y": -89870.421875
+      "x": -98577.96875,
+      "y": 18824.171875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Abrahamic Faith/Christianity/The Creator.md",
-      "x": 1277.286376953125,
-      "y": -100748.8828125
+      "x": -113773.34375,
+      "y": 46119.89453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/BASALT GORGON mystery cult/BASALT GORGON mystery cult.md",
-      "x": 38196.8046875,
-      "y": 4000.31982421875
+      "x": -52617.5390625,
+      "y": -28782.59765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/BASALT GORGON mystery cult/Goddess Sanna.md",
-      "x": 33880.171875,
-      "y": -2435.406982421875
+      "x": -56028.3125,
+      "y": -29189.24609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/BASALT GORGON mystery cult/related organisations.md",
-      "x": 23081.03515625,
-      "y": -8592.0869140625
+      "x": -76986.1171875,
+      "y": -40324.45703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Black Moon/Black Moon.md",
-      "x": -58637.6171875,
-      "y": -110454.4140625
+      "x": -158299.34375,
+      "y": 13390.9140625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Church of the Broken God/Church of the Broken God.md",
-      "x": -26886.408203125,
-      "y": 93491.984375
+      "x": 128181.484375,
+      "y": 52368.39453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Church of the Second Hytoth/Church of the Second Hytoth.md",
-      "x": 57966.8828125,
-      "y": -58440.734375
+      "x": -73646.3984375,
+      "y": -41544.33203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Daevites/Daevites.md",
-      "x": 59388.43359375,
-      "y": -90781.7265625
+      "x": -109044.15625,
+      "y": -42250.5390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups/Kahanism.md",
-      "x": 46856.2578125,
-      "y": 26083.09375
+      "x": -47082.6796875,
+      "y": -91774.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Fascist groups/Salafi Jihadism.md",
-      "x": 55820.78515625,
-      "y": 29806.330078125
+      "x": -44007.21875,
+      "y": -92909.703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Hindu/Skanda.md",
-      "x": -28578.9765625,
-      "y": -165506.359375
+      "x": -184619.875,
+      "y": -11637.3779296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Mekhane.md",
-      "x": -49242.05078125,
-      "y": -128983.171875
+      "x": -165618,
+      "y": -14363.857421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Sarkicism/Sarkicism.md",
-      "x": 22962.20703125,
-      "y": 13696.3251953125
+      "x": -33982.6640625,
+      "y": -23568.173828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu/Taronyu Society.md",
-      "x": 85752.15625,
-      "y": -205888.71875
+      "x": -101419.046875,
+      "y": -225269.34375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Taronyu/Taronyu.md",
-      "x": 72039.25,
-      "y": -214515.9375
+      "x": -104920.1171875,
+      "y": -224248.640625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Activities/The Children's Activities.md",
-      "x": 39132.6015625,
-      "y": -86286.2109375
+      "x": -102526.1015625,
+      "y": -57886.48046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikesh Codex.md",
-      "x": -20321.87109375,
-      "y": -42868.9140625
+      "x": -77104.2265625,
+      "y": 19562.365234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshan commune.md",
-      "x": -2812.02685546875,
-      "y": -133086.5
+      "x": -135407,
+      "y": 33212.6171875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Erikeshan Ancient Religion/Erikeshans.md",
-      "x": -26281.794921875,
-      "y": -74709.7578125
+      "x": -100623.5546875,
+      "y": 26235.75
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Goal.md",
-      "x": 10057.494140625,
-      "y": -21059.5234375
+      "x": -74484.0703125,
+      "y": -30202.099609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Mythology.md",
-      "x": 46921,
-      "y": -114735.3046875
+      "x": -121939.53125,
+      "y": -53980.07421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/Scarlet Covenant.md",
-      "x": 27948.908203125,
-      "y": -96448.3046875
+      "x": -82113.8359375,
+      "y": -71589.2890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Scarlet Covenant/URA-9521.md",
-      "x": 53312.5078125,
-      "y": -110239.8515625
+      "x": -110672.171875,
+      "y": -68189.7109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Verdant Covenant.md",
-      "x": -52275.62109375,
-      "y": -39668.99609375
+      "x": 6981.00341796875,
+      "y": -67488.8515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Covenants/Violet Covenant.md",
-      "x": -47341.02734375,
-      "y": -32137.998046875
+      "x": 8642.611328125,
+      "y": -64970.72265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Ero'Vahk.md",
-      "x": -2116.19482421875,
-      "y": -91975.2421875
+      "x": -110871.5390625,
+      "y": 36658.79296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Holy Beasts.md",
-      "x": 59929.875,
-      "y": -118667.8359375
+      "x": -128219.484375,
+      "y": -57126.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Kive'eveng Tun Koren.md",
-      "x": 88276.671875,
-      "y": -213100.75
+      "x": -102905.203125,
+      "y": -221771.5625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Scarlet Children.md",
-      "x": 60164.41015625,
-      "y": -127424.2109375
+      "x": -125809.609375,
+      "y": -59814.91796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Scarlet Spawn.md",
-      "x": 53158.3359375,
-      "y": -158471.015625
+      "x": -140535.375,
+      "y": -93257.7890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Scarlet Spawn/Third Spawn.md",
-      "x": 79360.6875,
-      "y": -218548.265625
+      "x": -99609.6875,
+      "y": -222331.703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides/A'habbat.md",
-      "x": 30828.560546875,
-      "y": -187964.578125
+      "x": -194029.921875,
+      "y": -83754.8125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides/A'nuht.md",
-      "x": -3883.087646484375,
-      "y": -72201.125
+      "x": -106497.8203125,
+      "y": -10445.16015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Mythology/Seven Scarlet Brides/Seven Scarlet Brides.md",
-      "x": 51047.09375,
-      "y": -124719.3671875
+      "x": -128933.5703125,
+      "y": -59993.34375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iteration of The Children.md",
-      "x": 40556.4296875,
-      "y": -136391.375
+      "x": -124492.9609375,
+      "y": -77941.6328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Alysída Ltd..md",
-      "x": 76680.34375,
-      "y": -77060.53125
+      "x": -87103.2890625,
+      "y": -75971.2421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Army of the New Dawn.md",
-      "x": -37950.0859375,
-      "y": -67771.8046875
+      "x": -81737.7578125,
+      "y": -12647.927734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Centzon Huītznāuhtin.md",
-      "x": 28483.958984375,
-      "y": -160679.78125
+      "x": -157316.109375,
+      "y": -68056.4765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Circuitous-Accelerationism.md",
-      "x": 45443.390625,
-      "y": -141528.484375
+      "x": -128474.703125,
+      "y": -83451.125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Kingship Land Bridge, LLC..md",
-      "x": 54984.0859375,
-      "y": -142169.265625
+      "x": -131632.65625,
+      "y": -83488.6796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Order of the Iron Tigers.md",
-      "x": 36192.02734375,
-      "y": -147502.8125
+      "x": -127150.34375,
+      "y": -86507.8046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Partido de Integralismo Guatemalteco.md",
-      "x": 46454.9765625,
-      "y": -149753.546875
+      "x": -130374.7265625,
+      "y": -86606.7109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Red Guards.md",
-      "x": -13632.4384765625,
-      "y": -89612.1640625
+      "x": -113024.828125,
+      "y": -32301.59375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Red Lily Church.md",
-      "x": 18471.265625,
-      "y": -144576.984375
+      "x": -144624.734375,
+      "y": -47036.44921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/Reypay 'Eveng or Blood Children.md",
-      "x": 62421.546875,
-      "y": -176715.8125
+      "x": -123501.4609375,
+      "y": -148747.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Christian Ministries of America.md",
-      "x": 80335.1875,
-      "y": -110654.03125
+      "x": -135677.78125,
+      "y": -72000.7578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Church of the Scarlet King.md",
-      "x": 61477.234375,
-      "y": -103563.046875
+      "x": -107483.21875,
+      "y": -80546.3984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Eponymous Children of the Scarlet King.md",
-      "x": -9561.326171875,
-      "y": -78949.6640625
+      "x": -94369.3828125,
+      "y": -54801.046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Notable iterations/Iterations/The Writings of Alberto Weider-Hoffman.md",
-      "x": 91269.7578125,
-      "y": 611.0066528320312
+      "x": -17419.138671875,
+      "y": -52708.625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6140.md",
-      "x": 86693.7109375,
-      "y": -49921.828125
+      "x": -70017.5859375,
+      "y": -60433.75
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/6659.md",
-      "x": 22213.392578125,
-      "y": -100580.5
+      "x": -117304,
+      "y": -35064.14453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/SCP-001 Ihp or Locke Proposal.md",
-      "x": 15724.7099609375,
-      "y": -88441.2109375
+      "x": -108643.140625,
+      "y": -28394.080078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/6140.md",
-      "x": 69634.8515625,
-      "y": -7812.88818359375
+      "x": -47012.01953125,
+      "y": -45929.61328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/Abridged Retirement Proposal.md",
-      "x": 29189.29296875,
-      "y": -73105.140625
+      "x": -82413.5703125,
+      "y": -45919.2421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Origins/At Creations End.md",
-      "x": 65720.84375,
-      "y": -53307.15234375
+      "x": -71024.4453125,
+      "y": -43228.6796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Practices of The Children.md",
-      "x": 60663.23828125,
-      "y": -68022.53125
+      "x": -91844.09375,
+      "y": -42434.9609375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Rituals/Giah-Rex.md",
-      "x": 14117.6337890625,
-      "y": 38438.90625
+      "x": 4546.47998046875,
+      "y": -9649.2607421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army/Generals of the Scarlet King.md",
-      "x": -55477.8515625,
-      "y": -59535.15234375
+      "x": -92163.109375,
+      "y": 25199.634765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Scarlet King's Army/Scarlet King's Army.md",
-      "x": -31890.1875,
-      "y": -32787.95703125
+      "x": -72008.3125,
+      "y": 31415.970703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Structure/Structure.md",
-      "x": 47847.34765625,
-      "y": 17335.078125
+      "x": -49556.4375,
+      "y": -82925.3984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The Children.md",
-      "x": 31806.51171875,
-      "y": -40879.03515625
+      "x": -69406.2578125,
+      "y": -36472.8359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/The key beliefs of The Children.md",
-      "x": 15202.4677734375,
-      "y": -12861.564453125
+      "x": -71952.4140625,
+      "y": -28457.240234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/The Imit People/The Imit People.md",
-      "x": 28676.490234375,
-      "y": -123344.609375
+      "x": -136674.234375,
+      "y": -38774.72265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Religion Relations/Xebotisum/Xebiotisum.md",
-      "x": -38814.109375,
-      "y": -142172.15625
+      "x": -165344.15625,
+      "y": -5860.69775390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/Project Proposal 2021-2317.md",
-      "x": 68428.7578125,
-      "y": 1562.770751953125
+      "x": -45595.12890625,
+      "y": -60996.5390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-019-J.md",
-      "x": 11266.609375,
-      "y": 7332.85302734375
+      "x": -48895.98828125,
+      "y": -8304.5283203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-089.md",
-      "x": -5847.8212890625,
-      "y": -122781.234375
+      "x": -137718.34375,
+      "y": -10686.0615234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-108.md",
-      "x": -17921.2890625,
-      "y": 196602.40625
+      "x": 168893.140625,
+      "y": 222398.25
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-140.md",
-      "x": 80146.21875,
-      "y": -45654.625
+      "x": -68328.7265625,
+      "y": -56344.125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-166.md",
-      "x": -25118.953125,
-      "y": -26194.51953125
+      "x": -57571.71484375,
+      "y": 7406.55419921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1782.md",
-      "x": 85096.203125,
-      "y": -97137.765625
+      "x": -141342.71875,
+      "y": -46216.66796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1832.md",
-      "x": 101752.4921875,
-      "y": -126161.796875
+      "x": -169180.703125,
+      "y": -101034.0546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1851.md",
-      "x": -97837.78125,
-      "y": 158400.46875
+      "x": 175577.5,
+      "y": 111033.046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1974.md",
-      "x": -29481.400390625,
-      "y": -129593.984375
+      "x": -152219.765625,
+      "y": -7681.83740234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-1981.md",
-      "x": -30539.03515625,
-      "y": -138456.171875
+      "x": -148159.78125,
+      "y": 9719.515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2000.md",
-      "x": -49141.72265625,
-      "y": 179695.21875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-20922.md",
-      "x": -257281.46875,
-      "y": 322226.1875
+      "x": 171409.421875,
+      "y": 169823.34375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2137.md",
-      "x": -35189.484375,
-      "y": -103596.875
+      "x": -132414.5625,
+      "y": -12518.8203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-231-J.md",
-      "x": 118103.8515625,
-      "y": 384375.59375
+      "x": -310985,
+      "y": -208867.1875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-231.md",
-      "x": 63023.109375,
-      "y": -78989.0078125
+      "x": -112554.453125,
+      "y": -19950.169921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2317.md",
-      "x": -11393.966796875,
-      "y": -96934.109375
+      "x": -120554.8828125,
+      "y": 47.437103271484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2439.md",
-      "x": -22199.041015625,
-      "y": -159072.296875
+      "x": -173666.40625,
+      "y": -11510.0205078125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2515 (Napoleon Bonaparte).md",
-      "x": -131415.453125,
-      "y": 136910.96875
+      "x": 126301.328125,
+      "y": 138872.4375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2522.md",
-      "x": -45394.51171875,
-      "y": -58827.9765625
+      "x": -92104.6484375,
+      "y": 15784.490234375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2718.md",
-      "x": -37307.265625,
-      "y": 133999.1875
+      "x": 94330.0390625,
+      "y": 97370.3671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2747.md",
-      "x": 30314.93359375,
-      "y": -130369.09375
+      "x": -135350.84375,
+      "y": -43517.0546875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2750.md",
-      "x": -54725.75390625,
-      "y": 187424.9375
+      "x": 174089.546875,
+      "y": 168471.9375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2863.md",
-      "x": -73202.25,
-      "y": 198776
+      "x": 115063.375,
+      "y": 165277.90625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-3150.md",
-      "x": -36101.140625,
-      "y": -76382.015625
+      "x": -105578.90625,
+      "y": 15984.2041015625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-3178.md",
-      "x": 106741.4375,
-      "y": -103725.359375
+      "x": -142890.890625,
+      "y": -105654.8046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-343.md",
-      "x": 25253.021484375,
-      "y": -81391.4765625
+      "x": -105663.2265625,
+      "y": -23310.2109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-3838.md",
-      "x": 5691.3837890625,
-      "y": -128851.984375
+      "x": -130015.140625,
+      "y": 10940.7763671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-3932.md",
-      "x": -56833.05078125,
-      "y": -121479.984375
+      "x": -161531,
+      "y": 4606.96923828125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4150.md",
-      "x": -24450.744140625,
-      "y": -119876.6328125
+      "x": -134274.4375,
+      "y": -10043.13671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4221.md",
-      "x": -16734.611328125,
-      "y": -113660.75
+      "x": -132294.3125,
+      "y": -3699.07177734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4231.md",
-      "x": -8927.78125,
-      "y": -26944.37109375
+      "x": -61243.6328125,
+      "y": -529.8055419921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4261.md",
-      "x": -47224.48046875,
-      "y": -77439.734375
+      "x": -104912.59375,
+      "y": 4056.6591796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4288.md",
-      "x": 129319.2890625,
-      "y": 15960.7001953125
+      "x": -41369.49609375,
+      "y": -155111.53125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4370.md",
-      "x": 106789.5625,
-      "y": -80963.34375
+      "x": -120706.90625,
+      "y": -107811.9375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4505-265.md",
-      "x": -20686.560546875,
-      "y": -100303.046875
+      "x": -135706.03125,
+      "y": -13169.890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4547-B2.md",
-      "x": 73154.2890625,
-      "y": -200835.140625
+      "x": -109537.4375,
+      "y": -210085.109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4547.md",
-      "x": 68783.8515625,
-      "y": -191184.890625
+      "x": -118099.375,
+      "y": -183484.46875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4574-B4.md",
-      "x": 77253.1875,
-      "y": -205881.859375
+      "x": -104681.7890625,
+      "y": -216590.4375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4982.md",
-      "x": -67786.015625,
-      "y": 2797.423828125
+      "x": 32441.412109375,
+      "y": 9548.5029296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-4989.md",
-      "x": -19853.9765625,
-      "y": -57775.7578125
+      "x": -89123.9609375,
+      "y": -4468.7412109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5008.md",
-      "x": -13605.216796875,
-      "y": -62084.8046875
+      "x": -93666.515625,
+      "y": -4254.72216796875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5034.md",
-      "x": -46643.734375,
-      "y": -106910.640625
+      "x": -147802.203125,
+      "y": 4604.2822265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5317.md",
-      "x": 12937.6015625,
-      "y": -128003.9296875
+      "x": -140342.359375,
+      "y": -24571.08984375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5641.md",
-      "x": -15729.3369140625,
-      "y": -148432
+      "x": -157539.75,
+      "y": -11199.5712890625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-570.md",
-      "x": 26016.576171875,
-      "y": -54591.8984375
+      "x": -70469.640625,
+      "y": -32387.642578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-582.md",
-      "x": 93902.140625,
-      "y": -94069.4296875
+      "x": -146390.390625,
+      "y": -38413.53125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5832.md",
-      "x": -24465.115234375,
-      "y": -107891.296875
+      "x": -135541.984375,
+      "y": -4555.888671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5952.md",
-      "x": 71914.4921875,
-      "y": -114884.9609375
+      "x": -136862.90625,
+      "y": -59711.359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5953.md",
-      "x": -46866.07421875,
-      "y": -115775
+      "x": -149617.9375,
+      "y": -1209.79296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-597.md",
-      "x": -13319.4091796875,
-      "y": -178275.125
+      "x": -173705.15625,
+      "y": 54091.67578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-5991.md",
-      "x": 29229.1015625,
-      "y": -115661.875
+      "x": -111767.421875,
+      "y": 53823.37109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6019.md",
-      "x": 9637.76171875,
-      "y": 30395.72265625
+      "x": -1813.1243896484375,
+      "y": -10166.18359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6140.md",
-      "x": 64775.328125,
-      "y": 9619.8759765625
+      "x": -35934.87890625,
+      "y": -48393.09765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-616.md",
-      "x": -30039.81640625,
-      "y": -9175.5615234375
+      "x": -62524.890625,
+      "y": 36590.95703125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6265.md",
-      "x": -37870.29296875,
-      "y": -119833.984375
+      "x": -152482.265625,
+      "y": -13264.669921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6462.md",
-      "x": 4360.5654296875,
-      "y": -71123.1875
+      "x": -102766.6796875,
+      "y": -16460.578125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6626.md",
-      "x": -21171.50390625,
-      "y": -139845.75
+      "x": -152429.28125,
+      "y": 3720.844482421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6659.md",
-      "x": 39871.359375,
-      "y": -113433.546875
+      "x": -126932,
+      "y": -49241.6953125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6747.md",
-      "x": 17556.177734375,
-      "y": -120910.84375
+      "x": -131734.609375,
+      "y": -32503.1875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6765-E.md",
-      "x": 19939.96484375,
-      "y": -108491.34375
+      "x": -125572.0703125,
+      "y": -25345.484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-682.md",
-      "x": -13981.8203125,
-      "y": -131568.484375
+      "x": -137892.625,
+      "y": 9215.232421875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-6996.md",
-      "x": -7905.88330078125,
-      "y": -112821.984375
+      "x": -131057.4140625,
+      "y": -8396.013671875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7140.md",
-      "x": 47482.49609375,
-      "y": 57.53204345703125
+      "x": -50779.71484375,
+      "y": -36160.4296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7231.md",
-      "x": 10124.5927734375,
-      "y": -106218.03125
+      "x": -117713.90625,
+      "y": 13574.4853515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7232.md",
-      "x": 86247.2890625,
-      "y": -25601.248046875
+      "x": -56055.171875,
+      "y": -61928.11328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7234.md",
-      "x": -31755.412109375,
-      "y": -112832.7265625
+      "x": -133840.234375,
+      "y": -6975.58544921875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7264.md",
-      "x": -61081.13671875,
-      "y": -151108.859375
+      "x": -181225.375,
+      "y": 6230.77978515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7324.md",
-      "x": 107316.8359375,
-      "y": -134646.671875
+      "x": -177668.46875,
+      "y": -106380.453125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7527.md",
-      "x": 8025.74365234375,
-      "y": -79755.7109375
+      "x": -105551.6015625,
+      "y": -19507.98046875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7547.md",
-      "x": 121846.0703125,
-      "y": -5956.46044921875
+      "x": -39400.09375,
+      "y": -150526.84375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8008.md",
-      "x": -10963.908203125,
-      "y": -170901.03125
+      "x": -167541.6875,
+      "y": 46864.75390625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8025.md",
-      "x": -29526.6640625,
-      "y": -96925.9453125
+      "x": -129777.015625,
+      "y": -5470.361328125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8166.md",
-      "x": 6750.7646484375,
-      "y": 91349.015625
+      "x": 92385.390625,
+      "y": -45371.7265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8231.md",
-      "x": -15568.083984375,
-      "y": -123331.21875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-8364.md",
-      "x": 330944.6875,
-      "y": -206414.8125
+      "x": -137349.375,
+      "y": -7574.7880859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-999.md",
-      "x": -11780.947265625,
-      "y": -139614.625
+      "x": -141677.0625,
+      "y": 7899.10693359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-REDD.md",
-      "x": -39787.18359375,
-      "y": -88732.140625
+      "x": -122957.5859375,
+      "y": 15161.884765625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP Relations/UE-838992.md",
-      "x": -65201.9375,
-      "y": -124825.5390625
+      "x": -180431.328125,
+      "y": 21102.5859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Tale relations/Ecce Perago.md",
-      "x": -125238.1171875,
-      "y": 117147.9375
+      "x": 143502.234375,
+      "y": 106016.578125
     },
     {
       "id": "Scarlet King/Scarlet King.md",
-      "x": -9958.04296875,
-      "y": -104930.2578125
-    },
-    {
-      "id": "Tale/Critiques.md",
-      "x": -134377.640625,
-      "y": -200275.421875
-    },
-    {
-      "id": "Tale/Expansion into the mythos.md",
-      "x": -126369.6875,
-      "y": -183882.6875
-    },
-    {
-      "id": "Tale/Improvement.md",
-      "x": -145189.1875,
-      "y": -186972.421875
-    },
-    {
-      "id": "Tale/Strengthening the tale.md",
-      "x": -142876.21875,
-      "y": -200241.984375
-    },
-    {
-      "id": "Tale/The Unwritten Directive.md",
-      "x": -136639.140625,
-      "y": -188634.046875
+      "x": -127905.21875,
+      "y": -10949.4287109375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/MTF/MTF Alpha-1 The Red Right Hand.md",
-      "x": 90426.7578125,
-      "y": 49352.66015625
+      "x": -50637.07421875,
+      "y": 71286.265625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Eriksson.md",
-      "x": -168677.703125,
-      "y": -26874.48828125
+      "x": 255946.296875,
+      "y": -80420.359375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Harold Holt.md",
-      "x": -71904.3828125,
-      "y": 80809.4296875
+      "x": 66188.1640625,
+      "y": 110255.4296875
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Lucian Greaves.md",
-      "x": 116436.78125,
-      "y": 48544.19921875
+      "x": -63424.26171875,
+      "y": 83561.3515625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Mr. Huang.md",
-      "x": -122880.328125,
-      "y": 6315.009765625
+      "x": 207632.53125,
+      "y": -53185.5859375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/Roger Langley.md",
-      "x": -157710.96875,
-      "y": -35353.63671875
+      "x": 254262.125,
+      "y": -83042.734375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/Important people/The Children/Dunst Amherst.md",
-      "x": 70178.625,
-      "y": -35383.828125
+      "x": -63794.23828125,
+      "y": -32427.158203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Dr. Mackenzie's Proposal.md",
-      "x": -76298.828125,
-      "y": 158912.625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal.md",
-      "x": 38342.828125,
-      "y": -77775.7421875
+      "x": 224029.125,
+      "y": 67173.625
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001 Tufto's Proposal.md",
-      "x": 35161.90234375,
-      "y": -105721.4140625
+      "x": -123758.0625,
+      "y": -38569.46484375
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001-EX-A.md",
-      "x": 603.3519897460938,
-      "y": -115886.8203125
+      "x": -129492.5,
+      "y": 21984.3203125
     },
     {
       "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/SCP-001-KING (ROUNDERHOUSE's Jade Proposal).md",
-      "x": 107765.3125,
-      "y": 46864.0859375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain Kirby's proposal.md",
-      "x": -121413.59375,
-      "y": 21608.521484375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain. Kirby's proposal.md",
-      "x": -115669.296875,
-      "y": -5596.36962890625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Ethics committee Caesar.md",
-      "x": -129159.8125,
-      "y": 31421.828125
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/Doctor. Bright's proposal.md",
-      "x": -203974.546875,
-      "y": 148494.796875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/The factory.md",
-      "x": -211978.484375,
-      "y": 150941.59375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Letter sent by the Administrator.md",
-      "x": -147405.578125,
-      "y": 10570.498046875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-10-Current.md",
-      "x": -128773.5390625,
-      "y": -11789.978515625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-1-Current.md",
-      "x": -159685.0625,
-      "y": -19158.05078125
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-11-Current.md",
-      "x": -128495.5859375,
-      "y": -29641.787109375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-13-Current.md",
-      "x": -137777.265625,
-      "y": 3153.010498046875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-2-Current.md",
-      "x": -149482.859375,
-      "y": -30191.1484375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-12-Current.md",
-      "x": -133446.078125,
-      "y": 18919.220703125
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-3-Current.md",
-      "x": -126782.171875,
-      "y": -21078.322265625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-4-Current.md",
-      "x": -135984.5625,
-      "y": -16419.80859375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-5-Current.md",
-      "x": -138503.796875,
-      "y": -26872.740234375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-6-Current.md",
-      "x": -135744.140625,
-      "y": -36121.75390625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-7-Current.md",
-      "x": -144178.578125,
-      "y": -19578.10546875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-8-Current.md",
-      "x": -144729.015625,
-      "y": -37375.2421875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-9-Current.md",
-      "x": -151469.890625,
-      "y": -19032.552734375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/Administrator-Current.md",
-      "x": -163847.65625,
-      "y": -32011.859375
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/Caesar Current.md",
-      "x": -141815.4375,
-      "y": -9300.35546875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-1-Past.md",
-      "x": -161001.25,
-      "y": -886.1744995117188
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-10-Past.md",
-      "x": -149379.296875,
-      "y": 28183.87890625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-11-Past.md",
-      "x": -174722.390625,
-      "y": 7291.50732421875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
-      "x": -152230.140625,
-      "y": 2683.061279296875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-2-Past.md",
-      "x": -180016.609375,
-      "y": -8343.1494140625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-12-Past.md",
-      "x": -171617.390625,
-      "y": -6142.8369140625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-3-Past.md",
-      "x": -168388.71875,
-      "y": 2739.779296875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-4-Past.md",
-      "x": -177106.65625,
-      "y": 15307.2841796875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-5-Past.md",
-      "x": -182603.59375,
-      "y": 2280.1357421875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-6-Past.md",
-      "x": -186555.625,
-      "y": 9808.876953125
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-7-Past.md",
-      "x": -187879.796875,
-      "y": -4510.5546875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-9-Past.md",
-      "x": -143987.296875,
-      "y": 42044.94921875
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-8-Past.md",
-      "x": -178456.109375,
-      "y": 33229.84765625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Administrator-Past.md",
-      "x": -174458.625,
-      "y": -17859.353515625
-    },
-    {
-      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Caesar Past.md",
-      "x": -165107.453125,
-      "y": 13255.705078125
+      "x": -60585.4296875,
+      "y": 76374.0234375
     },
     {
       "id": "Red Right Hand",
-      "x": 122812.3359375,
-      "y": 53143.52734375
+      "x": -59604.3359375,
+      "y": 83818.0234375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain Kirby's proposal.md",
+      "x": 225376.4375,
+      "y": -23734.2890625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Captain. Kirby's proposal.md",
+      "x": 182610.015625,
+      "y": -54463.9296875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Ethics committee Caesar.md",
+      "x": 217277.640625,
+      "y": -32035.2109375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/Doctor. Bright's proposal.md",
+      "x": 160766.890625,
+      "y": 206559.9375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Doctor. Bright's proposal/The factory.md",
+      "x": 167374.765625,
+      "y": 212231.21875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Letter sent by the Administrator.md",
+      "x": 238088.765625,
+      "y": -48468.87890625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-10-Current.md",
+      "x": 235661.171875,
+      "y": -73145.2578125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-1-Current.md",
+      "x": 249551.5625,
+      "y": -76233.859375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-11-Current.md",
+      "x": 235773.84375,
+      "y": -81461.5
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-13-Current.md",
+      "x": 232262.203125,
+      "y": -54249.45703125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-2-Current.md",
+      "x": 233237.71875,
+      "y": -79127.46875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-12-Current.md",
+      "x": 228403.5,
+      "y": -40799.8203125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-3-Current.md",
+      "x": 232514.6875,
+      "y": -82330.5546875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-4-Current.md",
+      "x": 237525.34375,
+      "y": -78888.140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-5-Current.md",
+      "x": 231306.703125,
+      "y": -76438.34375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-6-Current.md",
+      "x": 228544.34375,
+      "y": -77657.0078125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-7-Current.md",
+      "x": 234767.578125,
+      "y": -76257.65625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-8-Current.md",
+      "x": 229728.6875,
+      "y": -80670.15625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/05-9-Current.md",
+      "x": 238043.96875,
+      "y": -75659.140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/Administrator-Current.md",
+      "x": 224374.453125,
+      "y": -66631.1484375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar current/Caesar Current.md",
+      "x": 231224.609375,
+      "y": -72991.8203125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-1-Past.md",
+      "x": 217755.46875,
+      "y": -38999.72265625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-10-Past.md",
+      "x": 173026.421875,
+      "y": -3500.672119140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-11-Past.md",
+      "x": 196739.65625,
+      "y": -29374.82421875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-13-Past.md",
+      "x": 232138.125,
+      "y": -47839.72265625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-2-Past.md",
+      "x": 199223.6875,
+      "y": -31058.994140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-12-Past.md",
+      "x": 196095.640625,
+      "y": -26333.81640625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-3-Past.md",
+      "x": 203744.359375,
+      "y": -24511.9296875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-4-Past.md",
+      "x": 202271.359375,
+      "y": -30220.44140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-5-Past.md",
+      "x": 201277.328125,
+      "y": -22660.19140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-6-Past.md",
+      "x": 200409,
+      "y": -27320.111328125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-7-Past.md",
+      "x": 204027.140625,
+      "y": -27529.115234375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-9-Past.md",
+      "x": 177426.015625,
+      "y": 10253.8662109375
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/05-8-Past.md",
+      "x": 184655.90625,
+      "y": 20199.19921875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Administrator-Past.md",
+      "x": 210270.203125,
+      "y": -45048.98046875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/05 Council/Caesar past/Caesar Past.md",
+      "x": 198525.21875,
+      "y": -24417.625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/Important people/Felix Carter.md",
+      "x": 170202.46875,
+      "y": 34342.53515625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-2772.md",
+      "x": 208685.515625,
+      "y": 106441.15625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/McDoctorate's Proposal - The Placeholder.md",
+      "x": 15279.46484375,
+      "y": -93941.296875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/RAISA/Recordkeeping and Information Security Administration.md",
+      "x": 21813.009765625,
+      "y": -96719.90625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/RAISA/Directors/Maria Jones.md",
+      "x": 34284.97265625,
+      "y": -103445.546875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 1/McDoctorate's Proposal - Offset 1.md",
+      "x": 41052.27734375,
+      "y": -107258.6015625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 1/Anomalies of Sentimental Value.md",
+      "x": 47860.89453125,
+      "y": -111036.921875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 3/McDoctorate's Proposal - Offset 3.md",
+      "x": -375084.375,
+      "y": -30166.876953125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-01.md",
+      "x": -373179.25,
+      "y": -27131.25
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Archivist Prime.md",
+      "x": -377276.3125,
+      "y": -27335.20703125
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Archival Form.md",
+      "x": -372123.5,
+      "y": -34350.48046875
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Primordial Form.md",
+      "x": -377636.25,
+      "y": -34618.94140625
+    },
+    {
+      "id": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 3/Addendum 001.2 - Project Proposal.md",
+      "x": -374691.90625,
+      "y": -38364.20703125
+    },
+    {
+      "id": "Hanged King/Ambassador.md",
+      "x": -187867.609375,
+      "y": 6115.001953125
+    },
+    {
+      "id": "Hanged King/Hanged King.md",
+      "x": -186407.625,
+      "y": 3821.981689453125
+    },
+    {
+      "id": "Hanged King/unknown nobleman.md",
+      "x": -183952.640625,
+      "y": 5581.40087890625
+    },
+    {
+      "id": "Improvements/Notes.md",
+      "x": -63582.87890625,
+      "y": -144378.21875
+    },
+    {
+      "id": "Improvements/Recommendations for the final piece.md",
+      "x": -155074.8125,
+      "y": -31980.412109375
+    },
+    {
+      "id": "Improvements/Strengths.md",
+      "x": 26962.6328125,
+      "y": -142428.828125
+    },
+    {
+      "id": "Improvements/Structure For SCP Hybrid Entry.md",
+      "x": 21020.44921875,
+      "y": -148035.265625
+    },
+    {
+      "id": "Mythos/1st Log.md",
+      "x": 134742.375,
+      "y": -37386.95703125
+    },
+    {
+      "id": "Mythos/Narrative ideas for the SCP.md",
+      "x": 32250.828125,
+      "y": -136034.265625
+    },
+    {
+      "id": "SCP-XXXX/Concept clarification.md",
+      "x": -198879.671875,
+      "y": -133099.09375
+    },
+    {
+      "id": "SCP-XXXX/Concept.md",
+      "x": -174007.1875,
+      "y": -83054.84375
+    },
+    {
+      "id": "SCP-XXXX/Mechanics of the antimemetics.md",
+      "x": -74808.375,
+      "y": -69212.6640625
+    },
+    {
+      "id": "SCP-XXXX/Outcomes/Outcomes.md",
+      "x": 272886.9375,
+      "y": -165997.59375
+    },
+    {
+      "id": "SCP-XXXX/Outcomes/Perpetual Equilibrium.md",
+      "x": 298772.6875,
+      "y": -170952.15625
+    },
+    {
+      "id": "SCP-XXXX/Outcomes/Pyrrhic Victory and Unveiling.md",
+      "x": 300710.9375,
+      "y": -168414.671875
+    },
+    {
+      "id": "SCP-XXXX/Outcomes/The Hollow Salvation.md",
+      "x": 303446.625,
+      "y": -169884.453125
+    },
+    {
+      "id": "SCP-XXXX/Outcomes/The Loop.md",
+      "x": 301431.71875,
+      "y": -172837.71875
+    },
+    {
+      "id": "SCP-XXXX/Relation to the foundation.md",
+      "x": -44191.12109375,
+      "y": -158087.484375
+    },
+    {
+      "id": "SCP-XXXX/SCP-XXXX.md",
+      "x": -20212.943359375,
+      "y": -112634.3125
+    },
+    {
+      "id": "Tale/Critiques.md",
+      "x": -102880.5,
+      "y": -48002.625
+    },
+    {
+      "id": "Tale/Expansion into the mythos.md",
+      "x": 20692.9921875,
+      "y": -79677.8125
+    },
+    {
+      "id": "Tale/Improvement.md",
+      "x": 126030.125,
+      "y": 42027.19921875
+    },
+    {
+      "id": "Tale/Strengthening the tale.md",
+      "x": 123575.9375,
+      "y": 44770.59375
+    },
+    {
+      "id": "Tale/The Unwritten Directive.md",
+      "x": 77190.296875,
+      "y": -12386.173828125
     }
   ],
   "automaticallyRestoreNodePositions": false

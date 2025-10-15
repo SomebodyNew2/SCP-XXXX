@@ -6,13 +6,13 @@
       "properties": false,
       "property-key": true,
       "links": false,
-      "linksSameColorAsNode": true,
+      "linksSameColorAsNode": false,
       "folders": false,
       "imagesFromProperty": false,
       "imagesFromEmbeds": false,
       "imagesForAttachments": false,
       "focus": true,
-      "shapes": true,
+      "shapes": false,
       "elements-stats": true,
       "names": false,
       "icons": false,
@@ -32,7 +32,7 @@
       "focus": false,
       "shapes": false,
       "elements-stats": false,
-      "names": true,
+      "names": false,
       "icons": false,
       "arrows": false
     }
@@ -55,32 +55,9 @@
       "enableByDefault": true
     },
     "folder": {
-      "colormap": "gist_rainbow",
-      "colors": [
-        {
-          "type": "Scarlet King/Scarlet King Relationships/Faction Relations",
-          "color": "#f2da79"
-        },
-        {
-          "type": "Scarlet King/Scarlet King Relationships/Religion Relations",
-          "color": "#b579f2"
-        },
-        {
-          "type": "Scarlet King/Scarlet King Relationships/Important people",
-          "color": "#79f293"
-        },
-        {
-          "type": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council",
-          "color": "#f27983"
-        },
-        {
-          "type": "Scarlet King/Scarlet King Relationships/SCP Relations",
-          "color": "#79a5f2"
-        }
-      ],
-      "unselected": [
-        "/"
-      ],
+      "colormap": "winter",
+      "colors": [],
+      "unselected": [],
       "noneType": ".",
       "showOnGraph": true,
       "enableByDefault": false
@@ -88,30 +65,18 @@
   },
   "additionalProperties": {},
   "backupGraphOptions": {
-    "collapse-filter": true,
+    "collapse-filter": false,
     "showTags": false,
     "showAttachments": false,
     "hideUnresolved": false,
-    "showOrphans": true,
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    "collapse-color-groups": false,
-    "colorGroups": [
-      {
-        "query": "path:\"Faction Relations\"",
-        "color": {
-          "a": 1,
-          "rgb": 14701138
-=======
-<<<<<<< HEAD
+    "showOrphans": false,
     "collapse-color-groups": false,
     "colorGroups": [
       {
         "query": "path:\"Scarlet King/Scarlet King Relationships/Religion Relations/The Children\"  ",
         "color": {
           "a": 1,
-          "rgb": 14352384
+          "rgb": 11010048
         }
       },
       {
@@ -133,52 +98,26 @@
         "color": {
           "a": 1,
           "rgb": 64121
->>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Important people\"",
         "color": {
           "a": 1,
-<<<<<<< HEAD
-          "rgb": 14725458
-=======
           "rgb": 16716016
->>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Locations\"",
         "color": {
           "a": 1,
-<<<<<<< HEAD
-          "rgb": 11851632
-=======
           "rgb": 43002
->>>>>>> origin/SCP-XXXX
         }
       },
       {
         "query": "path:\"Events\"",
         "color": {
           "a": 1,
-<<<<<<< HEAD
-          "rgb": 5431378
-        }
-      },
-      {
-        "query": "path:\"Religion relations\"",
-        "color": {
-          "a": 1,
-          "rgb": 5431473
-        }
-      },
-      {
-        "query": "path:\"Tale relations\"",
-        "color": {
-          "a": 1,
-          "rgb": 5419488
-=======
           "rgb": 2763498
         }
       },
@@ -186,28 +125,21 @@
         "query": "path:\"Faction Relations\"",
         "color": {
           "a": 1,
-          "rgb": 13958912
->>>>>>> origin/SCP-XXXX
+          "rgb": 16774912
         }
       },
       {
         "query": "path:\"SCP Relations\"",
         "color": {
           "a": 1,
-<<<<<<< HEAD
-          "rgb": 5395168
+          "rgb": 16746496
         }
       },
       {
-        "query": "file:\"Scarlet King\"",
+        "query": "path:\"001 Relations\"",
         "color": {
           "a": 1,
-          "rgb": 16777215
-        }
-      }
-    ],
-=======
-          "rgb": 16746496
+          "rgb": 8388168
         }
       }
     ],
@@ -215,45 +147,14 @@
     "showArrow": true,
     "textFadeMultiplier": -3,
     "nodeSizeMultiplier": 3.27906574394464,
-    "lineSizeMultiplier": 1.21055363321799,
+    "lineSizeMultiplier": 2.46522491349481,
     "collapse-forces": false,
     "centerStrength": 0,
     "repelStrength": 20,
-    "linkStrength": 0.0882352941176471,
+    "linkStrength": 0.05,
     "linkDistance": 500,
-    "scale": 0.0078125,
+    "scale": 0.04466655359961197,
     "close": true
-=======
->>>>>>> origin/SCP-XXXX
-    "collapse-color-groups": true,
-    "colorGroups": [],
->>>>>>> origin/SCP-XXXX
-    "collapse-display": true,
-    "showArrow": false,
-    "textFadeMultiplier": 0,
-    "nodeSizeMultiplier": 1,
-    "lineSizeMultiplier": 1,
-<<<<<<< HEAD
-    "collapse-forces": false,
-    "centerStrength": 0,
-    "repelStrength": 20,
-    "linkStrength": 0.5,
-    "linkDistance": 500,
-    "scale": 0.0078125,
-    "close": true
-=======
-    "collapse-forces": true,
-    "centerStrength": 0.518713248970312,
-    "repelStrength": 10,
-    "linkStrength": 1,
-    "linkDistance": 250,
-    "scale": 1,
-    "close": false
-<<<<<<< HEAD
-=======
->>>>>>> origin/SCP-XXXX
->>>>>>> origin/SCP-XXXX
->>>>>>> origin/SCP-XXXX
   },
   "states": [
     {
@@ -278,45 +179,11 @@
         "linkStrength": 1,
         "repelStrength": 10
       },
-      "toggleTypes": {
-        "tag": [],
-        "link": [],
-        "folder": []
-      },
-      "pinNodes": {},
-      "hiddenLegendRows": [],
-      "collapsedLegendRows": []
-    },
-    {
-      "id": "9a836002-f2b0-450c-a8af-c4e98794c5fa",
-      "name": "IDK",
-      "toggleTypes": {
-        "link": [],
-        "folder": [],
-        "tag": []
-      },
-      "pinNodes": {},
-      "hiddenLegendRows": [],
-      "collapsedLegendRows": [],
-      "engineOptions": {
-        "colorGroups": [],
-        "hideUnresolved": false,
-        "showAttachments": false,
-        "showOrphans": true,
-        "showTags": false,
-        "lineSizeMultiplier": 1,
-        "nodeSizeMultiplier": 1,
-        "showArrow": false,
-        "textFadeMultiplier": 0,
-        "centerStrength": 0.518713248970312,
-        "linkDistance": 250,
-        "linkStrength": 1,
-        "repelStrength": 10
-      }
+      "toggleTypes": {}
     }
   ],
-  "startingStateID": "9a836002-f2b0-450c-a8af-c4e98794c5fa",
-  "openInNewTab": true,
+  "startingStateID": "default-vault",
+  "openInNewTab": false,
   "imageProperties": [
     "image"
   ],
@@ -326,91 +193,44 @@
   "nodesSizeProperties": [
     ""
   ],
-  "nodesSizeFunction": "authority",
-  "nodesColorColormap": "jet",
+  "nodesSizeFunction": "default",
+  "nodesColorColormap": "YlOrRd",
   "nodesColorFunction": "default",
   "invertNodeStats": false,
   "linksSizeFunction": "default",
   "linksColorColormap": "YlOrRd",
   "linksColorFunction": "default",
-  "zoomFactor": 5,
-  "maxNodes": 10000,
+  "zoomFactor": 2,
+  "maxNodes": 20,
   "delay": 500,
   "revertAction": false,
   "enableCSS": false,
   "cssSnippetFilename": "",
   "shapeQueries": {
     "circle": {
-      "combinationLogic": "OR",
+      "combinationLogic": "AND",
       "index": 0,
-      "rules": [
-        {
-          "source": "file",
-          "property": "",
-          "value": "Scarlet King",
-          "logic": "contains"
-        },
-        {
-          "source": "file",
-          "property": "",
-          "value": "The Children",
-          "logic": "contains"
-        }
-      ]
+      "rules": []
     },
     "square": {
-      "combinationLogic": "OR",
+      "combinationLogic": "AND",
       "index": 1,
-      "rules": [
-        {
-          "source": "folder",
-          "property": "",
-          "value": "Scarlet King/Scarlet King Relationships/Faction Relations",
-          "logic": "contains"
-        },
-        {
-          "source": "folder",
-          "property": "",
-          "value": "Scarlet King/Scarlet King Relationships/Religion Relations",
-          "logic": "contains"
-        }
-      ]
+      "rules": []
     },
     "triangle": {
-      "combinationLogic": "OR",
+      "combinationLogic": "AND",
       "index": 2,
-      "rules": [
-        {
-          "source": "folder",
-          "property": "",
-          "value": "Scarlet King/Scarlet King Relationships/Important people",
-          "logic": "contains"
-        }
-      ]
+      "rules": []
     },
     "diamond": {
       "combinationLogic": "AND",
       "index": 3,
-      "rules": [
-        {
-          "source": "folder",
-          "property": "",
-          "value": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council",
-          "logic": "contains"
-        }
-      ]
+      "rules": []
     },
     "pentagon": {
       "combinationLogic": "AND",
       "index": 4,
-      "rules": [
-        {
-          "source": "folder",
-          "property": "",
-          "value": "Scarlet King/Scarlet King Relationships/SCP Relations",
-          "logic": "contains"
-        }
-      ]
+      "rules": []
     },
     "hexagon": {
       "combinationLogic": "AND",
@@ -453,13 +273,13 @@
       "rules": []
     }
   },
-  "fadeOnDisable": true,
-  "focusScaleFactor": 2,
+  "fadeOnDisable": false,
+  "focusScaleFactor": 1.8,
   "borderUnresolved": "",
-  "spreadArcs": true,
-  "weightArcs": true,
-  "animateDotsOnLinks": true,
-  "animationSpeedForDots": 0.2,
+  "spreadArcs": false,
+  "weightArcs": false,
+  "animateDotsOnLinks": false,
+  "animationSpeedForDots": 1,
   "allowMultipleLinkTypes": false,
   "disableSource": false,
   "disableTarget": false,
@@ -481,10 +301,10 @@
   "showOnlyFileName": false,
   "noExtension": false,
   "usePropertiesForName": [],
-  "addBackgroundToName": true,
+  "addBackgroundToName": false,
   "nameVerticalOffset": 0,
   "dynamicVerticalOffset": false,
-  "showNamesWhenNeighborHighlighted": true,
+  "showNamesWhenNeighborHighlighted": false,
   "iconProperties": [
     ""
   ],
@@ -493,27 +313,10 @@
   "useParentIcon": false,
   "horizontalLegend": false,
   "useRadialMenu": false,
-  "collapseState": false,
+  "collapseState": true,
   "collapseLegend": true,
   "resetAfterChanges": false,
-  "collapsedSettings": {
-    "automation": false,
-    "tags": true,
-    "properties": false,
-    "links": true,
-    "arrows": true,
-    "folders": true,
-    "images": true,
-    "icons": true,
-    "focus": true,
-    "shapes": true,
-    "elements-stats": true,
-    "names": true,
-    "zoom": false,
-    "display": true,
-    "performances": false,
-    "beta": false
-  },
+  "collapsedSettings": {},
   "exportSVGOptions": {
     "asImage": true,
     "onlyVisibleArea": false,
