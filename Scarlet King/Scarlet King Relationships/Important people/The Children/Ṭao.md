@@ -1,0 +1,1 @@
+Meaning 'A Human Sacrifice' in the [[Old Daevite Language]]

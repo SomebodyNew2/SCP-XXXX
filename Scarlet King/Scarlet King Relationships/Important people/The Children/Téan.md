@@ -1,0 +1,1 @@
+Meaning 'head' in the [[Old Daevite Language]]. Which in turn references a 'leader' figure.

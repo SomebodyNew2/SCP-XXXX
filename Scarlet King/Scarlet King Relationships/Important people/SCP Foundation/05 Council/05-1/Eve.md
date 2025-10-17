@@ -1,3 +1,7 @@
+---
+tags:
+  - linker-exclude
+---
 #05-1
 Dislikes [[The Founder]]. 
 	1. Possibly the successor of The Founder

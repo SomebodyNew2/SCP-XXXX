@@ -1,0 +1,1 @@
+[[7547-1]] had mentions that [[Jeffery Smith]] lived with his girlfriend, Samantha Hope. Their neighbors would often complain of the couple’s frequent shouting arguments, dominated by Jeffery's voice. With this in mind it should be obvious, but that doesn’t explain that call.

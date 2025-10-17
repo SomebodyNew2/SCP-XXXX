@@ -1,0 +1,1 @@
+Supposedly a a cultist apart of [[The Children]] with confidence issues (according to a tale by the name of [[Ring Ring Ring Ring Ring Ring Ring...]]).
