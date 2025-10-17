@@ -1,0 +1,1 @@
+A premillenialist that created [[SCP-616]] who accidentally opened a portal to the [[Scarlet King's Army]].

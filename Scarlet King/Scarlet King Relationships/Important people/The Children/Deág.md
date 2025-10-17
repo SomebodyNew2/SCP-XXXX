@@ -1,0 +1,1 @@
+Meaning 'soldier' in the [[Old Daevite Language]].

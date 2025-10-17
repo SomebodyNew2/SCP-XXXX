@@ -1,0 +1,1 @@
+Meaning 'stone' in the [[Old Daevite Language]].

@@ -88,91 +88,21 @@
             }
           },
           {
-            "id": "f6f586469a6c8144",
+            "id": "5efc16f8eebbfc38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Archivist Prime.md",
+                "file": "Scarlet King/Scarlet King Relationships/Important people/Black Queen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Archivist Prime"
-            }
-          },
-          {
-            "id": "58045954dce01181",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Tracy Lament.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tracy Lament"
-            }
-          },
-          {
-            "id": "1b318c1ff56777b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/Important people/Samantha Hope.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Samantha Hope"
-            }
-          },
-          {
-            "id": "e0777ef7e0aea869",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7547.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCP-7547"
-            }
-          },
-          {
-            "id": "b778f28b55e1184e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old Daevite Language.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Old Daevite Language"
-            }
-          },
-          {
-            "id": "8d141647ff105418",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7399.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SCP-7399"
+              "title": "Black Queen"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -204,7 +134,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#thaumaturge",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -293,39 +223,40 @@
             }
           },
           {
-            "id": "2e9bf02acf2f3546",
+            "id": "de06f3f74f095076",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scarlet King/Scarlet King Relationships/Important people/Black Queen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Black Queen"
+            }
+          },
+          {
+            "id": "db20bb72033a3069",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7547.md",
+                "file": "Scarlet King/Scarlet King Relationships/Important people/Black Queen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for SCP-7547"
-            }
-          },
-          {
-            "id": "de06f3f74f095076",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              "icon": "links-coming-in",
+              "title": "Backlinks for Black Queen"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -343,45 +274,45 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2e9bf02acf2f3546",
+  "active": "5efc16f8eebbfc38",
   "lastOpenFiles": [
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/Blue Hills Correctional Facility.md",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7547.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Father Leonardo Sicarie.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Black Queen.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Francis.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Mr. Huang.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Lucian Greaves.md",
     "Scarlet King/Scarlet King Relationships/Important people/Jeffery Smith.md",
     "Scarlet King/Scarlet King Relationships/Important people/Samantha Hope.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Sophia Light.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Gardener.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Tracy Lament.md",
-    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Archivist Prime.md",
-    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/RAISA/Recordkeeping and Information Security Administration.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Way/The Way.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Agents/Troy Lament.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Sam.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Tales/John Baldwin.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Tales/Calvin MCcall.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Tales",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/David Nicholson.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-616.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Agents/David.md",
+    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-019-J.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Deág.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Dipesh Spivak.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Doctors/Dr. Bright.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Donny Armstrong.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jokes/Dr. Steve.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jokes/Dr. Elena Jackson.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Jokes",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Durham.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Edith Godwinson.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Edward Day.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Site Director's/Eriksson.md",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Site Director's",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Everett Mann.md",
+    "Scarlet King/Scarlet King Relationships/Important people/The Children/Everett the March Hare.md",
+    "Scarlet King/Scarlet King Relationships/Important people/Marshal",
+    "Scarlet King/Scarlet King Relationships/Placeholder",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-7/The Immortal",
+    "Scarlet King/Scarlet King Relationships/Important people/Dr. Wondertainment",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-11/The Reclusive",
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Archivist 05-10",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Way",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Agents",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/The Way/Stefan.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-2/05-2.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Children/Ṭao.md",
-    "Old Daevite Language.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Children/Téan.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Veteran, or the Mad General/Thomas Stonewall Jackson.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-10/The Veteran, or the Mad General",
-    "Scarlet King/Scarlet King Relationships/SCP Relations/SCP-7399.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/SCP Foundation Sites/Site-333 - Atlantic City.md",
-    "Scarlet King/Scarlet King Relationships/Important people/The Children/Victor Villanueva.md",
-    "Scarlet King/Scarlet King Relationships/Tale relations/Ring Ring Ring Ring Ring Ring Ring....md",
-    "Scarlet King/Scarlet King Relationships/Important people/Calvin MCcall.md",
-    "Scarlet King/Scarlet King Relationships/Important people/John Baldwin.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/Vincent Bohart.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/America/Atlantic City/Atlantic City.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/America/Atlantic City/Nexus-36.md",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/America/Atlantic City",
-    "Scarlet King/Scarlet King Relationships/Key Locations + Events/Locations/America",
-    "SCP-XXXX/Tale",
-    "SCP-XXXX/Mythos",
-    "SCP-XXXX/Improvements",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Image of Shirley Chisholm.png",
-    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms",
-    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 3",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Mr. Huang's conversation to 05-12.png.png",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/Captain Kirby's proposal/Letters and Excerpts/Letter from The Administrator.png"
   ]
