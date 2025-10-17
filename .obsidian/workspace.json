@@ -114,8 +114,19 @@
               "icon": "lucide-file",
               "title": "Recordkeeping and Information Security Administration"
             }
+          },
+          {
+            "id": "55ec189828ced9b9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -172,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "10cb3b102e627751",
@@ -271,8 +282,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "24db13a64f7b0281",
+  "active": "55ec189828ced9b9",
   "lastOpenFiles": [
+    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/05-5/The Entrepreneur, Or The Treasurer.md",
+    "Scarlet King/Scarlet King Relationships/Faction Relations/SCP Foundation/Departments/RAISA/Recordkeeping and Information Security Administration.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/McDoctorate's Proposal - The Placeholder.md",
+    "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms/Archivist Prime.md",
     "conflict-files-obsidian-git.md",
     "Scarlet King/Scarlet King Relationships/Religion Relations/The Children/Possible Endings/SCP-6140.md",
     "SCP-XXXX/Tale/The Unwritten Directive.md",
@@ -298,10 +313,6 @@
     "Scarlet King/Scarlet King Relationships/Important people/Dr. Bright.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/Kismet.md",
     "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Official'.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Failsafe.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Duke.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The 'Middleman'.md",
-    "Scarlet King/Scarlet King Relationships/Important people/SCP Foundation/05 Council/Administrators/Administrators/The Archaeologist.md",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Image of Shirley Chisholm.png",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Archivist Forms",
     "Scarlet King/Scarlet King Relationships/SCP-001 Relations/McDoctorate's Proposal/Offsets/Offset 3",

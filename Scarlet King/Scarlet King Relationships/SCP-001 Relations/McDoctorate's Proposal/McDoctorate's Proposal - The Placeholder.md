@@ -1,7 +1,7 @@
 
 **Special Containment Procedures:**
 
-**SCP-001 is irrelevant**, and is to be ignored. The Site-01 database is to alert RAISA (AKA [[Recordkeeping and Information Security Administration]] Director [[Maria Jones]] in the event that her credentials are used without her knowledge. Retirement proposals are to be stored elsewhere. **If absolutely necessary**, inquiries regarding this document are to be made to Dir. Jones.
+**SCP-001 is irrelevant**, and is to be ignored. The [[Site-01]] database is to alert RAISA (AKA [[Recordkeeping and Information Security Administration]] Director [[Maria Jones]] in the event that her credentials are used without her knowledge. Retirement proposals are to be stored elsewhere. **If absolutely necessary**, inquiries regarding this document are to be made to Dir. Jones.
 
 **Description:**
 
